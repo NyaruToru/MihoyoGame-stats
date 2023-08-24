@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 25, 2023 06:34 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 25, 2023 06:44 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -773,7 +773,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>5227</b> <code>(rate 69)</code></td>
+    <td align="center"><b>5307</b> <code>(rate 72)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -791,10 +791,10 @@
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>1852</b> <code>(36%)</code><br />Daily Activity: <b>1080</b>
-      <code>(21%)</code><br />Spiral Abyss: <b>900</b> <code>(18%)</code
-      ><br />Mail: <b>650</b> <code>(12%)</code><br />Adventure: <b>509</b>
-      <code>(9%)</code><br />Quests: <b>210</b> <code>(4%)</code><br />Other:
+      Events: <b>1852</b> <code>(35%)</code><br />Daily Activity: <b>1080</b>
+      <code>(21%)</code><br />Spiral Abyss: <b>900</b> <code>(17%)</code
+      ><br />Mail: <b>730</b> <code>(14%)</code><br />Adventure: <b>509</b>
+      <code>(10%)</code><br />Quests: <b>210</b> <code>(3%)</code><br />Other:
       <b>26</b> <code>(0%)</code><br />
     </td>
   </tr>
