@@ -46,7 +46,7 @@ class HsrRes:
             setattr(self, k, v)
 
 def format_date(date: datetime) -> str:
-    tz = pytz.timezone("Asia/Jakarta")
+    tz = pytz.timezone("Asia/Bankkok")
     now = date.now(tz=tz)
     return f"{now.strftime('%b')} {now.strftime('%d')}, {now.strftime('%Y')} {now.strftime('%H:%M %z')}"
 
