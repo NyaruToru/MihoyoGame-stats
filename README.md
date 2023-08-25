@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 26, 2023 01:52 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 26, 2023 02:06 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -10377,6 +10377,13 @@
               <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               Champion's Headgear<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/b8d4973961cadb1856afcbe596b9522e.png"
+                ,
+                height="25"
+              />
+              <code>+8</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Champion's Heavy Gloves<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/90e1cc9e4880b84f882f700bff380f65.png"
                 ,
                 height="25"
@@ -10601,10 +10608,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/6bb2d757ef0e0e164f44123df30a79b3.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/158889388bcba4b3a0555036cf5e3f61.png"
             height="20"
           />
-          The Seriousness of Breakfast
+          Geniuses' Repose
         </h3>
       </th>
     </tr>
@@ -10619,7 +10626,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/6bb2d757ef0e0e164f44123df30a79b3.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/158889388bcba4b3a0555036cf5e3f61.png"
           />
         </p>
       </td>
@@ -10709,15 +10716,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">The Seriousness of Breakfast</td>
+            <td align="center">Geniuses' Repose</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+60</code></td>
+            <td align="center"><code>+50</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>4</code></td>
+            <td align="center"><code>2</code></td>
           </tr>
         </table>
       </td>
@@ -11081,10 +11088,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/158889388bcba4b3a0555036cf5e3f61.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/6bb2d757ef0e0e164f44123df30a79b3.png"
             height="20"
           />
-          Geniuses' Repose
+          The Seriousness of Breakfast
         </h3>
       </th>
     </tr>
@@ -11099,7 +11106,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/158889388bcba4b3a0555036cf5e3f61.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/6bb2d757ef0e0e164f44123df30a79b3.png"
           />
         </p>
       </td>
@@ -11137,28 +11144,28 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+7</code><br />
               ⭐⭐⭐⭐<br />
               Band's Polarized Sunglasses<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/407582395d486ed5c6109645f014425e.png"
                 ,
                 height="25"
               />
-              <code>+8</code><br />
+              <code>+11</code><br />
               ⭐⭐⭐⭐⭐<br />
               Band's Touring Bracelet<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/aed19ab277d5169b64b7002f572fa6b1.png"
                 ,
                 height="25"
               />
-              <code>+8</code><br />
+              <code>+11</code><br />
               ⭐⭐⭐⭐⭐<br />
               Band's Leather Jacket With Studs<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/b9437e5464b1f09fd2a1ac67a12c803f.png"
                 ,
                 height="25"
               />
-              <code>+10</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Band's Ankle Boots With Rivets<br />
             </td>
@@ -11171,14 +11178,14 @@
                 ,
                 height="25"
               />
-              <code>+7</code><br />
+              <code>+9</code><br />
               ⭐⭐⭐⭐<br />
               Herta's Space Station<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/379fa74719b165292685a398715e3b4c.png"
                 ,
                 height="25"
               />
-              <code>+11</code><br />
+              <code>+12</code><br />
               ⭐⭐⭐⭐⭐<br />
               Herta's Wandering Trek<br />
             </td>
@@ -11189,15 +11196,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Geniuses' Repose</td>
+            <td align="center">The Seriousness of Breakfast</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+50</code></td>
+            <td align="center"><code>+60</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>2</code></td>
+            <td align="center"><code>4</code></td>
           </tr>
         </table>
       </td>
