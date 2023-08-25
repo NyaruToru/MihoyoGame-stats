@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 25, 2023 12:10 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 25, 2023 12:25 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -183,7 +183,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>312</b></td>
+    <td align="center"><b>314</b></td>
   </tr>
   <tr>
     <td>
