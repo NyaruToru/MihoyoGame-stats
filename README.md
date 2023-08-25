@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 25, 2023 16:57 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 25, 2023 17:16 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -691,16 +691,16 @@
         height="18"
       />
       <b>Baizhu</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png"
         ,
         height="18"
       />
-      <b>Albedo</b> <code>(9)</code><br />
+      <b>Albedo</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
