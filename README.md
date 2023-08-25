@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 26, 2023 04:15 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 26, 2023 04:25 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9272,15 +9272,63 @@
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td align="center"><b>Traces of Sanctus Medicus Stage 3</b></td>
+    <td align="center"><b>Traces of Sanctus Medicus Stage 4</b></td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>4</b></td>
+    <td align="center"><b>5</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td align="center"><b>9</b></td>
+    <td align="center"><b>12</b></td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center">Traces of Sanctus Medicus Stage 4</td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center">3 Stars</td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center">8</td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/68b61111051b08d7f09a7e889436d70f.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/fdb559ade5f08215dcd291a30fbaa979.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/7c6bcce1cbc02ed22fcb4582609b3354.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/a89c0bf9d0b84ef262a14be259b226c4.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/fb896647e10c36c30ece3f0d47a8e585.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/94df3fa19617caf9d70d5dc7f6639127.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/8138e8e559335ca2600f4a94359d4b9f.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/ca666ed15745a5530605a9736b33e443.png"
+        height="18"
+      />
+    </td>
   </tr>
   <tr>
     <td>Name</td>
