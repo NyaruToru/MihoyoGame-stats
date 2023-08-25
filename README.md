@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 25, 2023 10:00 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 25, 2023 10:18 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -773,7 +773,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>5307</b> <code>(rate 72)</code></td>
+    <td align="center"><b>5367</b> <code>(rate 74)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -784,17 +784,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4448721</b> <code>(rate 98)</code></td>
+    <td align="center"><b>4504208</b> <code>(rate 101)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>1852</b> <code>(35%)</code><br />Daily Activity: <b>1080</b>
-      <code>(21%)</code><br />Spiral Abyss: <b>900</b> <code>(17%)</code
+      Events: <b>1852</b> <code>(35%)</code><br />Daily Activity: <b>1140</b>
+      <code>(22%)</code><br />Spiral Abyss: <b>900</b> <code>(17%)</code
       ><br />Mail: <b>730</b> <code>(14%)</code><br />Adventure: <b>509</b>
-      <code>(10%)</code><br />Quests: <b>210</b> <code>(3%)</code><br />Other:
+      <code>(9%)</code><br />Quests: <b>210</b> <code>(3%)</code><br />Other:
       <b>26</b> <code>(0%)</code><br />
     </td>
   </tr>
@@ -9195,7 +9195,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>121</b></td>
+    <td><b>122</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
