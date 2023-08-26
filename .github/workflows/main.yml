@@ -30,11 +30,15 @@ jobs:
       - name: Format with prettier
         run: |
           npx prettier README.md --write --parser html
+      - name: Change Time Zone
+        uses: szenius/set-timezone@v1.2
+        with:
+          timezoneLinux: "Asia/Bangkok"
       - name: Commit and push if changed
         run: |
           git diff
           git config user.name "NyaruToru"
-          git config user.email "nyakori02@gmail.com"
+          git config user.email "rabbit.nyarutoru@gmail.com"
           git add .
           git commit -m "Genshin & StarRail Stats `date +"%D %T"`"
           git push
