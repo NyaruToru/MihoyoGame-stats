@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 26, 2023 16:47 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 26, 2023 16:57 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -10139,8 +10139,8 @@
                 ,
                 height="25"
               />
-              <code>+7</code><br />
-              ⭐⭐⭐⭐<br />
+              <code>+10</code><br />
+              ⭐⭐⭐⭐⭐<br />
               Messenger's Transformative Arm<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/df9d396c6564362ede76133f592ec6d5.png"
                 ,
@@ -10173,7 +10173,7 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+6</code><br />
               ⭐⭐⭐⭐⭐<br />
               Insumousu's Frayed Hawser<br />
             </td>
