@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 26, 2023 08:14 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 26, 2023 08:54 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -681,11 +681,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png"
-        ,
-        height="18"
-      />
-      <b>Albedo</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -696,6 +691,11 @@
         height="18"
       />
       <b>Baizhu</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png"
+        ,
+        height="18"
+      />
+      <b>Albedo</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
@@ -9220,7 +9220,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>9332</b> <code>(rate -31)</code></td>
+    <td align="center"><b>9422</b> <code>(rate -31)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9246,10 +9246,10 @@
       </table>
     </td>
     <td>
-      Daily Activity: <b>3710</b> <code>(39%)</code><br />Event: <b>1330</b>
+      Daily Activity: <b>3800</b> <code>(40%)</code><br />Event: <b>1330</b>
       <code>(14%)</code><br />Simulated Universe: <b>1155</b> <code>(12%)</code
-      ><br />Adventure Rewards: <b>1105</b> <code>(11%)</code><br />Other:
-      <b>682</b> <code>(11%)</code><br />Forgotten Hall: <b>1000</b>
+      ><br />Adventure Rewards: <b>1105</b> <code>(11%)</code><br />Forgotten
+      Hall: <b>1000</b> <code>(10%)</code><br />Other: <b>682</b>
       <code>(10%)</code><br />Mail: <b>350</b> <code>(3%)</code><br />
     </td>
   </tr>
