@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 26, 2023 09:27 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 26, 2023 09:37 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -681,6 +681,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png"
+        ,
+        height="18"
+      />
+      <b>Albedo</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -690,17 +700,7 @@
         ,
         height="18"
       />
-      <b>Baizhu</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png"
-        ,
-        height="18"
-      />
-      <b>Albedo</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(9)</code><br />
+      <b>Baizhu</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
@@ -840,11 +840,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/ac9b66bc86f9fe427b8ededa35764ce6.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/17b198657b37b979625edf4816b4c8d2.png"
             ,
             height="20"
           />
-          Toukabou Shigure
+          Primordial Jade Cutter
         </h3>
       </th>
     </tr>
@@ -861,7 +861,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/ac9b66bc86f9fe427b8ededa35764ce6.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/17b198657b37b979625edf4816b4c8d2.png"
             ,
             height="256"
           />
@@ -952,7 +952,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Toukabou Shigure</td>
+            <td align="center">Primordial Jade Cutter</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -960,19 +960,19 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+1</code></td>
+            <td align="center"><code>+90</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>0</code></td>
+            <td align="center"><code>6</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -1059,7 +1059,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"><code>2</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
           <tr>
             <td>Artifacts<br />1 x Gilded Dreams<br /></td>
@@ -2927,11 +2927,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/17b198657b37b979625edf4816b4c8d2.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/ac9b66bc86f9fe427b8ededa35764ce6.png"
             ,
             height="20"
           />
-          Primordial Jade Cutter
+          Toukabou Shigure
         </h3>
       </th>
     </tr>
@@ -2948,7 +2948,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/17b198657b37b979625edf4816b4c8d2.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/ac9b66bc86f9fe427b8ededa35764ce6.png"
             ,
             height="256"
           />
@@ -3038,7 +3038,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Primordial Jade Cutter</td>
+            <td align="center">Toukabou Shigure</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -3046,19 +3046,19 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+90</code></td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>6</code></td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
