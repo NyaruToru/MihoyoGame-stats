@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 26, 2023 09:14 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 26, 2023 09:27 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -155,7 +155,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>744</b></td>
+    <td align="center"><b>745</b></td>
   </tr>
   <tr>
     <td>
@@ -166,7 +166,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>841</b></td>
+    <td align="center"><b>842</b></td>
   </tr>
   <tr>
     <td>
@@ -183,7 +183,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>314</b></td>
+    <td align="center"><b>322</b></td>
   </tr>
   <tr>
     <td>
@@ -240,14 +240,14 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>1999</b></td>
+    <td align="center"><b>2000</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>1320</b></td>
+    <td align="center"><b>1323</b></td>
   </tr>
   <tr>
     <td>
@@ -274,7 +274,7 @@
     <td>
       <img src="./images/logo/domain.webp" , height="18" /> Domains Unlocked
     </td>
-    <td align="center"><b>52</b></td>
+    <td align="center"><b>53</b></td>
   </tr>
   <tr>
     <td>
@@ -443,7 +443,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/3/" width="80" />
+            <img src="https://progress-bar.dev/4/" width="80" />
           </td>
         </tr>
         <tr>
