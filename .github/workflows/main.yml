@@ -22,6 +22,10 @@ jobs:
         run: |
           pip install git+https://github.com/thesadru/genshin.py
           pip install -r requirements.txt
+      - name: Change Time Zone
+        uses: szenius/set-timezone@v1.2
+        with:
+          timezoneLinux: "Asia/Bangkok"
       - name: Run main.py
         env:
           COOKIES: ${{ secrets.COOKIES }}
@@ -30,10 +34,6 @@ jobs:
       - name: Format with prettier
         run: |
           npx prettier README.md --write --parser html
-      - name: Change Time Zone
-        uses: szenius/set-timezone@v1.2
-        with:
-          timezoneLinux: "Asia/Bangkok"
       - name: Commit and push if changed
         run: |
           git diff
