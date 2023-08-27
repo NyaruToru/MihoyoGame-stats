@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 27, 2023 18:56 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 27, 2023 19:26 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9987,7 +9987,7 @@
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+8</code><br />
               ⭐⭐⭐⭐⭐<br />
               Genius's Ultraremote Sensing Visor<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/04a81141709c3a5ac7b082fa4ac1c4f1.png"
@@ -10017,20 +10017,20 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/0952e1e952838db26cfa33a40429115c.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/ab7802a535e213c72b332c8891e410df.png"
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+6</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Planet Screwllum's Mechanical Sun<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/8d113fe22dd2318ef5e6e83dacdb8504.png"
+              Herta's Space Station<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/379fa74719b165292685a398715e3b4c.png"
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+13</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Planet Screwllum's Ring System<br />
+              Herta's Wandering Trek<br />
             </td>
           </tr>
         </table>
@@ -10047,7 +10047,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>2</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
         </table>
       </td>
@@ -10173,7 +10173,7 @@
                 ,
                 height="25"
               />
-              <code>+6</code><br />
+              <code>+13</code><br />
               ⭐⭐⭐⭐⭐<br />
               Insumousu's Frayed Hawser<br />
             </td>
