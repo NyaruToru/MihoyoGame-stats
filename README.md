@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 27, 2023 18:03 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 27, 2023 18:15 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -686,11 +686,6 @@
         height="18"
       />
       <b>Baizhu</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      <b>Kaedehara Kazuha</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
@@ -700,7 +695,12 @@
         ,
         height="18"
       />
-      <b>Albedo</b> <code>(9)</code><br />
+      <b>Albedo</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      <b>Kaedehara Kazuha</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
