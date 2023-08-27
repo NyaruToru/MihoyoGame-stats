@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 27, 2023 23:42 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 27, 2023 23:52 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9987,7 +9987,7 @@
                 ,
                 height="25"
               />
-              <code>+8</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Genius's Ultraremote Sensing Visor<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/04a81141709c3a5ac7b082fa4ac1c4f1.png"
@@ -10008,7 +10008,7 @@
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+4</code><br />
               ⭐⭐⭐⭐⭐<br />
               Genius's Gravity Walker<br />
             </td>
@@ -10017,20 +10017,20 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/ab7802a535e213c72b332c8891e410df.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/0952e1e952838db26cfa33a40429115c.png"
                 ,
                 height="25"
               />
-              <code>+6</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Herta's Space Station<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/379fa74719b165292685a398715e3b4c.png"
+              Planet Screwllum's Mechanical Sun<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/8d113fe22dd2318ef5e6e83dacdb8504.png"
                 ,
                 height="25"
               />
-              <code>+13</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Herta's Wandering Trek<br />
+              Planet Screwllum's Ring System<br />
             </td>
           </tr>
         </table>
