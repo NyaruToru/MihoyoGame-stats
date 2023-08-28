@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 28, 2023 22:51 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 28, 2023 23:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -686,11 +686,6 @@
         height="18"
       />
       <b>Albedo</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      <b>Kaedehara Kazuha</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
@@ -700,7 +695,12 @@
         ,
         height="18"
       />
-      <b>Zhongli</b> <code>(9)</code><br />
+      <b>Zhongli</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      <b>Kaedehara Kazuha</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
@@ -9162,22 +9162,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>4</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>5</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/4aa31979af47b9f4dab8d5627f5fa8ed_1292021808517312921.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Canned Soda</b>
+      <b>20 x Stellar Jade</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-08-28 00:20:32+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-08-29 00:07:06+08:00</b></td>
   </tr>
 </table>
 
