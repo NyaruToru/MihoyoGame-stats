@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 28, 2023 15:00 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 28, 2023 15:24 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9246,11 +9246,11 @@
       </table>
     </td>
     <td>
-      Daily Activity: <b>4100</b> <code>(42%)</code><br />Event: <b>1330</b>
-      <code>(13%)</code><br />Adventure Rewards: <b>1105</b> <code>(11%)</code
-      ><br />Simulated Universe: <b>1155</b> <code>(11%)</code><br />Forgotten
-      Hall: <b>1000</b> <code>(10%)</code><br />Other: <b>682</b>
-      <code>(10%)</code><br />Mail: <b>350</b> <code>(3%)</code><br />
+      Daily Activity: <b>4100</b> <code>(42%)</code><br />Adventure Rewards:
+      <b>2395</b> <code>(24%)</code><br />Simulated Universe: <b>1155</b>
+      <code>(11%)</code><br />Forgotten Hall: <b>1000</b> <code>(10%)</code
+      ><br />Other: <b>682</b> <code>(10%)</code><br />Mail: <b>350</b>
+      <code>(3%)</code><br />Event: <b>40</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
