@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 28, 2023 11:16 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 28, 2023 11:29 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -12027,7 +12027,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>0</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
           <tr>
             <td>Relics</td>
