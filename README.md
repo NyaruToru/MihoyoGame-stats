@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 29, 2023 21:39 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 29, 2023 21:50 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -681,21 +681,21 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Baizhuer.png"
-        ,
-        height="18"
-      />
-      <b>Baizhu</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      <b>Kaedehara Kazuha</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png"
         ,
         height="18"
       />
       <b>Albedo</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      <b>Kaedehara Kazuha</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Baizhuer.png"
+        ,
+        height="18"
+      />
+      <b>Baizhu</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
@@ -1145,11 +1145,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/79b24d2c58322596a125a5150eebc1da.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/4c68639872eb0030f9f0d9f15aeca11f.png"
             ,
             height="20"
           />
-          Favonius Lance
+          Deathmatch
         </h3>
       </th>
     </tr>
@@ -1166,7 +1166,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/79b24d2c58322596a125a5150eebc1da.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/4c68639872eb0030f9f0d9f15aeca11f.png"
             ,
             height="256"
           />
@@ -1257,7 +1257,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Favonius Lance</td>
+            <td align="center">Deathmatch</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -1269,15 +1269,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+90</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>6</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>4</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
         </table>
       </td>
@@ -1468,11 +1468,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/4c68639872eb0030f9f0d9f15aeca11f.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/79b24d2c58322596a125a5150eebc1da.png"
             ,
             height="20"
           />
-          Deathmatch
+          Favonius Lance
         </h3>
       </th>
     </tr>
@@ -1489,7 +1489,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/4c68639872eb0030f9f0d9f15aeca11f.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/79b24d2c58322596a125a5150eebc1da.png"
             ,
             height="256"
           />
@@ -1580,7 +1580,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Deathmatch</td>
+            <td align="center">Favonius Lance</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -1592,15 +1592,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+90</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>6</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>3</code></td>
+            <td align="center"><code>4</code></td>
           </tr>
         </table>
       </td>
@@ -3797,7 +3797,7 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />3 x Emblem of Severed Fate<br />1 x Flower of
+              Artifacts<br />1 x Emblem of Severed Fate<br />1 x Flower of
               Paradise Lost<br />1 x Husk of Opulent Dreams<br />
             </td>
             <td align="center">
@@ -3809,20 +3809,6 @@
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
               Magnificent Tsuba<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/b46bb5c5399de10ccae1de9070007f14.png"
-                ,
-                height="25"
-              />
-              <code>+20</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Sundered Feather<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/4e0bbf925c4e36b5fbdf68a3490b71de.png"
-                ,
-                height="25"
-              />
-              <code>+20</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Storm Cage<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/4e15cbbdb15471065b93057d529e7b26.png"
                 ,
                 height="25"
@@ -3959,7 +3945,7 @@
             <td align="center"><code>5</code></td>
           </tr>
           <tr>
-            <td>Artifacts<br />5 x Noblesse Oblige<br /></td>
+            <td>Artifacts<br />4 x Noblesse Oblige<br /></td>
             <td align="center">
               <img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/01416c471cb20d257559287ba73473cd.png"
@@ -3983,13 +3969,6 @@
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
               Royal Pocket Watch<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/94fe9c0f9ba41cccb9b9fdccf5fe43f2.png"
-                ,
-                height="25"
-              />
-              <code>+20</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Royal Silver Urn<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/104fde685bbe4271de73e44f0da00ec0.png"
                 ,
                 height="25"
@@ -5184,7 +5163,7 @@
           <tr>
             <td>
               Artifacts<br />1 x Gilded Dreams<br />2 x Wanderer's Troupe<br />1
-              x Noblesse Oblige<br />1 x Emblem of Severed Fate<br />
+              x Noblesse Oblige<br />
             </td>
             <td align="center">
               <img
@@ -5215,14 +5194,7 @@
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Royal Silver Urn<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/b1333f3aea6dac4db24f19a7bc25b67a.png"
-                ,
-                height="25"
-              />
-              <code>+20</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Ornate Kabuto<br />
+              Royal Silver Urn<br />
             </td>
           </tr>
           <tr>
@@ -6467,11 +6439,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/e366f671fbb11e1951983b4562bde2e5.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/4b2ebfdee75821304237ec561307a120.png"
             ,
             height="20"
           />
-          Katsuragikiri Nagamasa
+          Skyward Pride
         </h3>
       </th>
     </tr>
@@ -6488,7 +6460,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/e366f671fbb11e1951983b4562bde2e5.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/4b2ebfdee75821304237ec561307a120.png"
             ,
             height="256"
           />
@@ -6526,16 +6498,47 @@
             <td align="center"><code>6</code></td>
           </tr>
           <tr>
-            <td>Artifacts<br />1 x Blizzard Strayer<br /></td>
+            <td>
+              Artifacts<br />4 x Emblem of Severed Fate<br />1 x Noblesse
+              Oblige<br />
+            </td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/5235f92508d9b246ea95d3ba2a0d1c95.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/7378ca4ce04975eed9c26c9e812a4f9c.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Snowswept Memory<br />
+              Magnificent Tsuba<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/b46bb5c5399de10ccae1de9070007f14.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Sundered Feather<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/4e0bbf925c4e36b5fbdf68a3490b71de.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Storm Cage<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/94fe9c0f9ba41cccb9b9fdccf5fe43f2.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Royal Silver Urn<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/b1333f3aea6dac4db24f19a7bc25b67a.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Ornate Kabuto<br />
             </td>
           </tr>
           <tr>
@@ -6548,7 +6551,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Katsuragikiri Nagamasa</td>
+            <td align="center">Skyward Pride</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -6556,15 +6559,15 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+50</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>2</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
