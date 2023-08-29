@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 29, 2023 23:38 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 29, 2023 23:48 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -155,7 +155,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>746</b></td>
+    <td align="center"><b>747</b></td>
   </tr>
   <tr>
     <td>
@@ -240,7 +240,7 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>2000</b></td>
+    <td align="center"><b>2004</b></td>
   </tr>
   <tr>
     <td>
@@ -261,7 +261,7 @@
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center"><b>150</b></td>
+    <td align="center"><b>151</b></td>
   </tr>
   <tr>
     <td>
@@ -773,7 +773,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>5713</b> <code>(rate 85)</code></td>
+    <td align="center"><b>5723</b> <code>(rate 86)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -784,14 +784,14 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4691422</b> <code>(rate 109)</code></td>
+    <td align="center"><b>4700662</b> <code>(rate 110)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>2052</b> <code>(36%)</code><br />Daily Activity: <b>1200</b>
+      Events: <b>2052</b> <code>(36%)</code><br />Daily Activity: <b>1210</b>
       <code>(22%)</code><br />Spiral Abyss: <b>900</b> <code>(16%)</code
       ><br />Mail: <b>730</b> <code>(13%)</code><br />Adventure: <b>586</b>
       <code>(10%)</code><br />Quests: <b>210</b> <code>(3%)</code><br />Other:
