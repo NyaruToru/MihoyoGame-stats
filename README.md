@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 29, 2023 12:28 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 29, 2023 12:39 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9203,7 +9203,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>263</b></td>
+    <td><b>264</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -9711,14 +9711,14 @@
                 ,
                 height="25"
               />
-              <code>+10</code><br />
+              <code>+13</code><br />
               ⭐⭐⭐⭐⭐<br />
               Musketeer's Wind-Hunting Shawl<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/a0671ef7ecfe81b1da0a557784597b27.png"
                 ,
                 height="25"
               />
-              <code>+13</code><br />
+              <code>+14</code><br />
               ⭐⭐⭐⭐⭐<br />
               Musketeer's Rivets Riding Boots<br />
             </td>
@@ -9738,7 +9738,7 @@
                 ,
                 height="25"
               />
-              <code>+12</code><br />
+              <code>+14</code><br />
               ⭐⭐⭐⭐⭐<br />
               Herta's Wandering Trek<br />
             </td>
@@ -10008,7 +10008,7 @@
                 ,
                 height="25"
               />
-              <code>+4</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Genius's Gravity Walker<br />
             </td>
@@ -10708,13 +10708,13 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/297d7c2b0070683de82b560969f847e2.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/7ab21fd18da16570d6d07b1c07a2a637.png"
                 ,
                 height="25"
               />
-              <code>+8</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Musketeer's Wild Wheat Felt Hat<br /><img
+              Firesmith's Obsidian Goggles<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/528d382c6b1608cd6a8f2a4db63fe031.png"
                 ,
                 height="25"
@@ -10726,16 +10726,16 @@
                 ,
                 height="25"
               />
-              <code>+12</code><br />
+              <code>+13</code><br />
               ⭐⭐⭐⭐⭐<br />
               Musketeer's Wind-Hunting Shawl<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/24fca35c68c4679cbdf7fb87faaeb936.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/a0671ef7ecfe81b1da0a557784597b27.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+11</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Firesmith's Alloy Leg<br />
+              Musketeer's Rivets Riding Boots<br />
             </td>
           </tr>
           <tr>
@@ -10753,7 +10753,7 @@
                 ,
                 height="25"
               />
-              <code>+8</code><br />
+              <code>+10</code><br />
               ⭐⭐⭐⭐⭐<br />
               Salsotto's Terminator Line<br />
             </td>
@@ -11358,7 +11358,7 @@
                 ,
                 height="25"
               />
-              <code>+11</code><br />
+              <code>+8</code><br />
               ⭐⭐⭐⭐⭐<br />
               Musketeer's Rivets Riding Boots<br />
             </td>
