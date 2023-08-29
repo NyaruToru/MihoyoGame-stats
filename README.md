@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 29, 2023 14:55 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 29, 2023 15:17 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -155,7 +155,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>745</b></td>
+    <td align="center"><b>746</b></td>
   </tr>
   <tr>
     <td>
@@ -166,7 +166,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>843</b></td>
+    <td align="center"><b>844</b></td>
   </tr>
   <tr>
     <td>
@@ -681,26 +681,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      <b>Kaedehara Kazuha</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
       />
       <b>Baizhu</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png"
+        ,
+        height="18"
+      />
+      <b>Albedo</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       <b>Zhongli</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      <b>Albedo</b> <code>(9)</code><br />
+      <b>Kaedehara Kazuha</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
