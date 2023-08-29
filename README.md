@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 29, 2023 15:52 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 29, 2023 16:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9271,15 +9271,60 @@
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td align="center"><b>Traces of Sanctus Medicus Stage 4</b></td>
+    <td align="center"><b>Traces of Sanctus Medicus Stage 5</b></td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>5</b></td>
+    <td align="center"><b>8</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td align="center"><b>12</b></td>
+    <td align="center"><b>15</b></td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center">Traces of Sanctus Medicus Stage 5</td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center">3 Stars</td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center">9</td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/fb896647e10c36c30ece3f0d47a8e585.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/ca666ed15745a5530605a9736b33e443.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/a89c0bf9d0b84ef262a14be259b226c4.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/94df3fa19617caf9d70d5dc7f6639127.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/fdb559ade5f08215dcd291a30fbaa979.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/7c6bcce1cbc02ed22fcb4582609b3354.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/59855c1f0b95319eacc0a6e4cb66b7a2.png"
+        height="18"
+      />
+    </td>
   </tr>
   <tr>
     <td>Name</td>
