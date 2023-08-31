@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 31, 2023 20:42 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 31, 2023 20:53 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -681,26 +681,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      <b>Kaedehara Kazuha</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png"
         ,
         height="18"
       />
       <b>Albedo</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      <b>Zhongli</b> <code>(9)</code><br /><img
+      <b>Kaedehara Kazuha</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
       />
-      <b>Baizhu</b> <code>(9)</code><br />
+      <b>Baizhu</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
@@ -9222,7 +9222,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>11262</b> <code>(rate -17)</code></td>
+    <td align="center"><b>11307</b> <code>(rate -17)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9248,8 +9248,8 @@
       </table>
     </td>
     <td>
-      Daily Activity: <b>4570</b> <code>(40%)</code><br />Adventure Rewards:
-      <b>2430</b> <code>(21%)</code><br />Simulated Universe: <b>1380</b>
+      Daily Activity: <b>4610</b> <code>(40%)</code><br />Adventure Rewards:
+      <b>2435</b> <code>(21%)</code><br />Simulated Universe: <b>1380</b>
       <code>(12%)</code><br />Forgotten Hall: <b>1060</b> <code>(9%)</code
       ><br />Mail: <b>1080</b> <code>(9%)</code><br />Other: <b>682</b>
       <code>(9%)</code><br />Event: <b>60</b> <code>(0%)</code><br />
