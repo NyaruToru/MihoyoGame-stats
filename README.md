@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 31, 2023 12:19 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 31, 2023 12:30 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9278,7 +9278,7 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>16</b></td>
+    <td align="center"><b>18</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
