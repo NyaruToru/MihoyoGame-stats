@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 31, 2023 11:15 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 31, 2023 11:29 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9278,7 +9278,7 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>8</b></td>
+    <td align="center"><b>16</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
@@ -11428,7 +11428,57 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td align="center"></td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/2dd35524e2ce000f34948956b73aa5d6.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Passerby's Rejuvenated Wooden Hairstick<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/fef27ce593e5d3e0fa51b7674993f7c8.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Passerby's Roaming Dragon Bracer<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/55171f780f511554814148023989c540.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Passerby's Ragged Embroided Coat<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/a1e3d6e83a2b3df392bf5c8bf2542527.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Passerby's Stygian Hiking Boots<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Planar</td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/5695129dfa98949e7cf21435fcce6ff9.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              The Xianzhou Luofu's Celestial Ark<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/8b0c14d906edec8c233f914d10ff4f06.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              The Xianzhou Luofu's Ambrosial Arbor Vines<br />
+            </td>
           </tr>
         </table>
       </td>
@@ -11674,7 +11724,7 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+4</code><br />
               ⭐⭐⭐⭐⭐<br />
               Knight's Forgiving Casque<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/85b88fd5138fb38d929c05b3cd05571d.png"
@@ -11688,14 +11738,14 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+8</code><br />
               ⭐⭐⭐⭐⭐<br />
               Knight's Solemn Breastplate<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/5cc98bacad9991c89bb3daadffb6afd0.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+8</code><br />
               ⭐⭐⭐⭐⭐<br />
               Knight's Iron Boots of Order<br />
             </td>
@@ -11715,7 +11765,7 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+14</code><br />
               ⭐⭐⭐⭐⭐<br />
               Belobog's Iron Defense<br />
             </td>
@@ -11970,7 +12020,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+1</code></td>
+            <td align="center"><code>+20</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
