@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 31, 2023 14:37 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 31, 2023 14:48 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -155,7 +155,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>747</b></td>
+    <td align="center"><b>748</b></td>
   </tr>
   <tr>
     <td>
@@ -183,7 +183,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>326</b></td>
+    <td align="center"><b>329</b></td>
   </tr>
   <tr>
     <td>
@@ -233,7 +233,7 @@
       />
       Hydroculus
     </td>
-    <td align="center"><b>2</b></td>
+    <td align="center"><b>3</b></td>
   </tr>
   <tr>
     <td>
@@ -247,7 +247,7 @@
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>1324</b></td>
+    <td align="center"><b>1326</b></td>
   </tr>
   <tr>
     <td>
@@ -261,7 +261,7 @@
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center"><b>151</b></td>
+    <td align="center"><b>152</b></td>
   </tr>
   <tr>
     <td>
@@ -443,7 +443,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/4/" width="80" />
+            <img src="https://progress-bar.dev/5/" width="80" />
           </td>
         </tr>
         <tr>
@@ -610,7 +610,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>1013</code></td>
+    <td align="center"><code>1014</code></td>
   </tr>
   <tr>
     <td>
