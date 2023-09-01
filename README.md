@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 01, 2023 17:49 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 01, 2023 17:59 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -10476,7 +10476,7 @@
                 ,
                 height="25"
               />
-              <code>+8</code><br />
+              <code>+9</code><br />
               ⭐⭐⭐⭐⭐<br />
               Champion's Heavy Gloves<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/4d5066e87159d6ea754e855c657d3f91.png"
