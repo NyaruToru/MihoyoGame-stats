@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 02, 2023 00:38 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 02, 2023 00:49 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -247,7 +247,7 @@
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>1326</b></td>
+    <td align="center"><b>1327</b></td>
   </tr>
   <tr>
     <td>
