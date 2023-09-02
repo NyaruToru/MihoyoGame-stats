@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 03, 2023 01:03 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 03, 2023 01:22 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -155,7 +155,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>748</b></td>
+    <td align="center"><b>749</b></td>
   </tr>
   <tr>
     <td>
@@ -166,7 +166,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>846</b></td>
+    <td align="center"><b>847</b></td>
   </tr>
   <tr>
     <td>
@@ -183,7 +183,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>329</b></td>
+    <td align="center"><b>330</b></td>
   </tr>
   <tr>
     <td>
@@ -443,7 +443,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/5/" width="80" />
+            <img src="https://progress-bar.dev/6/" width="80" />
           </td>
         </tr>
         <tr>
