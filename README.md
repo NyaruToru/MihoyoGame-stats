@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 02, 2023 14:36 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 02, 2023 14:46 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -10703,10 +10703,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/f5b71c893d0c629b2a3310fd648046a3.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/a04631221a42d00a0929a6aec19dd874.png"
             height="20"
           />
-          Geniuses' Repose
+          The Seriousness of Breakfast
         </h3>
       </th>
     </tr>
@@ -10721,7 +10721,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/f5b71c893d0c629b2a3310fd648046a3.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/a04631221a42d00a0929a6aec19dd874.png"
           />
         </p>
       </td>
@@ -10759,7 +10759,7 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+10</code><br />
               ⭐⭐⭐⭐⭐<br />
               Firesmith's Obsidian Goggles<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/516e8270f1100d5f34f17b6f171a7980.png"
@@ -10811,15 +10811,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Geniuses' Repose</td>
+            <td align="center">The Seriousness of Breakfast</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+50</code></td>
+            <td align="center"><code>+60</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>2</code></td>
+            <td align="center"><code>4</code></td>
           </tr>
         </table>
       </td>
@@ -10993,10 +10993,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/a04631221a42d00a0929a6aec19dd874.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/f5b71c893d0c629b2a3310fd648046a3.png"
             height="20"
           />
-          The Seriousness of Breakfast
+          Geniuses' Repose
         </h3>
       </th>
     </tr>
@@ -11011,7 +11011,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/a04631221a42d00a0929a6aec19dd874.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/f5b71c893d0c629b2a3310fd648046a3.png"
           />
         </p>
       </td>
@@ -11101,15 +11101,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">The Seriousness of Breakfast</td>
+            <td align="center">Geniuses' Repose</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+60</code></td>
+            <td align="center"><code>+50</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>4</code></td>
+            <td align="center"><code>2</code></td>
           </tr>
         </table>
       </td>
