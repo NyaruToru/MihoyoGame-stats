@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 03, 2023 00:50 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 03, 2023 01:03 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9765,7 +9765,7 @@
                 ,
                 height="25"
               />
-              <code>+14</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               Musketeer's Rivets Riding Boots<br />
             </td>
@@ -9778,8 +9778,8 @@
                 ,
                 height="25"
               />
-              <code>+12</code><br />
-              ⭐⭐⭐⭐<br />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
               Herta's Space Station<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/7c43316db39f3f2404c4d3ec48da3895.png"
                 ,
@@ -12089,7 +12089,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>4</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
           <tr>
             <td>Relics</td>
