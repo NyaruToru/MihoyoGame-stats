@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 03, 2023 10:31 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 03, 2023 10:42 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9232,7 +9232,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>1</b> <code>(rate -96)</code></td>
+    <td align="center"><b>2</b> <code>(rate -92)</code></td>
   </tr>
   <tr>
     <td align="center">
