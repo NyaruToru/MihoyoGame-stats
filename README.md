@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 04, 2023 23:36 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 04, 2023 23:47 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -166,7 +166,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>848</b></td>
+    <td align="center"><b>849</b></td>
   </tr>
   <tr>
     <td>
@@ -183,7 +183,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>330</b></td>
+    <td align="center"><b>332</b></td>
   </tr>
   <tr>
     <td>
@@ -254,7 +254,7 @@
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>382</b></td>
+    <td align="center"><b>383</b></td>
   </tr>
   <tr>
     <td>
