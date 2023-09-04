@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 05, 2023 01:41 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 05, 2023 01:51 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -773,7 +773,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>80</b> <code>(rate -98)</code></td>
+    <td align="center"><b>160</b> <code>(rate -97)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -784,15 +784,15 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>66482</b> <code>(rate -98)</code></td>
+    <td align="center"><b>152839</b> <code>(rate -97)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Daily Activity: <b>70</b> <code>(88%)</code><br />Adventure: <b>10</b>
-      <code>(12%)</code><br />Events: <b>0</b> <code>(0%)</code><br />Quests:
+      Daily Activity: <b>130</b> <code>(82%)</code><br />Adventure: <b>30</b>
+      <code>(18%)</code><br />Events: <b>0</b> <code>(0%)</code><br />Quests:
       <b>0</b> <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
       ><br />Mail: <b>0</b> <code>(0%)</code><br />Other: <b>0</b>
       <code>(0%)</code><br />
@@ -9222,7 +9222,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>760</b> <code>(rate -93)</code></td>
+    <td align="center"><b>795</b> <code>(rate -92)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9248,9 +9248,9 @@
       </table>
     </td>
     <td>
-      Daily Activity: <b>585</b> <code>(76%)</code><br />Simulated Universe:
-      <b>115</b> <code>(15%)</code><br />Mail: <b>60</b> <code>(7%)</code
-      ><br />Other: <b>0</b> <code>(2%)</code><br />Event: <b>0</b>
+      Daily Activity: <b>600</b> <code>(75%)</code><br />Simulated Universe:
+      <b>115</b> <code>(14%)</code><br />Mail: <b>80</b> <code>(10%)</code
+      ><br />Other: <b>0</b> <code>(1%)</code><br />Event: <b>0</b>
       <code>(0%)</code><br />Adventure Rewards: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
