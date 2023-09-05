@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 05, 2023 08:52 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 05, 2023 09:13 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -10216,7 +10216,7 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+8</code><br />
               ⭐⭐⭐⭐⭐<br />
               Champion's Chest Guard<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/579ef7fe1ddf66cb582b1080bc838108.png"
@@ -10232,20 +10232,20 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/65d4f3015b7c21b9644939108c6f5b4d.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/2bbd2bb1b4fce1b05faab23504ef76ee.png"
                 ,
                 height="25"
               />
-              <code>+9</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Salsotto's Moving City<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/3d8d35d1885a4708b7682d647eabd622.png"
+              Taikiyan Laser Stadium<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/b95f46682f1584e5e9e680816b078280.png"
                 ,
                 height="25"
               />
-              <code>+13</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Salsotto's Terminator Line<br />
+              Taikiyan's Arclight Race Track<br />
             </td>
           </tr>
         </table>
@@ -10782,8 +10782,8 @@
                 ,
                 height="25"
               />
-              <code>+7</code><br />
-              ⭐⭐⭐⭐<br />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
               Band's Polarized Sunglasses<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/5d038c4896bd0c1cd964d7b9edef451c.png"
                 ,
@@ -10796,7 +10796,7 @@
                 ,
                 height="25"
               />
-              <code>+11</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               Band's Leather Jacket With Studs<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/fab6712729ae4d8d841dfa4fcb4e7df4.png"
@@ -10816,14 +10816,14 @@
                 ,
                 height="25"
               />
-              <code>+9</code><br />
-              ⭐⭐⭐⭐<br />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
               Herta's Space Station<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/7c43316db39f3f2404c4d3ec48da3895.png"
                 ,
                 height="25"
               />
-              <code>+12</code><br />
+              <code>+13</code><br />
               ⭐⭐⭐⭐⭐<br />
               Herta's Wandering Trek<br />
             </td>
@@ -11058,7 +11058,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+60</code></td>
+            <td align="center"><code>+61</code></td>
           </tr>
           <tr>
             <td>Eidolon</td>
@@ -11072,28 +11072,28 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+10</code><br />
               ⭐⭐⭐⭐⭐<br />
               Wastelander's Breathing Mask<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/392a78c4d1ac9020a05554adb2e5a7d7.png"
                 ,
                 height="25"
               />
-              <code>+10</code><br />
+              <code>+14</code><br />
               ⭐⭐⭐⭐⭐<br />
               Wastelander's Desert Terminal<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/befb79838d1198e9e60963f0da6d9738.png"
                 ,
                 height="25"
               />
-              <code>+10</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Wastelander's Friar Robe<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/a4ab41774f2d8f0fce542f48fc6ecb5a.png"
                 ,
                 height="25"
               />
-              <code>+7</code><br />
+              <code>+9</code><br />
               ⭐⭐⭐⭐<br />
               Wastelander's Powered Greaves<br />
             </td>
@@ -11106,14 +11106,14 @@
                 ,
                 height="25"
               />
-              <code>+6</code><br />
+              <code>+11</code><br />
               ⭐⭐⭐⭐⭐<br />
               Taikiyan Laser Stadium<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/b95f46682f1584e5e9e680816b078280.png"
                 ,
                 height="25"
               />
-              <code>+9</code><br />
+              <code>+11</code><br />
               ⭐⭐⭐⭐⭐<br />
               Taikiyan's Arclight Race Track<br />
             </td>
@@ -11128,7 +11128,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+60</code></td>
+            <td align="center"><code>+70</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
@@ -11211,7 +11211,57 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td align="center"></td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/fb4669d8e2bdca631648f2518d5ee610.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Champion's Headgear<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/ebd3ed56b565ae2e12aa90bb046be582.png"
+                ,
+                height="25"
+              />
+              <code>+9</code><br />
+              ⭐⭐⭐⭐<br />
+              Champion's Heavy Gloves<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/4d5066e87159d6ea754e855c657d3f91.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Champion's Chest Guard<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/579ef7fe1ddf66cb582b1080bc838108.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Champion's Fleetfoot Boots<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Planar</td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/d0f63457b2b9576d92129df2b80c887c.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Herta's Space Station<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/7c43316db39f3f2404c4d3ec48da3895.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Herta's Wandering Trek<br />
+            </td>
           </tr>
         </table>
       </td>
@@ -11971,7 +12021,57 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td align="center"></td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/5653faee7e8dfc46e25077e435ba8dc0.png"
+                ,
+                height="25"
+              />
+              <code>+10</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Musketeer's Wild Wheat Felt Hat<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/3d2cf92ba4272b53a09b815f2fbfb8a8.png"
+                ,
+                height="25"
+              />
+              <code>+14</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Musketeer's Coarse Leather Gloves<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/9b0b809926337ac9076b0fd42a1b2559.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Musketeer's Wind-Hunting Shawl<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/312a48ea1fa47f0845cfc243613d40e4.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Musketeer's Rivets Riding Boots<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Planar</td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/5695129dfa98949e7cf21435fcce6ff9.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              The Xianzhou Luofu's Celestial Ark<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/8b0c14d906edec8c233f914d10ff4f06.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              The Xianzhou Luofu's Ambrosial Arbor Vines<br />
+            </td>
           </tr>
         </table>
       </td>
@@ -12416,7 +12516,57 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td align="center"></td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/972cc1252ab8d94fd3ed4f596083331f.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Firesmith's Obsidian Goggles<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/516e8270f1100d5f34f17b6f171a7980.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Firesmith's Ring of Flame-Mastery<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/36570b04163aa4be44c391aebd1453e0.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Firesmith's Fireproof Apron<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/5696a448d328e0072634b21457dc3741.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Firesmith's Alloy Leg<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Planar</td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/1e57ae04db00d6ab473af21290abb6c4.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Insumousu's Whalefall Ship<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/00c0a999e8d9272ce1e49d09519d9675.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Insumousu's Frayed Hawser<br />
+            </td>
           </tr>
         </table>
       </td>
