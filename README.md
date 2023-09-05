@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 05, 2023 14:52 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 05, 2023 15:10 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9205,11 +9205,11 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>265</b></td>
+    <td><b>266</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>227</b></td>
+    <td><b>228</b></td>
   </tr>
 </table>
 
@@ -11058,7 +11058,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+66</code></td>
+            <td align="center"><code>+67</code></td>
           </tr>
           <tr>
             <td>Eidolon</td>
