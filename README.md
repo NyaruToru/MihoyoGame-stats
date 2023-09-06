@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 06, 2023 22:38 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 06, 2023 22:49 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -773,7 +773,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>300</b> <code>(rate -95)</code></td>
+    <td align="center"><b>320</b> <code>(rate -94)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -791,9 +791,9 @@
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Daily Activity: <b>140</b> <code>(47%)</code><br />Other: <b>100</b>
-      <code>(33%)</code><br />Events: <b>30</b> <code>(10%)</code
-      ><br />Adventure: <b>30</b> <code>(10%)</code><br />Quests: <b>0</b>
+      Daily Activity: <b>140</b> <code>(44%)</code><br />Other: <b>100</b>
+      <code>(32%)</code><br />Events: <b>50</b> <code>(15%)</code
+      ><br />Adventure: <b>30</b> <code>(9%)</code><br />Quests: <b>0</b>
       <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code><br />Mail:
       <b>0</b> <code>(0%)</code><br />
     </td>
@@ -9253,6 +9253,83 @@
       ><br />Adventure Rewards: <b>315</b> <code>(10%)</code><br />Mail:
       <b>80</b> <code>(2%)</code><br />Other: <b>5</b> <code>(2%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
+    </td>
+  </tr>
+</table>
+<h2 align="center">
+  <img
+    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
+    height="20"
+  />
+  Memory of Chaos
+  <img
+    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
+    height="20"
+  />
+</h2>
+<table align="center">
+  <tr>
+    <td>Season</td>
+    <td align="center"><b>1001</b></td>
+  </tr>
+  <tr>
+    <td>Max Floor</td>
+    <td align="center"><b>Ethereal Shipcraft Stage 1</b></td>
+  </tr>
+  <tr>
+    <td>Total Battles</td>
+    <td align="center"><b>1</b></td>
+  </tr>
+  <tr>
+    <td>Total Stars</td>
+    <td align="center"><b>3</b></td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center">Ethereal Shipcraft Stage 1</td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center">3 Stars</td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center">3</td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/7dbf78d71b30e855bfb3a36794bb7304.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/6aebfe36a94c005446d936e15e457f65.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/07715c70f60c83b3b697257178c5ed33.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/4a0aed69dd5ae8cda98a0b39794640ce.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/7262013fe8cd4fd05e83cac9e0f97c3d.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/cc25500397b2b37969c1209245d847c7.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/4bd32f4bcdeb82de32811b04ff135b9f.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/22ad9c64fef1721f5e0a599fbd5accf5.png"
+        height="18"
+      />
     </td>
   </tr>
 </table>
