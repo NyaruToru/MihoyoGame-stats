@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 06, 2023 21:34 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 06, 2023 21:44 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -773,7 +773,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>170</b> <code>(rate -97)</code></td>
+    <td align="center"><b>300</b> <code>(rate -95)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -784,18 +784,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>189964</b> <code>(rate -96)</code></td>
+    <td align="center"><b>219964</b> <code>(rate -95)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Daily Activity: <b>140</b> <code>(83%)</code><br />Adventure: <b>30</b>
-      <code>(17%)</code><br />Events: <b>0</b> <code>(0%)</code><br />Quests:
-      <b>0</b> <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
-      ><br />Mail: <b>0</b> <code>(0%)</code><br />Other: <b>0</b>
-      <code>(0%)</code><br />
+      Daily Activity: <b>140</b> <code>(47%)</code><br />Other: <b>100</b>
+      <code>(33%)</code><br />Events: <b>30</b> <code>(10%)</code
+      ><br />Adventure: <b>30</b> <code>(10%)</code><br />Quests: <b>0</b>
+      <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code><br />Mail:
+      <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -9205,7 +9205,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>270</b></td>
+    <td><b>275</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -9265,6 +9265,151 @@
   <img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20" />
 </h2>
 <details open>
+  <summary align="center">
+    <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+      height="18"
+    /><b> Dan Heng • Imbibitor Lunae </b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+            height="20"
+          />
+          Dan Heng • Imbibitor Lunae
+        </h3>
+      </th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/be1f6d64294ed601482ad1180db76222.png"
+            height="20"
+          />
+          Under the Blue Sky
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/cc25500397b2b37969c1209245d847c7.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/be1f6d64294ed601482ad1180db76222.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+                height="18"
+              />
+              imaginary
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+80</code></td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/1fe8128c31415f7ff797427112581d18.png"
+                ,
+                height="25"
+              />
+              <code>+12</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Wastelander's Breathing Mask<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/392a78c4d1ac9020a05554adb2e5a7d7.png"
+                ,
+                height="25"
+              />
+              <code>+14</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Wastelander's Desert Terminal<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/befb79838d1198e9e60963f0da6d9738.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Wastelander's Friar Robe<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/a4ab41774f2d8f0fce542f48fc6ecb5a.png"
+                ,
+                height="25"
+              />
+              <code>+12</code><br />
+              ⭐⭐⭐⭐<br />
+              Wastelander's Powered Greaves<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Planar</td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/2bbd2bb1b4fce1b05faab23504ef76ee.png"
+                ,
+                height="25"
+              />
+              <code>+11</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Taikiyan Laser Stadium<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/b95f46682f1584e5e9e680816b078280.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Taikiyan's Arclight Race Track<br />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Under the Blue Sky</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+70</code></td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center"><code>3</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary align="center">
     <img
       src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
@@ -10137,151 +10282,6 @@
 <details>
   <summary align="center">
     <img
-      src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
-      height="18"
-    /><b> Dan Heng • Imbibitor Lunae </b>
-  </summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th align="center">
-        <h3>
-          <img
-            src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
-            height="20"
-          />
-          Dan Heng • Imbibitor Lunae
-        </h3>
-      </th>
-      <th align="center">
-        <h3>
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/be1f6d64294ed601482ad1180db76222.png"
-            height="20"
-          />
-          Under the Blue Sky
-        </h3>
-      </th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/cc25500397b2b37969c1209245d847c7.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/be1f6d64294ed601482ad1180db76222.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table align="center">
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
-                height="18"
-              />
-              imaginary
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+78</code></td>
-          </tr>
-          <tr>
-            <td>Eidolon</td>
-            <td align="center"><code>0</code></td>
-          </tr>
-          <tr>
-            <td>Relics</td>
-            <td align="center">
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/1fe8128c31415f7ff797427112581d18.png"
-                ,
-                height="25"
-              />
-              <code>+12</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Wastelander's Breathing Mask<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/392a78c4d1ac9020a05554adb2e5a7d7.png"
-                ,
-                height="25"
-              />
-              <code>+14</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Wastelander's Desert Terminal<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/befb79838d1198e9e60963f0da6d9738.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Wastelander's Friar Robe<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/a4ab41774f2d8f0fce542f48fc6ecb5a.png"
-                ,
-                height="25"
-              />
-              <code>+12</code><br />
-              ⭐⭐⭐⭐<br />
-              Wastelander's Powered Greaves<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Planar</td>
-            <td align="center">
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/2bbd2bb1b4fce1b05faab23504ef76ee.png"
-                ,
-                height="25"
-              />
-              <code>+11</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Taikiyan Laser Stadium<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/b95f46682f1584e5e9e680816b078280.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Taikiyan's Arclight Race Track<br />
-            </td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table align="center">
-          <tr>
-            <td>Name</td>
-            <td align="center">Under the Blue Sky</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+70</code></td>
-          </tr>
-          <tr>
-            <td>Superimpose</td>
-            <td align="center"><code>3</code></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary align="center">
-    <img
       src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
       height="18"
     /><b> Trailblazer </b>
@@ -10961,7 +10961,7 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+7</code><br />
               ⭐⭐⭐⭐⭐<br />
               Herta's Space Station<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/7c43316db39f3f2404c4d3ec48da3895.png"
