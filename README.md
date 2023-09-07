@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 07, 2023 13:51 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 07, 2023 14:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9222,7 +9222,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>3774</b> <code>(rate -65)</code></td>
+    <td align="center"><b>3774</b> <code>(rate -66)</code></td>
   </tr>
   <tr>
     <td align="center">
