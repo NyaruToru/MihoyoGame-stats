@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 08, 2023 20:27 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 08, 2023 20:37 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9149,7 +9149,7 @@
     </th>
     <td colspan="2" align="center">
       <img src="./images/logo/hsr-level.webp" , height="18" /> <b>IPEACHA</b>
-      <code>Lv. 66</code>
+      <code>Lv. 67</code>
     </td>
   </tr>
   <tr>
