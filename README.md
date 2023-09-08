@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 08, 2023 18:18 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 08, 2023 18:29 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9197,7 +9197,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>135</b></td>
+    <td><b>136</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -12094,7 +12094,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>6</code></td>
           </tr>
           <tr>
             <td>Relics</td>
