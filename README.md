@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 09, 2023 22:14 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 09, 2023 22:25 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -155,7 +155,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>749</b></td>
+    <td align="center"><b>750</b></td>
   </tr>
   <tr>
     <td>
@@ -177,13 +177,13 @@
       />
       Characters
     </td>
-    <td align="center"><b>56</b></td>
+    <td align="center"><b>57</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>333</b></td>
+    <td align="center"><b>334</b></td>
   </tr>
   <tr>
     <td>
@@ -233,7 +233,7 @@
       />
       Hydroculus
     </td>
-    <td align="center"><b>5</b></td>
+    <td align="center"><b>9</b></td>
   </tr>
   <tr>
     <td>
@@ -247,7 +247,7 @@
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>1329</b></td>
+    <td align="center"><b>1333</b></td>
   </tr>
   <tr>
     <td>
@@ -443,7 +443,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/7/" width="80" />
+            <img src="https://progress-bar.dev/8/" width="80" />
           </td>
         </tr>
         <tr>
