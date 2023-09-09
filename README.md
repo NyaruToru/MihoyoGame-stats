@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 09, 2023 14:26 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 09, 2023 14:36 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -166,7 +166,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>852</b></td>
+    <td align="center"><b>853</b></td>
   </tr>
   <tr>
     <td>
@@ -183,7 +183,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>332</b></td>
+    <td align="center"><b>333</b></td>
   </tr>
   <tr>
     <td>
@@ -233,21 +233,21 @@
       />
       Hydroculus
     </td>
-    <td align="center"><b>3</b></td>
+    <td align="center"><b>5</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>2004</b></td>
+    <td align="center"><b>2005</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>1327</b></td>
+    <td align="center"><b>1329</b></td>
   </tr>
   <tr>
     <td>
@@ -268,7 +268,7 @@
       <img src="./images/logo/remarkable.png" , height="18" /> Remarkable Chests
       Opened
     </td>
-    <td align="center"><b>104</b></td>
+    <td align="center"><b>105</b></td>
   </tr>
   <tr>
     <td>
@@ -443,7 +443,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/6/" width="80" />
+            <img src="https://progress-bar.dev/7/" width="80" />
           </td>
         </tr>
         <tr>
@@ -9419,14 +9419,14 @@
                 ,
                 height="25"
               />
-              <code>+12</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Wastelander's Breathing Mask<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/392a78c4d1ac9020a05554adb2e5a7d7.png"
                 ,
                 height="25"
               />
-              <code>+14</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Wastelander's Desert Terminal<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/befb79838d1198e9e60963f0da6d9738.png"
