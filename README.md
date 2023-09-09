@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 09, 2023 21:57 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 09, 2023 22:14 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -2176,8 +2176,8 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />2 x Shimenawa's Reminiscence<br />2 x Gilded
-              Dreams<br />1 x Gladiator's Finale<br />
+              Artifacts<br />1 x Shimenawa's Reminiscence<br />2 x Gilded
+              Dreams<br />1 x Gladiator's Finale<br />1 x Deepwood Memories<br />
             </td>
             <td align="center">
               <img
@@ -2188,13 +2188,13 @@
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
               Entangling Bloom<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/74cac503fecc3f7f37c6bca5d4c8a3b7.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/611f6dc51844fc3e523adedd1b0bac1a.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Shaft of Remembrance<br /><img
+              Feather of Judgment<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/80ea69fe0b4576bf45058708bc60c3c2.png"
                 ,
                 height="25"
@@ -2209,13 +2209,13 @@
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
               Gladiator's Intoxication<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/5b989f6369f80c57d5b6e8de936f5f3b.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/91f60d180bb531586d84735c9733e189.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Shadow of the Sand King<br />
+              Laurel Coronet<br />
             </td>
           </tr>
           <tr>
@@ -2927,11 +2927,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/5cde1297f1f199b5759525e0809709d4.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/dbfd57ccc08ac446a7fefd82be001454.png"
             ,
             height="20"
           />
-          Toukabou Shigure
+          Primordial Jade Cutter
         </h3>
       </th>
     </tr>
@@ -2948,7 +2948,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/5cde1297f1f199b5759525e0809709d4.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/dbfd57ccc08ac446a7fefd82be001454.png"
             ,
             height="256"
           />
@@ -2987,7 +2987,8 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />2 x Gilded Dreams<br />3 x Deepwood Memories<br />
+              Artifacts<br />2 x Gilded Dreams<br />1 x Shimenawa's
+              Reminiscence<br />2 x Deepwood Memories<br />
             </td>
             <td align="center">
               <img
@@ -2998,13 +2999,13 @@
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
               Dreaming Steelbloom<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/611f6dc51844fc3e523adedd1b0bac1a.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/74cac503fecc3f7f37c6bca5d4c8a3b7.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Feather of Judgment<br /><img
+              Shaft of Remembrance<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/acff04daf6c9e0c366353549b30bacc8.png"
                 ,
                 height="25"
@@ -3019,13 +3020,13 @@
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
               Lamp of the Lost<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/91f60d180bb531586d84735c9733e189.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/5b989f6369f80c57d5b6e8de936f5f3b.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Laurel Coronet<br />
+              Shadow of the Sand King<br />
             </td>
           </tr>
           <tr>
@@ -3038,7 +3039,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Toukabou Shigure</td>
+            <td align="center">Primordial Jade Cutter</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -3046,19 +3047,19 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+1</code></td>
+            <td align="center"><code>+90</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>0</code></td>
+            <td align="center"><code>6</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -3574,11 +3575,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/dbfd57ccc08ac446a7fefd82be001454.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/5cde1297f1f199b5759525e0809709d4.png"
             ,
             height="20"
           />
-          Primordial Jade Cutter
+          Toukabou Shigure
         </h3>
       </th>
     </tr>
@@ -3595,7 +3596,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/dbfd57ccc08ac446a7fefd82be001454.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/5cde1297f1f199b5759525e0809709d4.png"
             ,
             height="256"
           />
@@ -3686,7 +3687,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Primordial Jade Cutter</td>
+            <td align="center">Toukabou Shigure</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -3694,19 +3695,19 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+90</code></td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>6</code></td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -4676,11 +4677,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/8a6a777d7ffd2da9c13f9f5f92f11701.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/4187cc64cc731537110ec0c677c1bf5b.png"
             ,
             height="20"
           />
-          Whiteblind
+          Wolf's Gravestone
         </h3>
       </th>
     </tr>
@@ -4697,7 +4698,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/8a6a777d7ffd2da9c13f9f5f92f11701.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/4187cc64cc731537110ec0c677c1bf5b.png"
             ,
             height="256"
           />
@@ -4774,7 +4775,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Whiteblind</td>
+            <td align="center">Wolf's Gravestone</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -4782,15 +4783,15 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+70</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>4</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -7843,11 +7844,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/be385078d29a280b336293b059bf4bc2.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/fa85a9be688c9ebef1855e18e4cc1490.png"
             ,
             height="20"
           />
-          Snow-Tombed Starsilver
+          Waster Greatsword
         </h3>
       </th>
     </tr>
@@ -7864,7 +7865,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/be385078d29a280b336293b059bf4bc2.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/fa85a9be688c9ebef1855e18e4cc1490.png"
             ,
             height="256"
           />
@@ -7915,7 +7916,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Snow-Tombed Starsilver</td>
+            <td align="center">Waster Greatsword</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -7923,19 +7924,19 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
+            <td align="center">⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>3</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -9123,6 +9124,129 @@
     </tr>
   </table>
 </details>
+<details>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
+      ,
+      height="18"
+    /><b> Freminet</b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
+            ,
+            height="20"
+          />
+          Freminet
+        </h3>
+      </th>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/be385078d29a280b336293b059bf4bc2.png"
+            ,
+            height="20"
+          />
+          Snow-Tombed Starsilver
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Freminet_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/be385078d29a280b336293b059bf4bc2.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
+                ,
+                height="18"
+              />
+              Cryo
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+20</code></td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Artifacts<br /></td>
+            <td align="center"></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Snow-Tombed Starsilver</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Claymore</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+80</code></td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
+            <td align="center"><code>5</code></td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center"><code>3</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
 <img align="center" src="./images/banner/star-rail-banner.png" />
 
 <p align="center">
@@ -9222,7 +9346,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>4365</b> <code>(rate -61)</code></td>
+    <td align="center"><b>4385</b> <code>(rate -61)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9250,7 +9374,7 @@
     <td>
       Event: <b>1680</b> <code>(38%)</code><br />Daily Activity: <b>1350</b>
       <code>(30%)</code><br />Simulated Universe: <b>735</b> <code>(16%)</code
-      ><br />Adventure Rewards: <b>450</b> <code>(10%)</code><br />Other:
+      ><br />Adventure Rewards: <b>470</b> <code>(10%)</code><br />Other:
       <b>10</b> <code>(4%)</code><br />Forgotten Hall: <b>60</b>
       <code>(1%)</code><br />Mail: <b>80</b> <code>(1%)</code><br />
     </td>
