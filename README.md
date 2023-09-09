@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 09, 2023 14:36 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 09, 2023 14:47 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -3303,7 +3303,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+7</code></td>
+            <td align="center"><code>+8</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
