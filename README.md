@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 10, 2023 23:44 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 10, 2023 23:54 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -11331,13 +11331,13 @@
               <code>+11</code><br />
               ⭐⭐⭐⭐⭐<br />
               Musketeer's Coarse Leather Gloves<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/9b0b809926337ac9076b0fd42a1b2559.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/55171f780f511554814148023989c540.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Musketeer's Wind-Hunting Shawl<br /><img
+              Passerby's Ragged Embroided Coat<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/312a48ea1fa47f0845cfc243613d40e4.png"
                 ,
                 height="25"
@@ -11607,13 +11607,13 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/2dd35524e2ce000f34948956b73aa5d6.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/5653faee7e8dfc46e25077e435ba8dc0.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+10</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Passerby's Rejuvenated Wooden Hairstick<br /><img
+              Musketeer's Wild Wheat Felt Hat<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/3d2cf92ba4272b53a09b815f2fbfb8a8.png"
                 ,
                 height="25"
@@ -11621,13 +11621,13 @@
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Musketeer's Coarse Leather Gloves<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/55171f780f511554814148023989c540.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/9b0b809926337ac9076b0fd42a1b2559.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Passerby's Ragged Embroided Coat<br /><img
+              Musketeer's Wind-Hunting Shawl<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/a1e3d6e83a2b3df392bf5c8bf2542527.png"
                 ,
                 height="25"
@@ -11641,20 +11641,20 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/5695129dfa98949e7cf21435fcce6ff9.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/2bbd2bb1b4fce1b05faab23504ef76ee.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              The Xianzhou Luofu's Celestial Ark<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/8b0c14d906edec8c233f914d10ff4f06.png"
+              Taikiyan Laser Stadium<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/b95f46682f1584e5e9e680816b078280.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              The Xianzhou Luofu's Ambrosial Arbor Vines<br />
+              Taikiyan's Arclight Race Track<br />
             </td>
           </tr>
         </table>
