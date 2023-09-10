@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 11, 2023 00:45 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 11, 2023 00:55 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9329,7 +9329,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>277</b></td>
+    <td><b>278</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -10602,13 +10602,13 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/fb4669d8e2bdca631648f2518d5ee610.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/5653faee7e8dfc46e25077e435ba8dc0.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+9</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Champion's Headgear<br /><img
+              Musketeer's Wild Wheat Felt Hat<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/ebd3ed56b565ae2e12aa90bb046be582.png"
                 ,
                 height="25"
@@ -11317,13 +11317,13 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/5653faee7e8dfc46e25077e435ba8dc0.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/fb4669d8e2bdca631648f2518d5ee610.png"
                 ,
                 height="25"
               />
-              <code>+9</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Musketeer's Wild Wheat Felt Hat<br /><img
+              Champion's Headgear<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/3d2cf92ba4272b53a09b815f2fbfb8a8.png"
                 ,
                 height="25"
