@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 10, 2023 14:36 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 10, 2023 14:47 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9333,7 +9333,7 @@
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>233</b></td>
+    <td><b>234</b></td>
   </tr>
 </table>
 
@@ -9398,15 +9398,63 @@
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td align="center"><b>Ethereal Shipcraft Stage 1</b></td>
+    <td align="center"><b>Ethereal Shipcraft Stage 2</b></td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>1</b></td>
+    <td align="center"><b>2</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td align="center"><b>3</b></td>
+    <td align="center"><b>6</b></td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center">Ethereal Shipcraft Stage 2</td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center">3 Stars</td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center">6</td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/7dbf78d71b30e855bfb3a36794bb7304.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/b73048cb03e6bf1e07a21f8a8f291a1e.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/7a0f2b6a0560384e41d57056d1dacea3.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/cc25500397b2b37969c1209245d847c7.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/7262013fe8cd4fd05e83cac9e0f97c3d.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/22ad9c64fef1721f5e0a599fbd5accf5.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/07715c70f60c83b3b697257178c5ed33.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/4bd32f4bcdeb82de32811b04ff135b9f.png"
+        height="18"
+      />
+    </td>
   </tr>
   <tr>
     <td>Name</td>
@@ -11584,7 +11632,7 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+10</code><br />
               ⭐⭐⭐⭐⭐<br />
               Passerby's Stygian Hiking Boots<br />
             </td>
@@ -12012,14 +12060,14 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+11</code><br />
               ⭐⭐⭐⭐⭐<br />
               Musketeer's Wind-Hunting Shawl<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/312a48ea1fa47f0845cfc243613d40e4.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+14</code><br />
               ⭐⭐⭐⭐⭐<br />
               Musketeer's Rivets Riding Boots<br />
             </td>
