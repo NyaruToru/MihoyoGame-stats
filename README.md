@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 11, 2023 22:58 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 11, 2023 23:24 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -113,22 +113,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>8</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>9</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventurer's Experience</b>
+      <b>3 x Fine Enhancement Ore</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-09-11 00:19:22+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-09-12 00:24:13+08:00</b></td>
   </tr>
 </table>
 
@@ -9288,22 +9288,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>11</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>12</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Lost Gold Fragment</b>
+      <b>2 x Condensed Aether</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-09-11 00:19:23+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-09-12 00:24:13+08:00</b></td>
   </tr>
 </table>
 
@@ -9398,15 +9398,63 @@
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td align="center"><b>Ethereal Shipcraft Stage 2</b></td>
+    <td align="center"><b>Ethereal Shipcraft Stage 3</b></td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>2</b></td>
+    <td align="center"><b>3</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td align="center"><b>6</b></td>
+    <td align="center"><b>9</b></td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center">Ethereal Shipcraft Stage 3</td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center">3 Stars</td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center">5</td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/7dbf78d71b30e855bfb3a36794bb7304.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/6aebfe36a94c005446d936e15e457f65.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/07715c70f60c83b3b697257178c5ed33.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/22ad9c64fef1721f5e0a599fbd5accf5.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/7262013fe8cd4fd05e83cac9e0f97c3d.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/cc25500397b2b37969c1209245d847c7.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/4a0aed69dd5ae8cda98a0b39794640ce.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/4bd32f4bcdeb82de32811b04ff135b9f.png"
+        height="18"
+      />
+    </td>
   </tr>
   <tr>
     <td>Name</td>
