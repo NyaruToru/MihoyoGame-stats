@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 14, 2023 22:19 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 14, 2023 22:29 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -11130,7 +11130,7 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+3</code><br />
               ⭐⭐⭐⭐⭐<br />
               The Xianzhou Luofu's Ambrosial Arbor Vines<br />
             </td>
