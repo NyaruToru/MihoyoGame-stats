@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 16, 2023 05:24 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 16, 2023 05:35 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9197,7 +9197,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>143</b></td>
+    <td><b>144</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -11021,7 +11021,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+60</code></td>
+            <td align="center"><code>+70</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
