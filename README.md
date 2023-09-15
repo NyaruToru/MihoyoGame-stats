@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 16, 2023 02:52 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 16, 2023 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -280,7 +280,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>8-3</b></td>
+    <td align="center"><b>-</b></td>
   </tr>
 </table>
 
@@ -633,130 +633,6 @@
       <b>Visitor History</b>
     </td>
     <td align="center"><code>7</code></td>
-  </tr>
-</table>
-<h2 align="center">
-  <img
-    src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
-    ,
-    height="20"
-  />
-  Spiral Abyss
-  <img
-    src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
-    ,
-    height="20"
-  />
-</h2>
-<table align="center">
-  <tr>
-    <td><img src="./images/logo/spiral-abyss.webp" , height="18" /> Season</td>
-    <td align="center"><b>76</b></td>
-  </tr>
-  <tr>
-    <td><img src="./images/logo/battle.webp" , height="18" /> Total Battles</td>
-    <td align="center"><b>10</b></td>
-  </tr>
-  <tr>
-    <td><img src="./images/logo/wins.webp" , height="18" /> Total Wins</td>
-    <td align="center"><b>9</b></td>
-  </tr>
-  <tr>
-    <td><img src="./images/logo/star.png" , height="18" /> Total Stars</td>
-    <td align="center"><b>27</b></td>
-  </tr>
-  <tr>
-    <td><img src="./images/logo/floor.webp" , height="18" /> Max Floor</td>
-    <td align="center"><b>11-3</b></td>
-  </tr>
-  <tr>
-    <td>🕐 Start Time</td>
-    <td align="center"><b>2023-08-15 20:00:00+00:00</b></td>
-  </tr>
-  <tr>
-    <td>🕛 End Time</td>
-    <td align="center"><b>2023-08-31 19:59:59+00:00</b></td>
-  </tr>
-  <tr>
-    <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png"
-        ,
-        height="18"
-      />
-      <b>Albedo</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      <b>Kaedehara Kazuha</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Baizhuer.png"
-        ,
-        height="18"
-      />
-      <b>Baizhu</b> <code>(9)</code><br />
-    </td>
-  </tr>
-  <tr>
-    <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Itto.png"
-        ,
-        height="18"
-      />
-      <b>Arataki Itto</b> <code>(36)</code><br />
-    </td>
-  </tr>
-  <tr>
-    <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      <b>Hu Tao</b> <code>(130563)</code><br />
-    </td>
-  </tr>
-  <tr>
-    <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Baizhuer.png"
-        ,
-        height="18"
-      />
-      <b>Baizhu</b> <code>(84167)</code><br />
-    </td>
-  </tr>
-  <tr>
-    <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png"
-        ,
-        height="18"
-      />
-      <b>Albedo</b> <code>(16)</code><br />
-    </td>
-  </tr>
-  <tr>
-    <td>Elemental Skills Cast</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      <b>Yae Miko</b> <code>(86)</code><br />
-    </td>
   </tr>
 </table>
 <h2 align="center">
