@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 16, 2023 03:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 16, 2023 03:23 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -10999,7 +10999,7 @@
                 ,
                 height="25"
               />
-              <code>+8</code><br />
+              <code>+10</code><br />
               ⭐⭐⭐⭐⭐<br />
               The Xianzhou Luofu's Celestial Ark<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/8b0c14d906edec8c233f914d10ff4f06.png"
