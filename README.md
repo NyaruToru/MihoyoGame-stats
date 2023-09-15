@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 15, 2023 13:31 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 15, 2023 13:42 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -11123,14 +11123,14 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+8</code><br />
               ⭐⭐⭐⭐⭐<br />
               The Xianzhou Luofu's Celestial Ark<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/8b0c14d906edec8c233f914d10ff4f06.png"
                 ,
                 height="25"
               />
-              <code>+3</code><br />
+              <code>+13</code><br />
               ⭐⭐⭐⭐⭐<br />
               The Xianzhou Luofu's Ambrosial Arbor Vines<br />
             </td>
@@ -12819,7 +12819,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>4</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
           <tr>
             <td>Relics</td>
