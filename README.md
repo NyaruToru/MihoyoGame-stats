@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 16, 2023 22:53 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 16, 2023 23:10 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -113,22 +113,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>13</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>14</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Adventurer's Experience</b>
+      <b>8000 x Mora</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-09-16 00:09:02+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-09-17 00:10:08+08:00</b></td>
   </tr>
 </table>
 
@@ -9164,22 +9164,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>16</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>17</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventure Log</b>
+      <b>2 x Condensed Aether</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-09-16 00:04:42+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-09-17 00:10:08+08:00</b></td>
   </tr>
 </table>
 
@@ -9222,7 +9222,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>5930</b> <code>(rate -47)</code></td>
+    <td align="center"><b>5980</b> <code>(rate -47)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9248,10 +9248,10 @@
       </table>
     </td>
     <td>
-      Daily Activity: <b>2310</b> <code>(38%)</code><br />Event: <b>1680</b>
+      Daily Activity: <b>2360</b> <code>(39%)</code><br />Event: <b>1680</b>
       <code>(28%)</code><br />Simulated Universe: <b>1040</b> <code>(17%)</code
       ><br />Adventure Rewards: <b>610</b> <code>(10%)</code><br />Forgotten
-      Hall: <b>180</b> <code>(3%)</code><br />Other: <b>10</b> <code>(3%)</code
+      Hall: <b>180</b> <code>(3%)</code><br />Other: <b>10</b> <code>(2%)</code
       ><br />Mail: <b>100</b> <code>(1%)</code><br />
     </td>
   </tr>
@@ -11006,8 +11006,8 @@
                 ,
                 height="25"
               />
-              <code>+13</code><br />
-              ⭐⭐⭐⭐⭐<br />
+              <code>+12</code><br />
+              ⭐⭐⭐⭐<br />
               The Xianzhou Luofu's Ambrosial Arbor Vines<br />
             </td>
           </tr>
