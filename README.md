@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 16, 2023 08:36 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 16, 2023 09:04 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -166,7 +166,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>857</b></td>
+    <td align="center"><b>858</b></td>
   </tr>
   <tr>
     <td>
@@ -280,7 +280,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>-</b></td>
+    <td align="center"><b>8-3</b></td>
   </tr>
 </table>
 
