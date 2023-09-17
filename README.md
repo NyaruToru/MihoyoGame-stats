@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 17, 2023 08:00 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 17, 2023 08:56 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -166,7 +166,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>858</b></td>
+    <td align="center"><b>859</b></td>
   </tr>
   <tr>
     <td>
@@ -9222,7 +9222,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>5980</b> <code>(rate -47)</code></td>
+    <td align="center"><b>6070</b> <code>(rate -46)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9248,11 +9248,11 @@
       </table>
     </td>
     <td>
-      Daily Activity: <b>2360</b> <code>(39%)</code><br />Event: <b>1680</b>
-      <code>(28%)</code><br />Simulated Universe: <b>1040</b> <code>(17%)</code
-      ><br />Adventure Rewards: <b>610</b> <code>(10%)</code><br />Forgotten
-      Hall: <b>180</b> <code>(3%)</code><br />Other: <b>10</b> <code>(2%)</code
-      ><br />Mail: <b>100</b> <code>(1%)</code><br />
+      Daily Activity: <b>2450</b> <code>(40%)</code><br />Event: <b>1680</b>
+      <code>(27%)</code><br />Simulated Universe: <b>1040</b> <code>(17%)</code
+      ><br />Adventure Rewards: <b>610</b> <code>(10%)</code><br />Other:
+      <b>10</b> <code>(3%)</code><br />Forgotten Hall: <b>180</b>
+      <code>(2%)</code><br />Mail: <b>100</b> <code>(1%)</code><br />
     </td>
   </tr>
 </table>
