@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 18, 2023 20:19 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 18, 2023 20:29 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -1829,11 +1829,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/199a52b915cb0b287a1d25e3605ffc18.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/884211b150bef976d19c314a4bd7a44e.png"
             ,
             height="20"
           />
-          Serpent Spine
+          Skyward Pride
         </h3>
       </th>
     </tr>
@@ -1850,7 +1850,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/199a52b915cb0b287a1d25e3605ffc18.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/884211b150bef976d19c314a4bd7a44e.png"
             ,
             height="256"
           />
@@ -1941,7 +1941,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Serpent Spine</td>
+            <td align="center">Skyward Pride</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -1949,7 +1949,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3697,7 +3697,7 @@
                 ,
                 height="25"
               />
-              <code>+16</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐<br />
               Skeletal Hat<br />
             </td>
@@ -4131,47 +4131,44 @@
             <td align="center"><code>3</code></td>
           </tr>
           <tr>
-            <td>
-              Artifacts<br />4 x Husk of Opulent Dreams<br />1 x Flower of
-              Paradise Lost<br />
-            </td>
+            <td>Artifacts<br />5 x Husk of Opulent Dreams<br /></td>
             <td align="center">
               <img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/cb6affd83bf2e1a93d519b0e40cc6ab3.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
               Bloom Times<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/3392755f935a50eb70182bd0553aae12.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+12</code><br />
               ⭐⭐⭐⭐⭐<br />
               Plume of Luxury<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/0c1bac258134ef305e58a1763f9f701c.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
+              <code>+12</code><br />
+              ⭐⭐⭐⭐<br />
               Song of Life<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/e462cd924ec8a063007b82bd6897fa27.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+13</code><br />
               ⭐⭐⭐⭐⭐<br />
               Calabash of Awakening<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/78917e32c59797888263f5fa27e61365.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/883a9b1db50a4873826b132fcdf5cfe5.png"
                 ,
                 height="25"
               />
-              <code>+20</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Amethyst Crown<br />
+              <code>+16</code><br />
+              ⭐⭐⭐⭐<br />
+              Skeletal Hat<br />
             </td>
           </tr>
           <tr>
@@ -4196,11 +4193,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+50</code></td>
+            <td align="center"><code>+60</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>2</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -4553,11 +4550,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/abeb54caf03d5330e0d5febcc1f4e15d.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/199a52b915cb0b287a1d25e3605ffc18.png"
             ,
             height="20"
           />
-          Wolf's Gravestone
+          Serpent Spine
         </h3>
       </th>
     </tr>
@@ -4574,7 +4571,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/abeb54caf03d5330e0d5febcc1f4e15d.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/199a52b915cb0b287a1d25e3605ffc18.png"
             ,
             height="256"
           />
@@ -4651,7 +4648,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Wolf's Gravestone</td>
+            <td align="center">Serpent Spine</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -4659,7 +4656,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -6316,11 +6313,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/884211b150bef976d19c314a4bd7a44e.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/7cf0c92ac459ede2676f8664ba0bde02.png"
             ,
             height="20"
           />
-          Skyward Pride
+          Whiteblind
         </h3>
       </th>
     </tr>
@@ -6337,7 +6334,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/884211b150bef976d19c314a4bd7a44e.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/7cf0c92ac459ede2676f8664ba0bde02.png"
             ,
             height="256"
           />
@@ -6428,7 +6425,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Skyward Pride</td>
+            <td align="center">Whiteblind</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -6436,15 +6433,15 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+70</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>4</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
