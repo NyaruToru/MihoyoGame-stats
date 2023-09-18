@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 18, 2023 21:01 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 18, 2023 21:20 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -660,7 +660,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1284750</b> <code>(rate -75)</code></td>
+    <td align="center"><b>1318750</b> <code>(rate -74)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -10354,7 +10354,7 @@
                 ,
                 height="25"
               />
-              <code>+9</code><br />
+              <code>+10</code><br />
               ⭐⭐⭐⭐⭐<br />
               Musketeer's Wild Wheat Felt Hat<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/ebd3ed56b565ae2e12aa90bb046be582.png"
