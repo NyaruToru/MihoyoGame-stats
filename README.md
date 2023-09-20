@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 20, 2023 10:12 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 20, 2023 10:24 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -669,9 +669,9 @@
     <td>
       Events: <b>1010</b> <code>(55%)</code><br />Mail: <b>340</b>
       <code>(19%)</code><br />Daily Activity: <b>320</b> <code>(17%)</code
-      ><br />Other: <b>100</b> <code>(5%)</code><br />Adventure: <b>92</b>
-      <code>(4%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Spiral
-      Abyss: <b>0</b> <code>(0%)</code><br />
+      ><br />Adventure: <b>92</b> <code>(4%)</code><br />Spiral Abyss: <b>0</b>
+      <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
+      <b>100</b> <code>(5%)</code><br />
     </td>
   </tr>
 </table>
