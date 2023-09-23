@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 23, 2023 16:31 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 23, 2023 16:41 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9271,15 +9271,255 @@
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td align="center"><b>A Shot From the Sky Stage 4</b></td>
+    <td align="center"><b>A Shot From the Sky Stage 7</b></td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>4</b></td>
+    <td align="center"><b>8</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td align="center"><b>12</b></td>
+    <td align="center"><b>20</b></td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center">A Shot From the Sky Stage 7</td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center">2 Stars</td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center">9</td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/36f08ae3287e7386841db3af6b141559.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/fdf90dce6acaa8b410069db26131a0cc.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/903f763ac69a0b56f1248c4ff4acf8fe.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/5b188172a237ff93088d0eed215873be.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/9cf5e7c298ec401913bbfa1c4d2a9609.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/3b775939dd3ffb10e6c175e1467fc6ad.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/addaea9fd530536b9bbf38d0ea980ade.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/7ba39d92d011d93ddb33a3ba969ce2ce.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center">A Shot From the Sky Stage 6</td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center">3 Stars</td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center">6</td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/36f08ae3287e7386841db3af6b141559.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/fdf90dce6acaa8b410069db26131a0cc.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/903f763ac69a0b56f1248c4ff4acf8fe.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/5b188172a237ff93088d0eed215873be.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/9cf5e7c298ec401913bbfa1c4d2a9609.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/3b775939dd3ffb10e6c175e1467fc6ad.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/addaea9fd530536b9bbf38d0ea980ade.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/7ba39d92d011d93ddb33a3ba969ce2ce.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center">A Shot From the Sky Stage 5</td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center">3 Stars</td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center">7</td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/36f08ae3287e7386841db3af6b141559.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/fdf90dce6acaa8b410069db26131a0cc.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/903f763ac69a0b56f1248c4ff4acf8fe.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/5b188172a237ff93088d0eed215873be.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/9cf5e7c298ec401913bbfa1c4d2a9609.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/3b775939dd3ffb10e6c175e1467fc6ad.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/addaea9fd530536b9bbf38d0ea980ade.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/7ba39d92d011d93ddb33a3ba969ce2ce.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center">A Shot From the Sky Stage 4</td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center">3 Stars</td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center">4</td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/36f08ae3287e7386841db3af6b141559.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/fdf90dce6acaa8b410069db26131a0cc.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/903f763ac69a0b56f1248c4ff4acf8fe.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/5b188172a237ff93088d0eed215873be.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/9cf5e7c298ec401913bbfa1c4d2a9609.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/3b775939dd3ffb10e6c175e1467fc6ad.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/addaea9fd530536b9bbf38d0ea980ade.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/7ba39d92d011d93ddb33a3ba969ce2ce.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center">A Shot From the Sky Stage 3</td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center">3 Stars</td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center">3</td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/36f08ae3287e7386841db3af6b141559.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/5b188172a237ff93088d0eed215873be.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/fdf90dce6acaa8b410069db26131a0cc.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/903f763ac69a0b56f1248c4ff4acf8fe.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/3b775939dd3ffb10e6c175e1467fc6ad.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/9cf5e7c298ec401913bbfa1c4d2a9609.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/addaea9fd530536b9bbf38d0ea980ade.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/7ba39d92d011d93ddb33a3ba969ce2ce.png"
+        height="18"
+      />
+    </td>
   </tr>
   <tr>
     <td>Name</td>
