@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 23, 2023 15:22 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 23, 2023 15:33 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9271,15 +9271,15 @@
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td align="center"><b>A Shot From the Sky Stage 2</b></td>
+    <td align="center"><b>A Shot From the Sky Stage 4</b></td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>2</b></td>
+    <td align="center"><b>4</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td align="center"><b>6</b></td>
+    <td align="center"><b>12</b></td>
   </tr>
   <tr>
     <td>Name</td>
@@ -11001,7 +11001,13 @@
         </h3>
       </th>
       <th align="center">
-        <h3><img src="" height="20" /></h3>
+        <h3>
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/4c00335a09230416b20661a6fdfcdc54.png"
+            height="20"
+          />
+          Planetary Rendezvous
+        </h3>
       </th>
     </tr>
     <tr>
@@ -11013,7 +11019,11 @@
         </p>
       </td>
       <td>
-        <p align="center"><img src="" /></p>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/4c00335a09230416b20661a6fdfcdc54.png"
+          />
+        </p>
       </td>
     </tr>
     <tr>
@@ -11049,28 +11059,28 @@
                 ,
                 height="25"
               />
-              <code>+8</code><br />
+              <code>+12</code><br />
               ⭐⭐⭐⭐⭐<br />
               Messenger's Holovisor<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/051292ac43571529e9ecdc7611c28c52.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+6</code><br />
               ⭐⭐⭐⭐⭐<br />
               Messenger's Transformative Arm<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/77c3f9754655b4d51b64312946505253.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+6</code><br />
               ⭐⭐⭐⭐⭐<br />
               Messenger's Secret Satchel<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/1835ce635a5ef87149e4bf7cad071dd4.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+6</code><br />
               ⭐⭐⭐⭐⭐<br />
               Messenger's Par-kool Sneakers<br />
             </td>
@@ -11090,7 +11100,7 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+6</code><br />
               ⭐⭐⭐⭐⭐<br />
               Vonwacq's Islandic Coast<br />
             </td>
@@ -11101,15 +11111,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center"></td>
+            <td align="center">Planetary Rendezvous</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+</code></td>
+            <td align="center"><code>+70</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code></code></td>
+            <td align="center"><code>2</code></td>
           </tr>
         </table>
       </td>
