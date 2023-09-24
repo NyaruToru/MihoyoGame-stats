@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 25, 2023 01:52 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 25, 2023 02:06 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9219,7 +9219,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>8510</b> <code>(rate -24)</code></td>
+    <td align="center"><b>8520</b> <code>(rate -24)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9245,7 +9245,7 @@
       </table>
     </td>
     <td>
-      Daily Activity: <b>3500</b> <code>(41%)</code><br />Simulated Universe:
+      Daily Activity: <b>3510</b> <code>(41%)</code><br />Simulated Universe:
       <b>1755</b> <code>(20%)</code><br />Event: <b>1700</b> <code>(19%)</code
       ><br />Adventure Rewards: <b>715</b> <code>(8%)</code><br />Forgotten
       Hall: <b>660</b> <code>(7%)</code><br />Other: <b>10</b> <code>(4%)</code
@@ -10871,7 +10871,7 @@
                 ,
                 height="25"
               />
-              <code>+8</code><br />
+              <code>+9</code><br />
               ⭐⭐⭐⭐⭐<br />
               Hunter's Lizard Gloves<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/263c57bce73b275771e0418716690725.png"
