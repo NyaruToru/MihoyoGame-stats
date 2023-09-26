@@ -1,8 +1,6 @@
 name: "Daily Check And Update"
 
 on:
-  schedule:
-    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 jobs:
