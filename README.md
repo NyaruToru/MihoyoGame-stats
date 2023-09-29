@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 29, 2023 07:34 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 29, 2023 12:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9219,7 +9219,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>9335</b> <code>(rate -17)</code></td>
+    <td align="center"><b>9515</b> <code>(rate -15)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9245,10 +9245,10 @@
       </table>
     </td>
     <td>
-      Daily Activity: <b>3860</b> <code>(41%)</code><br />Simulated Universe:
-      <b>2060</b> <code>(22%)</code><br />Event: <b>1860</b> <code>(19%)</code
+      Daily Activity: <b>3860</b> <code>(40%)</code><br />Event: <b>2040</b>
+      <code>(21%)</code><br />Simulated Universe: <b>2060</b> <code>(21%)</code
       ><br />Adventure Rewards: <b>715</b> <code>(7%)</code><br />Forgotten
-      Hall: <b>660</b> <code>(7%)</code><br />Other: <b>10</b> <code>(3%)</code
+      Hall: <b>660</b> <code>(6%)</code><br />Other: <b>10</b> <code>(4%)</code
       ><br />Mail: <b>170</b> <code>(1%)</code><br />
     </td>
   </tr>
@@ -10760,7 +10760,7 @@
                 ,
                 height="25"
               />
-              <code>+6</code><br />
+              <code>+7</code><br />
               ⭐⭐⭐⭐⭐<br />
               Taikiyan's Arclight Race Track<br />
             </td>
