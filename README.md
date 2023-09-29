@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 29, 2023 22:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 30, 2023 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -113,22 +113,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>26</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>27</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/08/02/cb0d79765ac1b39571d2e8d09e24825c_80222486237809127.png"
+          src="https://upload-static.hoyoverse.com/event/2023/08/02/f4450e0ef470f777fca0b3dd95813734_3603182912516488348.png"
           ,
           height="80" /></a
       ><br />
-      <b>10000 x Mora</b>
+      <b>20 x Primogem</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-09-29 04:08:04+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-09-30 04:08:07+08:00</b></td>
   </tr>
 </table>
 
@@ -9161,7 +9161,7 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>29</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>30</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9176,7 +9176,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-09-29 04:08:04+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-09-30 04:08:08+08:00</b></td>
   </tr>
 </table>
 
@@ -9198,7 +9198,7 @@
   </tr>
   <tr>
     <td>Total Avatar</td>
-    <td><b>26</b></td>
+    <td><b>27</b></td>
   </tr>
   <tr>
     <td>Total Achievement</td>
@@ -9219,7 +9219,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>9575</b> <code>(rate -15)</code></td>
+    <td align="center"><b>10115</b> <code>(rate -10)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9229,7 +9229,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>33</b> <code>(rate 26)</code></td>
+    <td align="center"><b>35</b> <code>(rate 34)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9245,11 +9245,11 @@
       </table>
     </td>
     <td>
-      Daily Activity: <b>3920</b> <code>(40%)</code><br />Event: <b>2040</b>
-      <code>(21%)</code><br />Simulated Universe: <b>2060</b> <code>(21%)</code
-      ><br />Adventure Rewards: <b>715</b> <code>(7%)</code><br />Forgotten
-      Hall: <b>660</b> <code>(6%)</code><br />Other: <b>10</b> <code>(4%)</code
-      ><br />Mail: <b>170</b> <code>(1%)</code><br />
+      Daily Activity: <b>3920</b> <code>(38%)</code><br />Simulated Universe:
+      <b>2140</b> <code>(21%)</code><br />Event: <b>2120</b> <code>(20%)</code
+      ><br />Adventure Rewards: <b>795</b> <code>(7%)</code><br />Forgotten
+      Hall: <b>660</b> <code>(6%)</code><br />Mail: <b>470</b> <code>(4%)</code
+      ><br />Other: <b>10</b> <code>(4%)</code><br />
     </td>
   </tr>
 </table>
@@ -12765,6 +12765,91 @@
           <tr>
             <td>Eidolon</td>
             <td align="center"><code>2</code></td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center"></td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+</code></td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center"><code></code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+      height="18"
+    /><b> Lynx </b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+            height="20"
+          />
+          Lynx
+        </h3>
+      </th>
+      <th align="center">
+        <h3><img src="" height="20" /></h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/0f58dfa400a2137df9bbcb720d422765.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center"><img src="" /></p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+                height="18"
+              />
+              quantum
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+40</code></td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Relics</td>
