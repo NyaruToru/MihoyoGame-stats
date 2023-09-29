@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 29, 2023 03:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 29, 2023 07:34 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -166,7 +166,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>864</b></td>
+    <td align="center"><b>865</b></td>
   </tr>
   <tr>
     <td>
@@ -183,7 +183,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>334</b></td>
+    <td align="center"><b>336</b></td>
   </tr>
   <tr>
     <td>
@@ -649,7 +649,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>3512</b> <code>(rate -43)</code></td>
+    <td align="center"><b>3522</b> <code>(rate -43)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -660,7 +660,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1463700</b> <code>(rate -71)</code></td>
+    <td align="center"><b>1470638</b> <code>(rate -71)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -668,7 +668,7 @@
     </td>
     <td>
       Mail: <b>1880</b> <code>(54%)</code><br />Events: <b>1110</b>
-      <code>(32%)</code><br />Daily Activity: <b>320</b> <code>(10%)</code
+      <code>(32%)</code><br />Daily Activity: <b>330</b> <code>(10%)</code
       ><br />Adventure: <b>102</b> <code>(2%)</code><br />Spiral Abyss:
       <b>0</b> <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code
       ><br />Other: <b>100</b> <code>(2%)</code><br />
