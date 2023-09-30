@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 30, 2023 22:06 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Oct 01, 2023 03:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -113,22 +113,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>27</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>1</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/08/02/f4450e0ef470f777fca0b3dd95813734_3603182912516488348.png"
+          src="https://upload-static.hoyoverse.com/event/2023/08/02/6ef98074e6e8c9c838e144d4db496434_8066711723462859249.png"
           ,
           height="80" /></a
       ><br />
-      <b>20 x Primogem</b>
+      <b>3 x Hero's Wit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-09-30 04:08:07+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-10-01 04:07:12+08:00</b></td>
   </tr>
 </table>
 
@@ -280,7 +280,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>8-3</b></td>
+    <td align="center"><b>-</b></td>
   </tr>
 </table>
 
@@ -649,7 +649,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>3942</b> <code>(rate -36)</code></td>
+    <td align="center"><b>0</b> <code>(rate -100)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -660,18 +660,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1481638</b> <code>(rate -71)</code></td>
+    <td align="center"><b>0</b> <code>(rate -100)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>2300</b> <code>(59%)</code><br />Events: <b>1110</b>
-      <code>(29%)</code><br />Daily Activity: <b>330</b> <code>(8%)</code
-      ><br />Adventure: <b>102</b> <code>(2%)</code><br />Spiral Abyss:
-      <b>0</b> <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code
-      ><br />Other: <b>100</b> <code>(2%)</code><br />
+      Events: <b>0</b> <code>(0%)</code><br />Daily Activity: <b>0</b>
+      <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      ><br />Quests: <b>0</b> <code>(0%)</code><br />Adventure: <b>0</b>
+      <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code><br />Other:
+      <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -9161,22 +9161,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>30</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>1</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Credit</b>
+      <b>2 x Adventure Log</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-09-30 04:08:08+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-10-01 04:07:13+08:00</b></td>
   </tr>
 </table>
 
@@ -9219,7 +9219,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>10455</b> <code>(rate -7)</code></td>
+    <td align="center"><b>0</b> <code>(rate -100)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9229,7 +9229,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>36</b> <code>(rate 38)</code></td>
+    <td align="center"><b>0</b> <code>(rate -100)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9245,11 +9245,11 @@
       </table>
     </td>
     <td>
-      Daily Activity: <b>3980</b> <code>(38%)</code><br />Event: <b>2400</b>
-      <code>(22%)</code><br />Simulated Universe: <b>2140</b> <code>(20%)</code
-      ><br />Adventure Rewards: <b>795</b> <code>(7%)</code><br />Forgotten
-      Hall: <b>660</b> <code>(6%)</code><br />Mail: <b>470</b> <code>(4%)</code
-      ><br />Other: <b>10</b> <code>(3%)</code><br />
+      Daily Activity: <b>0</b> <code>(0%)</code><br />Event: <b>0</b>
+      <code>(0%)</code><br />Adventure Rewards: <b>0</b> <code>(0%)</code
+      ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />Forgotten Hall:
+      <b>0</b> <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code
+      ><br />Other: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
