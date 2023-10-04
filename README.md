@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Oct 04, 2023 22:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Oct 05, 2023 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -113,22 +113,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>4</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>5</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+          src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
           ,
           height="80" /></a
       ><br />
-      <b>20 x Primogem</b>
+      <b>3 x Sweet Madame</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-10-04 04:08:18+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-10-05 04:08:03+08:00</b></td>
   </tr>
 </table>
 
@@ -166,7 +166,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>869</b></td>
+    <td align="center"><b>870</b></td>
   </tr>
   <tr>
     <td>
@@ -649,7 +649,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>480</b> <code>(rate -87)</code></td>
+    <td align="center"><b>500</b> <code>(rate -87)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -660,14 +660,14 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>141722</b> <code>(rate -90)</code></td>
+    <td align="center"><b>142722</b> <code>(rate -90)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>420</b> <code>(88%)</code><br />Daily Activity: <b>60</b>
+      Mail: <b>440</b> <code>(88%)</code><br />Daily Activity: <b>60</b>
       <code>(12%)</code><br />Events: <b>0</b> <code>(0%)</code><br />Spiral
       Abyss: <b>0</b> <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code
       ><br />Adventure: <b>0</b> <code>(0%)</code><br />Other: <b>0</b>
@@ -9161,22 +9161,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>4</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>5</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/4aa31979af47b9f4dab8d5627f5fa8ed_1292021808517312921.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Canned Soda</b>
+      <b>20 x Stellar Jade</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-10-04 04:08:19+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-10-05 04:08:03+08:00</b></td>
   </tr>
 </table>
 
