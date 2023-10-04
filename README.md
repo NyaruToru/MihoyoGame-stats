@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Oct 02, 2023 12:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Oct 04, 2023 15:27 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -113,14 +113,14 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>2</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>4</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/08/02/f4450e0ef470f777fca0b3dd95813734_3603182912516488348.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
           ,
           height="80" /></a
       ><br />
@@ -128,7 +128,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-10-02 04:07:24+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-10-04 04:08:18+08:00</b></td>
   </tr>
 </table>
 
@@ -166,7 +166,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>867</b></td>
+    <td align="center"><b>869</b></td>
   </tr>
   <tr>
     <td>
@@ -649,7 +649,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>400</b> <code>(rate -89)</code></td>
+    <td align="center"><b>480</b> <code>(rate -87)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -660,18 +660,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>80000</b> <code>(rate -94)</code></td>
+    <td align="center"><b>141722</b> <code>(rate -90)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>400</b> <code>(100%)</code><br />Events: <b>0</b>
-      <code>(0%)</code><br />Daily Activity: <b>0</b> <code>(0%)</code
-      ><br />Spiral Abyss: <b>0</b> <code>(0%)</code><br />Quests: <b>0</b>
-      <code>(0%)</code><br />Adventure: <b>0</b> <code>(0%)</code><br />Other:
-      <b>0</b> <code>(0%)</code><br />
+      Mail: <b>420</b> <code>(88%)</code><br />Daily Activity: <b>60</b>
+      <code>(12%)</code><br />Events: <b>0</b> <code>(0%)</code><br />Spiral
+      Abyss: <b>0</b> <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code
+      ><br />Adventure: <b>0</b> <code>(0%)</code><br />Other: <b>0</b>
+      <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -3340,7 +3340,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+5</code></td>
+            <td align="center"><code>+6</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -9146,7 +9146,7 @@
     </th>
     <td colspan="2" align="center">
       <img src="./images/logo/hsr-level.webp" , height="18" /> <b>IPEACHA</b>
-      <code>Lv. 67</code>
+      <code>Lv. 68</code>
     </td>
   </tr>
   <tr>
@@ -9161,22 +9161,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>2</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>4</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/4aa31979af47b9f4dab8d5627f5fa8ed_1292021808517312921.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Condensed Aether</b>
+      <b>1 x Canned Soda</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-10-02 04:07:23+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-10-04 04:08:19+08:00</b></td>
   </tr>
 </table>
 
@@ -9194,7 +9194,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>160</b></td>
+    <td><b>162</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9219,7 +9219,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>200</b> <code>(rate -98)</code></td>
+    <td align="center"><b>900</b> <code>(rate -91)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9229,7 +9229,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>10</b> <code>(rate -72)</code></td>
+    <td align="center"><b>12</b> <code>(rate -66)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9245,11 +9245,88 @@
       </table>
     </td>
     <td>
-      Event: <b>200</b> <code>(100%)</code><br />Daily Activity: <b>0</b>
-      <code>(0%)</code><br />Adventure Rewards: <b>0</b> <code>(0%)</code
-      ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />Forgotten Hall:
-      <b>0</b> <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code
-      ><br />Other: <b>0</b> <code>(0%)</code><br />
+      Event: <b>400</b> <code>(44%)</code><br />Simulated Universe: <b>225</b>
+      <code>(25%)</code><br />Daily Activity: <b>115</b> <code>(12%)</code
+      ><br />Adventure Rewards: <b>100</b> <code>(11%)</code><br />Forgotten
+      Hall: <b>60</b> <code>(6%)</code><br />Other: <b>0</b> <code>(2%)</code
+      ><br />Mail: <b>0</b> <code>(0%)</code><br />
+    </td>
+  </tr>
+</table>
+<h2 align="center">
+  <img
+    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
+    height="20"
+  />
+  Memory of Chaos
+  <img
+    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
+    height="20"
+  />
+</h2>
+<table align="center">
+  <tr>
+    <td>Season</td>
+    <td align="center"><b>1003</b></td>
+  </tr>
+  <tr>
+    <td>Max Floor</td>
+    <td align="center"><b>Mara and Null Stage 1</b></td>
+  </tr>
+  <tr>
+    <td>Total Battles</td>
+    <td align="center"><b>1</b></td>
+  </tr>
+  <tr>
+    <td>Total Stars</td>
+    <td align="center"><b>3</b></td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center">Mara and Null Stage 1</td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center">3 Stars</td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center">3</td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/9cf5e7c298ec401913bbfa1c4d2a9609.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/3b775939dd3ffb10e6c175e1467fc6ad.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/addaea9fd530536b9bbf38d0ea980ade.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/7ba39d92d011d93ddb33a3ba969ce2ce.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/fdf90dce6acaa8b410069db26131a0cc.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/903f763ac69a0b56f1248c4ff4acf8fe.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/5b188172a237ff93088d0eed215873be.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/36f08ae3287e7386841db3af6b141559.png"
+        height="18"
+      />
     </td>
   </tr>
 </table>
@@ -9650,7 +9727,7 @@
                 ,
                 height="25"
               />
-              <code>+8</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               Messenger's Par-kool Sneakers<br />
             </td>
@@ -11004,6 +11081,151 @@
 <details>
   <summary align="center">
     <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+      height="18"
+    /><b> Lynx </b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+            height="20"
+          />
+          Lynx
+        </h3>
+      </th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/9810259173fea125bb861382727bd845.png"
+            height="20"
+          />
+          Post-Op Conversation
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/0f58dfa400a2137df9bbcb720d422765.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/9810259173fea125bb861382727bd845.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+                height="18"
+              />
+              quantum
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+70</code></td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/245c1dfabf42db824c5719fe9b983712.png"
+                ,
+                height="25"
+              />
+              <code>+12</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Messenger's Holovisor<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/051292ac43571529e9ecdc7611c28c52.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Messenger's Transformative Arm<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/77c3f9754655b4d51b64312946505253.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Messenger's Secret Satchel<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/1835ce635a5ef87149e4bf7cad071dd4.png"
+                ,
+                height="25"
+              />
+              <code>+8</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Messenger's Par-kool Sneakers<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Planar</td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/6170d940b0cedc599bb9621cd42dd598.png"
+                ,
+                height="25"
+              />
+              <code>+14</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Insumousu's Whalefall Ship<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/3eaf946c0b34ed3cd9101778c7fb514a.png"
+                ,
+                height="25"
+              />
+              <code>+8</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Insumousu's Frayed Hawser<br />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Post-Op Conversation</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+70</code></td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center"><code>1</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
       src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
       height="18"
     /><b> Serval </b>
@@ -11864,151 +12086,6 @@
 <details>
   <summary align="center">
     <img
-      src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
-      height="18"
-    /><b> Lynx </b>
-  </summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th align="center">
-        <h3>
-          <img
-            src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
-            height="20"
-          />
-          Lynx
-        </h3>
-      </th>
-      <th align="center">
-        <h3>
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/9810259173fea125bb861382727bd845.png"
-            height="20"
-          />
-          Post-Op Conversation
-        </h3>
-      </th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/0f58dfa400a2137df9bbcb720d422765.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/9810259173fea125bb861382727bd845.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table align="center">
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
-                height="18"
-              />
-              quantum
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+50</code></td>
-          </tr>
-          <tr>
-            <td>Eidolon</td>
-            <td align="center"><code>0</code></td>
-          </tr>
-          <tr>
-            <td>Relics</td>
-            <td align="center">
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/245c1dfabf42db824c5719fe9b983712.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Messenger's Holovisor<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/051292ac43571529e9ecdc7611c28c52.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Messenger's Transformative Arm<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/77c3f9754655b4d51b64312946505253.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Messenger's Secret Satchel<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/1835ce635a5ef87149e4bf7cad071dd4.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Messenger's Par-kool Sneakers<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Planar</td>
-            <td align="center">
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/1f00b9ec297f00e214e65917134ed4f2.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              The Xianzhou Luofu's Celestial Ark<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/dd610e00215a379d96ca46758897589c.png"
-                ,
-                height="25"
-              />
-              <code>+13</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              The Xianzhou Luofu's Ambrosial Arbor Vines<br />
-            </td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table align="center">
-          <tr>
-            <td>Name</td>
-            <td align="center">Post-Op Conversation</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+50</code></td>
-          </tr>
-          <tr>
-            <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary align="center">
-    <img
       src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
       height="18"
     /><b> Sampo </b>
@@ -12629,7 +12706,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>6</code></td>
           </tr>
           <tr>
             <td>Relics</td>
