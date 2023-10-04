@@ -3,6 +3,7 @@ name: "Daily Check And Update"
 on:
   schedule:
     - cron: "0 0/5 * * *"
+  workflow_dispatch:
 
 jobs:
   check_and_update:
