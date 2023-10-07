@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Oct 07, 2023 17:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Oct 07, 2023 22:06 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -166,7 +166,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>872</b></td>
+    <td align="center"><b>873</b></td>
   </tr>
   <tr>
     <td>
@@ -9219,7 +9219,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1310</b> <code>(rate -87)</code></td>
+    <td align="center"><b>1430</b> <code>(rate -86)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9245,10 +9245,10 @@
       </table>
     </td>
     <td>
-      Event: <b>600</b> <code>(45%)</code><br />Simulated Universe: <b>245</b>
-      <code>(18%)</code><br />Daily Activity: <b>235</b> <code>(17%)</code
-      ><br />Adventure Rewards: <b>150</b> <code>(11%)</code><br />Forgotten
-      Hall: <b>60</b> <code>(4%)</code><br />Other: <b>0</b> <code>(4%)</code
+      Event: <b>600</b> <code>(41%)</code><br />Daily Activity: <b>295</b>
+      <code>(20%)</code><br />Simulated Universe: <b>245</b> <code>(17%)</code
+      ><br />Adventure Rewards: <b>150</b> <code>(10%)</code><br />Forgotten
+      Hall: <b>120</b> <code>(8%)</code><br />Other: <b>0</b> <code>(3%)</code
       ><br />Mail: <b>20</b> <code>(1%)</code><br />
     </td>
   </tr>
@@ -9271,15 +9271,63 @@
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td align="center"><b>Mara and Null Stage 1</b></td>
+    <td align="center"><b>Mara and Null Stage 2</b></td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>1</b></td>
+    <td align="center"><b>2</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td align="center"><b>3</b></td>
+    <td align="center"><b>6</b></td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center">Mara and Null Stage 2</td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center">3 Stars</td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center">4</td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/9cf5e7c298ec401913bbfa1c4d2a9609.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/fdf90dce6acaa8b410069db26131a0cc.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/3b775939dd3ffb10e6c175e1467fc6ad.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/7ba39d92d011d93ddb33a3ba969ce2ce.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/5b188172a237ff93088d0eed215873be.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/903f763ac69a0b56f1248c4ff4acf8fe.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/36f08ae3287e7386841db3af6b141559.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/addaea9fd530536b9bbf38d0ea980ade.png"
+        height="18"
+      />
+    </td>
   </tr>
   <tr>
     <td>Name</td>
