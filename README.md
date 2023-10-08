@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Oct 08, 2023 12:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Oct 08, 2023 17:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9194,7 +9194,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>165</b></td>
+    <td><b>166</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9219,7 +9219,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1430</b> <code>(rate -86)</code></td>
+    <td align="center"><b>1610</b> <code>(rate -84)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9245,11 +9245,11 @@
       </table>
     </td>
     <td>
-      Event: <b>600</b> <code>(41%)</code><br />Daily Activity: <b>295</b>
-      <code>(20%)</code><br />Simulated Universe: <b>245</b> <code>(17%)</code
-      ><br />Adventure Rewards: <b>150</b> <code>(10%)</code><br />Forgotten
-      Hall: <b>120</b> <code>(8%)</code><br />Other: <b>0</b> <code>(3%)</code
-      ><br />Mail: <b>20</b> <code>(1%)</code><br />
+      Event: <b>600</b> <code>(37%)</code><br />Daily Activity: <b>355</b>
+      <code>(22%)</code><br />Simulated Universe: <b>245</b> <code>(15%)</code
+      ><br />Forgotten Hall: <b>240</b> <code>(14%)</code><br />Adventure
+      Rewards: <b>150</b> <code>(9%)</code><br />Other: <b>0</b>
+      <code>(2%)</code><br />Mail: <b>20</b> <code>(1%)</code><br />
     </td>
   </tr>
 </table>
@@ -9271,15 +9271,111 @@
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td align="center"><b>Mara and Null Stage 2</b></td>
+    <td align="center"><b>Mara and Null Stage 4</b></td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>2</b></td>
+    <td align="center"><b>4</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td align="center"><b>6</b></td>
+    <td align="center"><b>12</b></td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center">Mara and Null Stage 4</td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center">3 Stars</td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center">4</td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/fdf90dce6acaa8b410069db26131a0cc.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/36f08ae3287e7386841db3af6b141559.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/903f763ac69a0b56f1248c4ff4acf8fe.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/5b188172a237ff93088d0eed215873be.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/9cf5e7c298ec401913bbfa1c4d2a9609.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/3b775939dd3ffb10e6c175e1467fc6ad.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/addaea9fd530536b9bbf38d0ea980ade.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/7ba39d92d011d93ddb33a3ba969ce2ce.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center">Mara and Null Stage 3</td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center">3 Stars</td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center">4</td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/5b188172a237ff93088d0eed215873be.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/36f08ae3287e7386841db3af6b141559.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/903f763ac69a0b56f1248c4ff4acf8fe.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/fdf90dce6acaa8b410069db26131a0cc.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/3b775939dd3ffb10e6c175e1467fc6ad.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/9cf5e7c298ec401913bbfa1c4d2a9609.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/addaea9fd530536b9bbf38d0ea980ade.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/7ba39d92d011d93ddb33a3ba969ce2ce.png"
+        height="18"
+      />
+    </td>
   </tr>
   <tr>
     <td>Name</td>
@@ -10638,7 +10734,7 @@
                 ,
                 height="25"
               />
-              <code>+6</code><br />
+              <code>+11</code><br />
               ⭐⭐⭐⭐⭐<br />
               Hunter's Ice Dragon Cloak<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/c585495f3bdf29a2dfeab628165bb8f5.png"
