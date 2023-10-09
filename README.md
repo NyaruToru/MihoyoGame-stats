@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Oct 09, 2023 07:34 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Oct 09, 2023 12:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9194,7 +9194,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>166</b></td>
+    <td><b>167</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9202,11 +9202,11 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>280</b></td>
+    <td><b>281</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>234</b></td>
+    <td><b>235</b></td>
   </tr>
 </table>
 
@@ -10716,13 +10716,6 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/bc5e8c5efce9ce3ee808c1253f269b6a.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Hunter's Artaius Hood<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/62a5a04a0abe52f329c74bc965bc4a9d.png"
                 ,
                 height="25"
