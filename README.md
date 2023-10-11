@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Oct 11, 2023 22:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Oct 12, 2023 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -113,22 +113,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>11</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>12</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+          src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
           ,
           height="80" /></a
       ><br />
-      <b>20 x Primogem</b>
+      <b>3 x Fried Radish Balls</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-10-11 04:07:14+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-10-12 04:08:04+08:00</b></td>
   </tr>
 </table>
 
@@ -166,7 +166,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>874</b></td>
+    <td align="center"><b>875</b></td>
   </tr>
   <tr>
     <td>
@@ -649,7 +649,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>500</b> <code>(rate -87)</code></td>
+    <td align="center"><b>520</b> <code>(rate -86)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -660,15 +660,15 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>142722</b> <code>(rate -90)</code></td>
+    <td align="center"><b>156722</b> <code>(rate -89)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>440</b> <code>(88%)</code><br />Daily Activity: <b>60</b>
-      <code>(12%)</code><br />Events: <b>0</b> <code>(0%)</code><br />Spiral
+      Mail: <b>460</b> <code>(89%)</code><br />Daily Activity: <b>60</b>
+      <code>(11%)</code><br />Events: <b>0</b> <code>(0%)</code><br />Spiral
       Abyss: <b>0</b> <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code
       ><br />Adventure: <b>0</b> <code>(0%)</code><br />Other: <b>0</b>
       <code>(0%)</code><br />
@@ -9161,22 +9161,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>11</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>12</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Lost Gold Fragment</b>
+      <b>2 x Condensed Aether</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-10-11 04:07:15+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-10-12 04:08:05+08:00</b></td>
   </tr>
 </table>
 
@@ -9202,11 +9202,11 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>289</b></td>
+    <td><b>293</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>264</b></td>
+    <td><b>267</b></td>
   </tr>
 </table>
 
@@ -9219,7 +9219,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>5289</b> <code>(rate -49)</code></td>
+    <td align="center"><b>5894</b> <code>(rate -43)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9245,11 +9245,11 @@
       </table>
     </td>
     <td>
-      Adventure Rewards: <b>1950</b> <code>(36%)</code><br />Event: <b>1370</b>
-      <code>(25%)</code><br />Mail: <b>670</b> <code>(12%)</code><br />Daily
-      Activity: <b>495</b> <code>(9%)</code><br />Simulated Universe:
-      <b>500</b> <code>(9%)</code><br />Forgotten Hall: <b>300</b>
-      <code>(5%)</code><br />Other: <b>4</b> <code>(4%)</code><br />
+      Adventure Rewards: <b>2305</b> <code>(39%)</code><br />Event: <b>1620</b>
+      <code>(27%)</code><br />Mail: <b>670</b> <code>(11%)</code><br />Daily
+      Activity: <b>495</b> <code>(8%)</code><br />Simulated Universe:
+      <b>500</b> <code>(8%)</code><br />Forgotten Hall: <b>300</b>
+      <code>(5%)</code><br />Other: <b>4</b> <code>(2%)</code><br />
     </td>
   </tr>
 </table>
@@ -10557,10 +10557,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/7d8fee676f94041a5e1dc28c72c83e05.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/38a7a343def3d4612fa4004abdb23a61.png"
             height="20"
           />
-          Before the Tutorial Mission Starts
+          Fermata
         </h3>
       </th>
     </tr>
@@ -10575,7 +10575,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/7d8fee676f94041a5e1dc28c72c83e05.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/38a7a343def3d4612fa4004abdb23a61.png"
           />
         </p>
       </td>
@@ -10643,20 +10643,20 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/ac407e9624a3d9cb7719e3f750149317.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/09dc4b95569f0fbbf85ca7a7fae70a41.png"
                 ,
                 height="25"
               />
               <code>+13</code><br />
               ⭐⭐⭐⭐⭐<br />
-              The IPC's Mega HQ<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/8d355ec6be650687e84608bc10b63489.png"
+              Herta's Space Station<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/2fa18aacdfbd1a8c89913a458fe09b10.png"
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+14</code><br />
               ⭐⭐⭐⭐⭐<br />
-              The IPC's Trade Route<br />
+              Herta's Wandering Trek<br />
             </td>
           </tr>
         </table>
@@ -10665,15 +10665,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Before the Tutorial Mission Starts</td>
+            <td align="center">Fermata</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -11415,13 +11415,13 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/8318ee15904846e48e20cc8e48d66db7.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/0210ee229d5a0608380ba148175a49d2.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Messenger's Holovisor<br /><img
+              Wastelander's Breathing Mask<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/8c940b778a91bce719acd8486e4e18c1.png"
                 ,
                 height="25"
@@ -11449,20 +11449,20 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/09dc4b95569f0fbbf85ca7a7fae70a41.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1e020ac594b5b8efeef38bcbf8efbfd6.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Herta's Space Station<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/eb673d42bf9203bc68cc737377bb6477.png"
+              The Xianzhou Luofu's Celestial Ark<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/edc1ea6f1377e02d0a90bd65d38e25fc.png"
                 ,
                 height="25"
               />
-              <code>+8</code><br />
+              <code>+13</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Insumousu's Frayed Hawser<br />
+              The Xianzhou Luofu's Ambrosial Arbor Vines<br />
             </td>
           </tr>
         </table>
@@ -11798,10 +11798,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/38a7a343def3d4612fa4004abdb23a61.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/7d8fee676f94041a5e1dc28c72c83e05.png"
             height="20"
           />
-          Fermata
+          Before the Tutorial Mission Starts
         </h3>
       </th>
     </tr>
@@ -11816,7 +11816,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/38a7a343def3d4612fa4004abdb23a61.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/7d8fee676f94041a5e1dc28c72c83e05.png"
           />
         </p>
       </td>
@@ -11840,7 +11840,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+61</code></td>
+            <td align="center"><code>+69</code></td>
           </tr>
           <tr>
             <td>Eidolon</td>
@@ -11880,21 +11880,41 @@
               Musketeer's Rivets Riding Boots<br />
             </td>
           </tr>
+          <tr>
+            <td>Planar</td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/ac407e9624a3d9cb7719e3f750149317.png"
+                ,
+                height="25"
+              />
+              <code>+11</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              The IPC's Mega HQ<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/8d355ec6be650687e84608bc10b63489.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              The IPC's Trade Route<br />
+            </td>
+          </tr>
         </table>
       </td>
       <td valign="top">
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Fermata</td>
+            <td align="center">Before the Tutorial Mission Starts</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+1</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
