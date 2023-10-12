@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Oct 12, 2023 17:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Oct 12, 2023 22:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -10653,20 +10653,20 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/09dc4b95569f0fbbf85ca7a7fae70a41.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/ac407e9624a3d9cb7719e3f750149317.png"
                 ,
                 height="25"
               />
-              <code>+13</code><br />
+              <code>+11</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Herta's Space Station<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/2fa18aacdfbd1a8c89913a458fe09b10.png"
+              The IPC's Mega HQ<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/8d355ec6be650687e84608bc10b63489.png"
                 ,
                 height="25"
               />
-              <code>+14</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Herta's Wandering Trek<br />
+              The IPC's Trade Route<br />
             </td>
           </tr>
         </table>
@@ -11152,7 +11152,14 @@
               />
               <code>+13</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Musketeer's Wind-Hunting Shawl<br />
+              Musketeer's Wind-Hunting Shawl<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/15d9ed12ae39f38e80ce44e44e491e02.png"
+                ,
+                height="25"
+              />
+              <code>+14</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Musketeer's Rivets Riding Boots<br />
             </td>
           </tr>
           <tr>
@@ -11730,7 +11737,7 @@
                 ,
                 height="25"
               />
-              <code>+14</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               Musketeer's Rivets Riding Boots<br />
             </td>
@@ -11884,20 +11891,20 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/ac407e9624a3d9cb7719e3f750149317.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/09dc4b95569f0fbbf85ca7a7fae70a41.png"
                 ,
                 height="25"
               />
-              <code>+11</code><br />
+              <code>+13</code><br />
               ⭐⭐⭐⭐⭐<br />
-              The IPC's Mega HQ<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/8d355ec6be650687e84608bc10b63489.png"
+              Herta's Space Station<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/2fa18aacdfbd1a8c89913a458fe09b10.png"
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+14</code><br />
               ⭐⭐⭐⭐⭐<br />
-              The IPC's Trade Route<br />
+              Herta's Wandering Trek<br />
             </td>
           </tr>
         </table>
