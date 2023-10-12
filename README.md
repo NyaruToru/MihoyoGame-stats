@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Oct 12, 2023 12:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Oct 12, 2023 17:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9219,7 +9219,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>5894</b> <code>(rate -43)</code></td>
+    <td align="center"><b>5939</b> <code>(rate -43)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9245,9 +9245,9 @@
       </table>
     </td>
     <td>
-      Adventure Rewards: <b>2305</b> <code>(39%)</code><br />Event: <b>1620</b>
+      Adventure Rewards: <b>2305</b> <code>(38%)</code><br />Event: <b>1620</b>
       <code>(27%)</code><br />Mail: <b>670</b> <code>(11%)</code><br />Daily
-      Activity: <b>495</b> <code>(8%)</code><br />Simulated Universe:
+      Activity: <b>540</b> <code>(9%)</code><br />Simulated Universe:
       <b>500</b> <code>(8%)</code><br />Forgotten Hall: <b>300</b>
       <code>(5%)</code><br />Other: <b>4</b> <code>(2%)</code><br />
     </td>
@@ -9550,7 +9550,13 @@
         </h3>
       </th>
       <th align="center">
-        <h3><img src="" height="20" /></h3>
+        <h3>
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/b856b6c88bbe72ddbac8b12a8b6c872c.png"
+            height="20"
+          />
+          The Moles Welcome You
+        </h3>
       </th>
     </tr>
     <tr>
@@ -9562,7 +9568,11 @@
         </p>
       </td>
       <td>
-        <p align="center"><img src="" /></p>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/b856b6c88bbe72ddbac8b12a8b6c872c.png"
+          />
+        </p>
       </td>
     </tr>
     <tr>
@@ -9650,15 +9660,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center"></td>
+            <td align="center">The Moles Welcome You</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+</code></td>
+            <td align="center"><code>+60</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code></code></td>
+            <td align="center"><code>4</code></td>
           </tr>
         </table>
       </td>
@@ -9687,10 +9697,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/7c9af121d05f8009ff461c6f8fcdec93.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/2cb68d4e40485fb60e4731309f3a3c54.png"
             height="20"
           />
-          A Secret Vow
+          Under the Blue Sky
         </h3>
       </th>
     </tr>
@@ -9705,7 +9715,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/7c9af121d05f8009ff461c6f8fcdec93.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/2cb68d4e40485fb60e4731309f3a3c54.png"
           />
         </p>
       </td>
@@ -9764,7 +9774,7 @@
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+13</code><br />
               ⭐⭐⭐⭐⭐<br />
               Hunter's Soft Elkskin Boots<br />
             </td>
@@ -9777,7 +9787,7 @@
                 ,
                 height="25"
               />
-              <code>+13</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Taikiyan Laser Stadium<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/0cc39dc119dd82e3a9ea4839200fde75.png"
@@ -9795,7 +9805,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">A Secret Vow</td>
+            <td align="center">Under the Blue Sky</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -9803,7 +9813,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>4</code></td>
           </tr>
         </table>
       </td>
@@ -9832,10 +9842,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/2cb68d4e40485fb60e4731309f3a3c54.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/7c9af121d05f8009ff461c6f8fcdec93.png"
             height="20"
           />
-          Under the Blue Sky
+          A Secret Vow
         </h3>
       </th>
     </tr>
@@ -9850,7 +9860,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/2cb68d4e40485fb60e4731309f3a3c54.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/7c9af121d05f8009ff461c6f8fcdec93.png"
           />
         </p>
       </td>
@@ -9940,7 +9950,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Under the Blue Sky</td>
+            <td align="center">A Secret Vow</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -9948,7 +9958,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>4</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -10557,10 +10567,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/38a7a343def3d4612fa4004abdb23a61.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/7d8fee676f94041a5e1dc28c72c83e05.png"
             height="20"
           />
-          Fermata
+          Before the Tutorial Mission Starts
         </h3>
       </th>
     </tr>
@@ -10575,7 +10585,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/38a7a343def3d4612fa4004abdb23a61.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/7d8fee676f94041a5e1dc28c72c83e05.png"
           />
         </p>
       </td>
@@ -10665,15 +10675,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Fermata</td>
+            <td align="center">Before the Tutorial Mission Starts</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+1</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -10700,13 +10710,7 @@
         </h3>
       </th>
       <th align="center">
-        <h3>
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/b856b6c88bbe72ddbac8b12a8b6c872c.png"
-            height="20"
-          />
-          The Moles Welcome You
-        </h3>
+        <h3><img src="" height="20" /></h3>
       </th>
     </tr>
     <tr>
@@ -10718,11 +10722,7 @@
         </p>
       </td>
       <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/b856b6c88bbe72ddbac8b12a8b6c872c.png"
-          />
-        </p>
+        <p align="center"><img src="" /></p>
       </td>
     </tr>
     <tr>
@@ -10810,15 +10810,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">The Moles Welcome You</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+60</code></td>
+            <td align="center"><code>+</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>4</code></td>
+            <td align="center"><code></code></td>
           </tr>
         </table>
       </td>
@@ -11415,13 +11415,13 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/0210ee229d5a0608380ba148175a49d2.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/8318ee15904846e48e20cc8e48d66db7.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Wastelander's Breathing Mask<br /><img
+              Messenger's Holovisor<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/8c940b778a91bce719acd8486e4e18c1.png"
                 ,
                 height="25"
@@ -11798,10 +11798,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/7d8fee676f94041a5e1dc28c72c83e05.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/38a7a343def3d4612fa4004abdb23a61.png"
             height="20"
           />
-          Before the Tutorial Mission Starts
+          Fermata
         </h3>
       </th>
     </tr>
@@ -11816,7 +11816,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/7d8fee676f94041a5e1dc28c72c83e05.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/38a7a343def3d4612fa4004abdb23a61.png"
           />
         </p>
       </td>
@@ -11906,15 +11906,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Before the Tutorial Mission Starts</td>
+            <td align="center">Fermata</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
