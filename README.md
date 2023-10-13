@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Oct 13, 2023 17:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Oct 13, 2023 22:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9202,7 +9202,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>296</b></td>
+    <td><b>300</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -9219,7 +9219,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>6359</b> <code>(rate -39)</code></td>
+    <td align="center"><b>6419</b> <code>(rate -38)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9245,11 +9245,11 @@
       </table>
     </td>
     <td>
-      Adventure Rewards: <b>2490</b> <code>(39%)</code><br />Event: <b>1700</b>
-      <code>(26%)</code><br />Mail: <b>670</b> <code>(10%)</code><br />Daily
-      Activity: <b>575</b> <code>(9%)</code><br />Simulated Universe:
+      Adventure Rewards: <b>2490</b> <code>(38%)</code><br />Event: <b>1700</b>
+      <code>(26%)</code><br />Mail: <b>690</b> <code>(10%)</code><br />Daily
+      Activity: <b>615</b> <code>(9%)</code><br />Simulated Universe:
       <b>500</b> <code>(7%)</code><br />Forgotten Hall: <b>420</b>
-      <code>(6%)</code><br />Other: <b>4</b> <code>(3%)</code><br />
+      <code>(6%)</code><br />Other: <b>4</b> <code>(4%)</code><br />
     </td>
   </tr>
 </table>
@@ -9845,34 +9845,34 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/87bf0f9323b69ad4ae02602d3cd9b472.png"
-                ,
-                height="25"
-              />
-              <code>+10</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Musketeer's Wild Wheat Felt Hat<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/56efca6c97c906d8e0fe507f874354e4.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/e85b575d7baed72e83f74f6c221b1d0f.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Musketeer's Coarse Leather Gloves<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/d504df7a35c26306264815ddc0ed6f4a.png"
+              Hunter's Artaius Hood<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/dc9bf55cfcc070f855a5065124b2d97e.png"
                 ,
                 height="25"
               />
-              <code>+13</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Musketeer's Wind-Hunting Shawl<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/15d9ed12ae39f38e80ce44e44e491e02.png"
+              Hunter's Lizard Gloves<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/896a10cf1010a5bd1a24507961e9eecd.png"
                 ,
                 height="25"
               />
-              <code>+14</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Musketeer's Rivets Riding Boots<br />
+              Hunter's Ice Dragon Cloak<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/aca05b6c929aa5cd4cb2da5232befe2d.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Hunter's Soft Elkskin Boots<br />
             </td>
           </tr>
           <tr>
@@ -10854,7 +10854,7 @@
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+3</code><br />
               ⭐⭐⭐⭐⭐<br />
               Hunter's Artaius Hood<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/eac4171dc524f344d76efc0c5a59aeb9.png"
@@ -11246,14 +11246,14 @@
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               Hunter's Ice Dragon Cloak<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/aca05b6c929aa5cd4cb2da5232befe2d.png"
                 ,
                 height="25"
               />
-              <code>+13</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Hunter's Soft Elkskin Boots<br />
             </td>
@@ -11377,21 +11377,21 @@
                 ,
                 height="25"
               />
-              <code>+9</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               Messenger's Holovisor<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/8c940b778a91bce719acd8486e4e18c1.png"
                 ,
                 height="25"
               />
-              <code>+6</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               Messenger's Transformative Arm<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/ef3248255b3cb430865e5dcdfe32b28f.png"
                 ,
                 height="25"
               />
-              <code>+6</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               Messenger's Secret Satchel<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/fd3ca655e59b8f41675451200c0f9c3e.png"
@@ -11522,21 +11522,21 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+10</code><br />
               ⭐⭐⭐⭐⭐<br />
               Messenger's Holovisor<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/8c940b778a91bce719acd8486e4e18c1.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+6</code><br />
               ⭐⭐⭐⭐⭐<br />
               Messenger's Transformative Arm<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/ef3248255b3cb430865e5dcdfe32b28f.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+6</code><br />
               ⭐⭐⭐⭐⭐<br />
               Messenger's Secret Satchel<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/fd3ca655e59b8f41675451200c0f9c3e.png"
@@ -11964,7 +11964,7 @@
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+3</code><br />
               ⭐⭐⭐⭐⭐<br />
               Hunter's Lizard Gloves<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/d504df7a35c26306264815ddc0ed6f4a.png"
