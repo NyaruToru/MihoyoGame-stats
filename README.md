@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Oct 13, 2023 22:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Oct 14, 2023 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -113,22 +113,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>13</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>14</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Adventurer's Experience</b>
+      <b>8000 x Mora</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-10-13 04:07:59+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-10-14 04:08:20+08:00</b></td>
   </tr>
 </table>
 
@@ -9161,22 +9161,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>13</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>14</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      <b>20 x Stellar Jade</b>
+      <b>5000 x Credit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-10-13 04:08:00+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-10-14 04:08:21+08:00</b></td>
   </tr>
 </table>
 
@@ -9202,7 +9202,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>300</b></td>
+    <td><b>301</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -9219,7 +9219,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>6419</b> <code>(rate -38)</code></td>
+    <td align="center"><b>6819</b> <code>(rate -34)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9245,11 +9245,11 @@
       </table>
     </td>
     <td>
-      Adventure Rewards: <b>2490</b> <code>(38%)</code><br />Event: <b>1700</b>
-      <code>(26%)</code><br />Mail: <b>690</b> <code>(10%)</code><br />Daily
+      Adventure Rewards: <b>2740</b> <code>(40%)</code><br />Event: <b>1700</b>
+      <code>(24%)</code><br />Mail: <b>690</b> <code>(10%)</code><br />Daily
       Activity: <b>615</b> <code>(9%)</code><br />Simulated Universe:
-      <b>500</b> <code>(7%)</code><br />Forgotten Hall: <b>420</b>
-      <code>(6%)</code><br />Other: <b>4</b> <code>(4%)</code><br />
+      <b>650</b> <code>(9%)</code><br />Forgotten Hall: <b>420</b>
+      <code>(6%)</code><br />Other: <b>4</b> <code>(2%)</code><br />
     </td>
   </tr>
 </table>
@@ -10595,7 +10595,7 @@
                 ,
                 height="25"
               />
-              <code>+12</code><br />
+              <code>+14</code><br />
               ⭐⭐⭐⭐⭐<br />
               Messenger's Par-kool Sneakers<br />
             </td>
@@ -10615,7 +10615,7 @@
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+13</code><br />
               ⭐⭐⭐⭐⭐<br />
               Insumousu's Frayed Hawser<br />
             </td>
@@ -10630,7 +10630,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+70</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
@@ -11543,7 +11543,7 @@
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+12</code><br />
               ⭐⭐⭐⭐⭐<br />
               Messenger's Par-kool Sneakers<br />
             </td>
