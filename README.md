@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Oct 15, 2023 07:36 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Oct 15, 2023 12:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9194,7 +9194,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>172</b></td>
+    <td><b>173</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9229,7 +9229,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>33</b> <code>(rate -8)</code></td>
+    <td align="center"><b>34</b> <code>(rate -5)</code></td>
   </tr>
   <tr>
     <td align="center">
