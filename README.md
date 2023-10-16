@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Oct 16, 2023 22:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Oct 17, 2023 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -113,22 +113,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>16</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>17</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      <b>5 x Fine Enhancement Ore</b>
+      <b>5000 x Mora</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-10-16 04:07:31+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-10-17 04:08:32+08:00</b></td>
   </tr>
 </table>
 
@@ -9161,22 +9161,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>16</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>17</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventure Log</b>
+      <b>2 x Condensed Aether</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-10-16 04:07:32+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-10-17 04:08:33+08:00</b></td>
   </tr>
 </table>
 
@@ -9219,7 +9219,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>6969</b> <code>(rate -33)</code></td>
+    <td align="center"><b>7029</b> <code>(rate -32)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9245,11 +9245,88 @@
       </table>
     </td>
     <td>
-      Adventure Rewards: <b>2740</b> <code>(39%)</code><br />Event: <b>1700</b>
+      Adventure Rewards: <b>2740</b> <code>(38%)</code><br />Event: <b>1700</b>
       <code>(24%)</code><br />Daily Activity: <b>765</b> <code>(10%)</code
       ><br />Simulated Universe: <b>650</b> <code>(9%)</code><br />Mail:
-      <b>690</b> <code>(9%)</code><br />Forgotten Hall: <b>420</b>
-      <code>(6%)</code><br />Other: <b>4</b> <code>(3%)</code><br />
+      <b>690</b> <code>(9%)</code><br />Forgotten Hall: <b>480</b>
+      <code>(6%)</code><br />Other: <b>4</b> <code>(4%)</code><br />
+    </td>
+  </tr>
+</table>
+<h2 align="center">
+  <img
+    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
+    height="20"
+  />
+  Memory of Chaos
+  <img
+    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
+    height="20"
+  />
+</h2>
+<table align="center">
+  <tr>
+    <td>Season</td>
+    <td align="center"><b>1004</b></td>
+  </tr>
+  <tr>
+    <td>Max Floor</td>
+    <td align="center"><b>Living and Flaming Catastrophes Stage 1</b></td>
+  </tr>
+  <tr>
+    <td>Total Battles</td>
+    <td align="center"><b>1</b></td>
+  </tr>
+  <tr>
+    <td>Total Stars</td>
+    <td align="center"><b>3</b></td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center">Living and Flaming Catastrophes Stage 1</td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center">3 Stars</td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center">1</td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/b47d6a3fc73eb0e793a416bd227de6f4.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/651f564d8d8cccbffbd0a3ae8de49a4d.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/35a308c073616ed26f79b7d05b7ffbc1.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/83c9d5f434555dd91ae4989d56c9535d.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/b70456f0344e891eb90b24cd242922af.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/732443ba2ad3f973f571afcb3fcf3cf6.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/df179e2af97db27fb53756082f78a31b.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/889801f76987dc969f54e8751e36024f.png"
+        height="18"
+      />
     </td>
   </tr>
 </table>
