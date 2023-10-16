@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Oct 16, 2023 17:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Oct 16, 2023 22:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -716,11 +716,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u96d7e/c6c26098f8c3e55aee7cc4e7e7039494.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u96d7e/3692bc30b5c7f826424dac810e36de5c.png"
             ,
             height="20"
           />
-          Kagotsurube Isshin
+          Primordial Jade Cutter
         </h3>
       </th>
     </tr>
@@ -737,7 +737,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u96d7e/c6c26098f8c3e55aee7cc4e7e7039494.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u96d7e/3692bc30b5c7f826424dac810e36de5c.png"
             ,
             height="256"
           />
@@ -828,7 +828,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Kagotsurube Isshin</td>
+            <td align="center">Primordial Jade Cutter</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -836,15 +836,15 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+1</code></td>
+            <td align="center"><code>+90</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>0</code></td>
+            <td align="center"><code>6</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -1021,11 +1021,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u96d7e/a0ac5bcfef85a47b948a78e66c720d53.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u96d7e/8dee0a58dc7d989a68f262d53d2bdb1c.png"
             ,
             height="20"
           />
-          Deathmatch
+          Favonius Lance
         </h3>
       </th>
     </tr>
@@ -1042,7 +1042,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u96d7e/a0ac5bcfef85a47b948a78e66c720d53.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u96d7e/8dee0a58dc7d989a68f262d53d2bdb1c.png"
             ,
             height="256"
           />
@@ -1133,7 +1133,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Deathmatch</td>
+            <td align="center">Favonius Lance</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -1145,15 +1145,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+90</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>6</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>3</code></td>
+            <td align="center"><code>4</code></td>
           </tr>
         </table>
       </td>
@@ -1344,11 +1344,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u96d7e/8dee0a58dc7d989a68f262d53d2bdb1c.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u96d7e/a0ac5bcfef85a47b948a78e66c720d53.png"
             ,
             height="20"
           />
-          Favonius Lance
+          Deathmatch
         </h3>
       </th>
     </tr>
@@ -1365,7 +1365,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u96d7e/8dee0a58dc7d989a68f262d53d2bdb1c.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u96d7e/a0ac5bcfef85a47b948a78e66c720d53.png"
             ,
             height="256"
           />
@@ -1456,7 +1456,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Favonius Lance</td>
+            <td align="center">Deathmatch</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -1468,15 +1468,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+90</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>6</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>4</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
         </table>
       </td>
@@ -2803,11 +2803,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u96d7e/3692bc30b5c7f826424dac810e36de5c.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u96d7e/c6c26098f8c3e55aee7cc4e7e7039494.png"
             ,
             height="20"
           />
-          Primordial Jade Cutter
+          Kagotsurube Isshin
         </h3>
       </th>
     </tr>
@@ -2824,7 +2824,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u96d7e/3692bc30b5c7f826424dac810e36de5c.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u96d7e/c6c26098f8c3e55aee7cc4e7e7039494.png"
             ,
             height="256"
           />
@@ -2915,7 +2915,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Primordial Jade Cutter</td>
+            <td align="center">Kagotsurube Isshin</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -2923,15 +2923,15 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+90</code></td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>6</code></td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -9219,7 +9219,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>6929</b> <code>(rate -33)</code></td>
+    <td align="center"><b>6969</b> <code>(rate -33)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9246,7 +9246,7 @@
     </td>
     <td>
       Adventure Rewards: <b>2740</b> <code>(39%)</code><br />Event: <b>1700</b>
-      <code>(24%)</code><br />Daily Activity: <b>725</b> <code>(10%)</code
+      <code>(24%)</code><br />Daily Activity: <b>765</b> <code>(10%)</code
       ><br />Simulated Universe: <b>650</b> <code>(9%)</code><br />Mail:
       <b>690</b> <code>(9%)</code><br />Forgotten Hall: <b>420</b>
       <code>(6%)</code><br />Other: <b>4</b> <code>(3%)</code><br />
