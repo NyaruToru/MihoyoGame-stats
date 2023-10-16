@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Oct 16, 2023 12:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Oct 16, 2023 17:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -166,7 +166,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>875</b></td>
+    <td align="center"><b>876</b></td>
   </tr>
   <tr>
     <td>
@@ -280,7 +280,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>-</b></td>
+    <td align="center"><b>8-3</b></td>
   </tr>
 </table>
 
@@ -660,7 +660,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>156722</b> <code>(rate -89)</code></td>
+    <td align="center"><b>156916</b> <code>(rate -89)</code></td>
   </tr>
   <tr>
     <td align="center">
