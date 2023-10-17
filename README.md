@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Oct 17, 2023 07:34 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Oct 17, 2023 12:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -166,7 +166,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>876</b></td>
+    <td align="center"><b>877</b></td>
   </tr>
   <tr>
     <td>
@@ -240,14 +240,14 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>2005</b></td>
+    <td align="center"><b>2006</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>1333</b></td>
+    <td align="center"><b>1334</b></td>
   </tr>
   <tr>
     <td>
@@ -660,7 +660,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>156916</b> <code>(rate -89)</code></td>
+    <td align="center"><b>157216</b> <code>(rate -89)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9194,7 +9194,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>174</b></td>
+    <td><b>175</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9229,7 +9229,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>35</b> <code>(rate -2)</code></td>
+    <td align="center"><b>38</b> <code>(rate 5)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9505,10 +9505,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/7c9af121d05f8009ff461c6f8fcdec93.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/2cb68d4e40485fb60e4731309f3a3c54.png"
             height="20"
           />
-          A Secret Vow
+          Under the Blue Sky
         </h3>
       </th>
     </tr>
@@ -9523,7 +9523,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/7c9af121d05f8009ff461c6f8fcdec93.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/2cb68d4e40485fb60e4731309f3a3c54.png"
           />
         </p>
       </td>
@@ -9613,7 +9613,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">A Secret Vow</td>
+            <td align="center">Under the Blue Sky</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -9621,7 +9621,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>4</code></td>
           </tr>
         </table>
       </td>
