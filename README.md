@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Oct 23, 2023 17:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Oct 23, 2023 22:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9194,7 +9194,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>180</b></td>
+    <td><b>181</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9219,7 +9219,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>7459</b> <code>(rate -28)</code></td>
+    <td align="center"><b>7499</b> <code>(rate -28)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9246,8 +9246,8 @@
     </td>
     <td>
       Adventure Rewards: <b>2750</b> <code>(36%)</code><br />Event: <b>1700</b>
-      <code>(22%)</code><br />Daily Activity: <b>1050</b> <code>(14%)</code
-      ><br />Simulated Universe: <b>765</b> <code>(10%)</code><br />Mail:
+      <code>(22%)</code><br />Daily Activity: <b>1060</b> <code>(14%)</code
+      ><br />Simulated Universe: <b>795</b> <code>(10%)</code><br />Mail:
       <b>710</b> <code>(9%)</code><br />Forgotten Hall: <b>480</b>
       <code>(6%)</code><br />Other: <b>4</b> <code>(3%)</code><br />
     </td>
@@ -9360,10 +9360,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/b856b6c88bbe72ddbac8b12a8b6c872c.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/2cb68d4e40485fb60e4731309f3a3c54.png"
             height="20"
           />
-          The Moles Welcome You
+          Under the Blue Sky
         </h3>
       </th>
     </tr>
@@ -9378,7 +9378,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/b856b6c88bbe72ddbac8b12a8b6c872c.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/2cb68d4e40485fb60e4731309f3a3c54.png"
           />
         </p>
       </td>
@@ -9468,11 +9468,11 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">The Moles Welcome You</td>
+            <td align="center">Under the Blue Sky</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+60</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
