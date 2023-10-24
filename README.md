@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Oct 24, 2023 22:10 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Oct 25, 2023 03:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -113,22 +113,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>24</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>25</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Mora</b>
+      <b>3 x Hero's Wit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-10-24 04:07:16+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-10-25 04:07:54+08:00</b></td>
   </tr>
 </table>
 
@@ -155,7 +155,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>750</b></td>
+    <td align="center"><b>751</b></td>
   </tr>
   <tr>
     <td>
@@ -166,7 +166,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>880</b></td>
+    <td align="center"><b>881</b></td>
   </tr>
   <tr>
     <td>
@@ -183,7 +183,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>336</b></td>
+    <td align="center"><b>338</b></td>
   </tr>
   <tr>
     <td>
@@ -9146,7 +9146,7 @@
     </th>
     <td colspan="2" align="center">
       <img src="./images/logo/hsr-level.webp" , height="18" /> <b>BiZuShinn</b>
-      <code>Lv. 68</code>
+      <code>Lv. 69</code>
     </td>
   </tr>
   <tr>
@@ -9161,22 +9161,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>24</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>25</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6c600507c71c6eafa40ad3066c1c9601_4411785649112465062.png"
           ,
           height="80" /></a
       ><br />
-      <b>8000 x Credit</b>
+      <b>1 x Disposable Kinetic Arm</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-10-24 04:07:17+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-10-25 04:07:55+08:00</b></td>
   </tr>
 </table>
 
@@ -9206,7 +9206,7 @@
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>268</b></td>
+    <td><b>271</b></td>
   </tr>
 </table>
 
@@ -9219,7 +9219,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>7549</b> <code>(rate -27)</code></td>
+    <td align="center"><b>7659</b> <code>(rate -26)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9245,11 +9245,11 @@
       </table>
     </td>
     <td>
-      Adventure Rewards: <b>2750</b> <code>(36%)</code><br />Event: <b>1700</b>
-      <code>(22%)</code><br />Daily Activity: <b>1110</b> <code>(14%)</code
+      Adventure Rewards: <b>2800</b> <code>(36%)</code><br />Event: <b>1700</b>
+      <code>(22%)</code><br />Daily Activity: <b>1170</b> <code>(15%)</code
       ><br />Simulated Universe: <b>795</b> <code>(10%)</code><br />Mail:
       <b>710</b> <code>(9%)</code><br />Forgotten Hall: <b>480</b>
-      <code>(6%)</code><br />Other: <b>4</b> <code>(3%)</code><br />
+      <code>(6%)</code><br />Other: <b>4</b> <code>(2%)</code><br />
     </td>
   </tr>
 </table>
@@ -9858,7 +9858,7 @@
                 ,
                 height="25"
               />
-              <code>+8</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Passerby's Roaming Dragon Bracer<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/73ab9ae76f9d10da9036cb0943315ff7.png"
@@ -9892,7 +9892,7 @@
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+12</code><br />
               ⭐⭐⭐⭐⭐<br />
               Insumousu's Frayed Hawser<br />
             </td>
