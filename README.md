@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Oct 25, 2023 22:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Oct 26, 2023 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -113,22 +113,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>25</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>26</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+          src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Hero's Wit</b>
+      <b>3 x Almond Tofu</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-10-25 04:07:54+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-10-26 04:08:11+08:00</b></td>
   </tr>
 </table>
 
@@ -9161,22 +9161,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>25</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>26</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6c600507c71c6eafa40ad3066c1c9601_4411785649112465062.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/7cb0e487e051f177d3f41de8d4bbc521_1182531883532191221.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Disposable Kinetic Arm</b>
+      <b>2 x Refined Aether</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-10-25 04:07:55+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-10-26 04:08:11+08:00</b></td>
   </tr>
 </table>
 
@@ -9219,7 +9219,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>7659</b> <code>(rate -26)</code></td>
+    <td align="center"><b>7719</b> <code>(rate -26)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9246,7 +9246,7 @@
     </td>
     <td>
       Adventure Rewards: <b>2800</b> <code>(36%)</code><br />Event: <b>1700</b>
-      <code>(22%)</code><br />Daily Activity: <b>1170</b> <code>(15%)</code
+      <code>(22%)</code><br />Daily Activity: <b>1230</b> <code>(15%)</code
       ><br />Simulated Universe: <b>795</b> <code>(10%)</code><br />Mail:
       <b>710</b> <code>(9%)</code><br />Forgotten Hall: <b>480</b>
       <code>(6%)</code><br />Other: <b>4</b> <code>(2%)</code><br />
