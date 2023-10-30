@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Oct 30, 2023 22:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Oct 31, 2023 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -113,7 +113,7 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>30</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>31</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -128,7 +128,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-10-30 04:07:32+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-10-31 04:08:17+08:00</b></td>
   </tr>
 </table>
 
@@ -9161,7 +9161,7 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>30</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>31</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9176,7 +9176,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-10-30 04:07:32+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-10-31 04:08:17+08:00</b></td>
   </tr>
 </table>
 
@@ -9219,7 +9219,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>8714</b> <code>(rate -16)</code></td>
+    <td align="center"><b>8834</b> <code>(rate -15)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9245,11 +9245,88 @@
       </table>
     </td>
     <td>
-      Adventure Rewards: <b>2800</b> <code>(32%)</code><br />Event: <b>1720</b>
-      <code>(19%)</code><br />Daily Activity: <b>1430</b> <code>(16%)</code
+      Adventure Rewards: <b>2800</b> <code>(31%)</code><br />Event: <b>1720</b>
+      <code>(19%)</code><br />Daily Activity: <b>1490</b> <code>(16%)</code
       ><br />Simulated Universe: <b>1040</b> <code>(11%)</code><br />Forgotten
-      Hall: <b>960</b> <code>(11%)</code><br />Mail: <b>760</b> <code>(8%)</code
-      ><br />Other: <b>4</b> <code>(3%)</code><br />
+      Hall: <b>1020</b> <code>(11%)</code><br />Mail: <b>760</b>
+      <code>(8%)</code><br />Other: <b>4</b> <code>(4%)</code><br />
+    </td>
+  </tr>
+</table>
+<h2 align="center">
+  <img
+    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
+    height="20"
+  />
+  Memory of Chaos
+  <img
+    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
+    height="20"
+  />
+</h2>
+<table align="center">
+  <tr>
+    <td>Season</td>
+    <td align="center"><b>1005</b></td>
+  </tr>
+  <tr>
+    <td>Max Floor</td>
+    <td align="center"><b>Ambrosial Arbor's Arrival Stage 1</b></td>
+  </tr>
+  <tr>
+    <td>Total Battles</td>
+    <td align="center"><b>1</b></td>
+  </tr>
+  <tr>
+    <td>Total Stars</td>
+    <td align="center"><b>3</b></td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center">Ambrosial Arbor's Arrival Stage 1</td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center">3 Stars</td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center">3</td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/c4941902be83f4b5bc8be5d73218d21f.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/dc2a0ff355dd293354d040e669625b90.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/be9880c30435f23da28b0adaccf71207.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/2f9cd49c0f975df86388f6c07e0e8c81.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td>
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/af0c075bbfd7e3cedd2b1acc3f1c37aa.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/b047cf9bc65f830e9d87bad7f194efc3.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/2e11cffa0daf8bcf1e2c43aa19d01397.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/0c0b2dbfd1f9565aee9302044d60a6a5.png"
+        height="18"
+      />
     </td>
   </tr>
 </table>
