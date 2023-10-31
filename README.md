@@ -48,7 +48,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Oct 31, 2023 22:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 01, 2023 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -113,22 +113,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>31</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>1</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Mora</b>
+      <b>3 x Adventurer's Experience</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-10-31 04:08:17+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-11-01 04:08:14+08:00</b></td>
   </tr>
 </table>
 
@@ -280,7 +280,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>8-3</b></td>
+    <td align="center"><b>-</b></td>
   </tr>
 </table>
 
@@ -649,7 +649,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>814</b> <code>(rate -79)</code></td>
+    <td align="center"><b>0</b> <code>(rate -100)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -660,18 +660,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>364820</b> <code>(rate -75)</code></td>
+    <td align="center"><b>0</b> <code>(rate -100)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>610</b> <code>(75%)</code><br />Daily Activity: <b>140</b>
-      <code>(18%)</code><br />Events: <b>40</b> <code>(4%)</code
-      ><br />Adventure: <b>22</b> <code>(2%)</code><br />Spiral Abyss: <b>0</b>
-      <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
-      <b>2</b> <code>(1%)</code><br />
+      Events: <b>0</b> <code>(0%)</code><br />Daily Activity: <b>0</b>
+      <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      ><br />Quests: <b>0</b> <code>(0%)</code><br />Adventure: <b>0</b>
+      <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code><br />Other:
+      <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -9161,22 +9161,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>31</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>1</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Credit</b>
+      <b>2 x Adventure Log</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-10-31 04:08:17+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-11-01 04:08:15+08:00</b></td>
   </tr>
 </table>
 
@@ -9219,7 +9219,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>8834</b> <code>(rate -15)</code></td>
+    <td align="center"><b>60</b> <code>(rate -99)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9229,7 +9229,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>42</b> <code>(rate 16)</code></td>
+    <td align="center"><b>0</b> <code>(rate -100)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9245,11 +9245,11 @@
       </table>
     </td>
     <td>
-      Adventure Rewards: <b>2800</b> <code>(31%)</code><br />Event: <b>1720</b>
-      <code>(19%)</code><br />Daily Activity: <b>1490</b> <code>(16%)</code
-      ><br />Simulated Universe: <b>1040</b> <code>(11%)</code><br />Forgotten
-      Hall: <b>1020</b> <code>(11%)</code><br />Mail: <b>760</b>
-      <code>(8%)</code><br />Other: <b>4</b> <code>(4%)</code><br />
+      Daily Activity: <b>60</b> <code>(100%)</code><br />Event: <b>0</b>
+      <code>(0%)</code><br />Adventure Rewards: <b>0</b> <code>(0%)</code
+      ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />Forgotten Hall:
+      <b>0</b> <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code
+      ><br />Other: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -9885,7 +9885,7 @@
                 ,
                 height="25"
               />
-              <code>+13</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Insumousu's Whalefall Ship<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/d3bfdb2f4966966b05a96ab8051676bc.png"
