@@ -8,13 +8,6 @@ jobs:
 
     steps:
     - name: Check out code
-      uses: actions/checkout@v2
-
-    - name: Set up secret file
-      env:
-        DEBUG_PASSWORD: ${{ secrets.COOKIES }}
-      run: |
-        echo $DEBUG_PASSWORD >> secrets.txt
-
+      uses: actions/checkout@v3
     - name: Run tmate
       uses: mxschmitt/action-tmate@v2
