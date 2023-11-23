@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 23, 2023 11:54 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 23, 2023 11:56 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -98,7 +98,7 @@
   </tr>
   <tr>
     <td align="center"><b>Asia Server</b></td>
-    <td align="center"><b>UID 877493089</b></td>
+    <td align="center"><b>UID Hide</b></td>
   </tr>
 </table>
 
@@ -9432,7 +9432,7 @@
   </tr>
   <tr>
     <td align="center"><b>Asia Server</b></td>
-    <td align="center"><b>UID 825098452</b></td>
+    <td align="center"><b>UID Hide</b></td>
   </tr>
 </table>
 
