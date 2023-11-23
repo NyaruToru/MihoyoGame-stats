@@ -1,6 +1,15 @@
 <p align="center">
   <a href=""
     ><img
+      src="./images/banner/立绘_浊心斯卡蒂_skin1.png"
+      width="470"
+      alt="Goddess"
+  /></a>
+</p>
+
+<p align="center">
+  <a href=""
+    ><img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=IPEACHA's+Anime+Game+Stats"
       alt="Typing SVG"
   /></a>
@@ -46,9 +55,17 @@
       >
     </td>
   </tr>
+  <tr>
+    <th align="center" colspan="2">
+      <img
+        src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp"
+        height="20"
+      /><a href="https://enka.network/u/juliusulee"> Enka.Network</a>
+    </th>
+  </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 23, 2023 11:46 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 23, 2023 11:51 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -84,13 +101,7 @@
 <table align="center">
   <tr>
     <th rowspan="2" align="center">
-      <img
-        src="https://webstatic.hoyoverse.com/upload/contentweb/2022/10/24/62cb7fb1815d9d05d3ece2e0d8e85c7d_4079917072260630056.png"
-        ,
-        width="80"
-        ,
-        alt="Goddess"
-      />
+      <img src="./images/logo/Zhongli_Icon.webp" , width="80" , alt="Goddess" />
     </th>
     <td colspan="2" align="center">
       <img
@@ -103,7 +114,7 @@
   </tr>
   <tr>
     <td align="center"><b>Asia Server</b></td>
-    <td align="center"><b>UID Hide</b></td>
+    <td align="center"><b>UID 877493089</b></td>
   </tr>
 </table>
 
@@ -599,7 +610,7 @@
       />
       <b>Highest Adeptal Energy</b>
     </td>
-    <td align="center"><code>(12140)</code></td>
+    <td align="center"><code>12140</code></td>
   </tr>
   <tr>
     <td>
@@ -650,64 +661,70 @@
 </h2>
 <table align="center">
   <tr>
-    <td><img src="./images/logo/spiral-abyss.webp" , height="18" /> Season</td>
-    <td align="center"><b>82</b></td>
+    <td colspan="2" align="center">
+      <img src="./images/logo/spiral-abyss.webp" , height="18" /> Season:
+      <b>82</b>
+    </td>
   </tr>
   <tr>
-    <td><img src="./images/logo/battle.webp" , height="18" /> Total Battles</td>
-    <td align="center"><b>6</b></td>
+    <td align="center">
+      <img src="./images/logo/floor.webp" , height="18" /> Max Floor:
+      <b>10-3</b>
+    </td>
+    <td align="center">
+      <img src="./images/logo/battle.webp" , height="18" /> Total Battles:
+      <b>6</b>
+    </td>
   </tr>
   <tr>
-    <td><img src="./images/logo/wins.webp" , height="18" /> Total Wins</td>
-    <td align="center"><b>6</b></td>
+    <td align="center">
+      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>6</b>
+    </td>
+    <td align="center">
+      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>18</b>
+    </td>
   </tr>
   <tr>
-    <td><img src="./images/logo/star.png" , height="18" /> Total Stars</td>
-    <td align="center"><b>18</b></td>
+    <td colspan="2" align="center">
+      🕐 Start Time: <b>2023-11-15 20:00:00+00:00</b>
+    </td>
   </tr>
   <tr>
-    <td><img src="./images/logo/floor.webp" , height="18" /> Max Floor</td>
-    <td align="center"><b>10-3</b></td>
-  </tr>
-  <tr>
-    <td>🕐 Start Time</td>
-    <td align="center"><b>2023-11-15 20:00:00+00:00</b></td>
-  </tr>
-  <tr>
-    <td>🕛 End Time</td>
-    <td align="center"><b>2023-11-30 19:59:59+00:00</b></td>
+    <td colspan="2" align="center">
+      🕛 End Time: <b>2023-11-30 19:59:59+00:00</b>
+    </td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Baizhuer_Card.png"
         ,
         height="18"
       />
-      <b>Yelan</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+      <b>Baizhu</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nilou_Card.png"
         ,
         height="18"
       />
-      <b>Zhongli</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+      <b>Nilou</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Furina_Card.png"
         ,
         height="18"
       />
-      <b>Hu Tao</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+      <b>Furina</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
         ,
         height="18"
       />
-      <b>Kaedehara Kazuha</b> <code>(6)</code><br />
+      <b>Nahida</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Hutao_Card.png"
         ,
         height="18"
       />
@@ -718,7 +735,7 @@
     <td>Strongest Single Strike</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Hutao_Card.png"
         ,
         height="18"
       />
@@ -729,7 +746,7 @@
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Furina_Card.png"
         ,
         height="18"
       />
@@ -740,7 +757,7 @@
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Furina_Card.png"
         ,
         height="18"
       />
@@ -751,7 +768,7 @@
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
         ,
         height="18"
       />
@@ -9431,7 +9448,7 @@
   </tr>
   <tr>
     <td align="center"><b>Asia Server</b></td>
-    <td align="center"><b>UID Hide</b></td>
+    <td align="center"><b>UID 825098452</b></td>
   </tr>
 </table>
 
@@ -9518,11 +9535,6 @@
         height="18"
       />
       Categories
-      <table align="center">
-        <tr>
-          <td><img src="./images/logo/hsr-logo.png" , height="80" /></td>
-        </tr>
-      </table>
     </td>
     <td>
       Mail: <b>980</b> <code>(41%)</code><br />Daily Activity: <b>460</b>
@@ -9563,19 +9575,19 @@
   </tr>
   <tr>
     <td>Name</td>
-    <td align="center">Divine Root Subdual Stage 1</td>
+    <td align="center"><b>Divine Root Subdual Stage 1</b></td>
   </tr>
   <tr>
     <td>Floor</td>
-    <td align="center">3 Stars</td>
+    <td align="center"><b>3 Stars</b></td>
   </tr>
   <tr>
     <td>Cycles used</td>
-    <td align="center">2</td>
+    <td align="center"><b>2</b></td>
   </tr>
   <tr>
     <td>Party 1</td>
-    <td>
+    <td align="center">
       <img
         src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/a1b1fb803b67d9349514d823545bdde2.png"
         height="18"
@@ -9593,7 +9605,7 @@
   </tr>
   <tr>
     <td>Party 2</td>
-    <td>
+    <td align="center">
       <img
         src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/2fb867ccfb1b7678484d7f0d98782d26.png"
         height="18"
