@@ -1,15 +1,6 @@
 <p align="center">
   <a href=""
     ><img
-      src="./images/banner/立绘_浊心斯卡蒂_skin1.png"
-      width="470"
-      alt="Goddess"
-  /></a>
-</p>
-
-<p align="center">
-  <a href=""
-    ><img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=IPEACHA's+Anime+Game+Stats"
       alt="Typing SVG"
   /></a>
@@ -55,17 +46,10 @@
       >
     </td>
   </tr>
-  <tr>
-    <th align="center" colspan="2">
-      <img
-        src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp"
-        height="20"
-      /><a href="https://enka.network/u/juliusulee"> Enka.Network</a>
-    </th>
-  </tr>
+  <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 23, 2023 11:51 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 23, 2023 11:54 +0700</u> (🤖Automated)
 </h3>
 <br />
 
