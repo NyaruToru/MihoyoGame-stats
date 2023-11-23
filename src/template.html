@@ -1,4 +1,6 @@
-
+<p align="center">
+  <a href=""><img src="./images/banner/立绘_浊心斯卡蒂_skin1.png" width="470" alt="Goddess" /></a>
+</p>
 
 <p align="center">
   <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines={{ genshin.user.info.nickname }}'s+Anime+Game+Stats" alt="Typing SVG" /></a>
@@ -17,6 +19,14 @@
   <tr>
     <td align="center"><img src="./images/logo/genshin-logo.png" height="20"><a href="#----characters--"> Genshin Impact Characters</a></td>
     <td align="center"><img src="./images/logo/hsr-logo.png" height="20"><a href="#----characters---1"> Honkai: Star Rail Characters</a></td>
+  </tr>
+  <tr>
+    <th align="center" colspan="2">
+      <img
+        src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp"
+        height="20"
+      /><a href="https://enka.network/u/juliusulee"> Enka.Network</a>
+    </th>
   </tr>
 </table>
 <h3 align="center">🕒 Updated at <u>{{ updated_at }}</u> (🤖Automated)</h3><br>
@@ -37,12 +47,12 @@
 <table align="center">
   <tr>
     <th rowspan="2" align="center"><img
-      src="https://webstatic.hoyoverse.com/upload/contentweb/2022/10/24/62cb7fb1815d9d05d3ece2e0d8e85c7d_4079917072260630056.png", width="80", alt="Goddess"></th>
+      src="./images/logo/Zhongli_Icon.webp", width="80", alt="Goddess"></th>
     <td colspan="2" align="center"><img src="https://genshin.honeyhunterworld.com/img/i_2002.webp", height="18"> <b>{{ genshin.user.info.nickname }}</b> <code>Lv. {{ genshin.user.info.level }}</code></td>
   </tr>
   <tr>
     <td align="center"><b>Asia Server</b></td>
-    <td align="center"><b>UID Hide</b></td>
+    <td align="center"><b>UID 877493089</b></td>
   </tr>
 </table>
 
@@ -171,7 +181,7 @@
     </tr>
     <tr>
         <td><img src="https://genshin.honeyhunterworld.com/img/rep_6969_2.webp", height="18"> <b>Highest Adeptal Energy</b></td>
-        <td align="center"><code>({{ genshin.user.teapot.comfort }})</code></td>
+        <td align="center"><code>{{ genshin.user.teapot.comfort }}</code></td>
     </tr>
     <tr>
         <td><img src="https://genshin.honeyhunterworld.com/img/icons/home_material_35.webp", height="18"> <b>Total Furnishings Obtained</b></td>
@@ -192,39 +202,28 @@
 <h2 align="center"><img src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png", height="20"> Spiral Abyss <img src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png", height="20"></h2>
 <table align="center">
     <tr>
-        <td><img src="./images/logo/spiral-abyss.webp", height="18"> Season</td>
-        <td align="center"><b>{{ genshin.abyss.season }}</b></td>
+        <td colspan="2" align="center"><img src="./images/logo/spiral-abyss.webp", height="18"> Season: <b>{{ genshin.abyss.season }}</b></td>
     </tr>
     <tr>
-        <td><img src="./images/logo/battle.webp", height="18"> Total Battles</td>
-        <td align="center"><b>{{ genshin.abyss.total_battles }}</b></td>
+      <td align="center"><img src="./images/logo/floor.webp", height="18"> Max Floor: <b>{{ genshin.abyss.max_floor }}</b></td>
+      <td align="center"><img src="./images/logo/battle.webp", height="18"> Total Battles: <b>{{ genshin.abyss.total_battles }}</b></td>
     </tr>
     <tr>
-        <td><img src="./images/logo/wins.webp", height="18"> Total Wins</td>
-        <td align="center"><b>{{ genshin.abyss.total_wins }}</b></td>
+      <td align="center"><img src="./images/logo/wins.webp", height="18"> Total Wins: <b>{{ genshin.abyss.total_wins }}</b></td>
+      <td align="center"><img src="./images/logo/star.png", height="18"> Total Stars: <b>{{ genshin.abyss.total_stars }}</b></td>
     </tr>
     <tr>
-        <td><img src="./images/logo/star.png", height="18"> Total Stars</td>
-        <td align="center"><b>{{ genshin.abyss.total_stars }}</b></td>
+        <td colspan="2" align="center">🕐 Start Time: <b>{{ genshin.abyss.start_time }}</b></td>
     </tr>
     <tr>
-        <td><img src="./images/logo/floor.webp", height="18"> Max Floor</td>
-        <td align="center"><b>{{ genshin.abyss.max_floor }}</b></td>
-    </tr>
-    <tr>
-        <td>🕐 Start Time</td>
-        <td align="center"><b>{{ genshin.abyss.start_time }}</b></td>
-    </tr>
-    <tr>
-        <td>🕛 End Time</td>
-        <td align="center"><b>{{ genshin.abyss.end_time }}</b></td>
+        <td colspan="2" align="center">🕛 End Time: <b>{{ genshin.abyss.end_time }}</b></td>
     </tr>
     {%- for field, characters in genshin.abyss.ranks.as_dict(lang=lang).items() -%}
     <tr>
         <td>{{ field }}</td>
         <td>
             {%- for character in characters -%}
-            <img src="{{ character.icon }}" , height="18"> <b>{{ character.name }}</b> <code>({{ character.value }})</code><br>
+            <img src="{{ character.card_icon }}" , height="18"> <b>{{ character.name }}</b> <code>({{ character.value }})</code><br>
             {%- endfor -%}
         </td>
     </tr>
@@ -377,7 +376,7 @@
       </tr>
       <tr>
         <td align="center"><b>{{ hsr.user.info.server.replace("prod_official_", "").title() }} Server</b></td>
-        <td align="center"><b>UID Hide</b></td>
+        <td align="center"><b>UID 825098452</b></td>
       </tr>
     </table>
 
@@ -422,11 +421,6 @@
         </tr>
         <tr>
             <td align="center"><img src="https://hsr.honeyhunterworld.com/img/monster_faction/other-monster_faction_icon.webp" height="18"> Categories
-              <table align="center">
-                <tr>
-                  <td><img src="./images/logo/hsr-logo.png", height="80"></td>
-                </tr>
-              </table>
             </td>
             <td>
                 {%- for category in hsr.diary.data.categories -%}
@@ -458,19 +452,19 @@
         {%- for floor in hsr.forgotten_hall.floors -%}
         <tr>
             <td>Name</td>
-            <td align="center">{{ floor.name }}</td>
+            <td align="center"><b>{{ floor.name }}</b></td>
         </tr>
         <tr>
             <td>Floor {{ floor.floor }}</td>
-            <td align="center">{{ floor.star_num }} Stars</td>
+            <td align="center"><b>{{ floor.star_num }} Stars</b></td>
         </tr>
         <tr>
             <td>Cycles used</td>
-            <td align="center">{{ floor.round_num }}</td>
+            <td align="center"><b>{{ floor.round_num }}</b></td>
         </tr>
         <tr>
             <td>Party 1</td>
-            <td>
+            <td align="center">
                 {%- for avatar in floor.node_1.avatars -%}
                 <img src="{{ avatar.icon }}" height="18">
                 {%- endfor -%}
@@ -478,7 +472,7 @@
         </tr>
         <tr>
             <td>Party 2</td>
-            <td>
+            <td align="center">
                 {%- for avatar in floor.node_2.avatars -%}
                 <img src="{{ avatar.icon }}" height="18">
                 {%- endfor -%}
