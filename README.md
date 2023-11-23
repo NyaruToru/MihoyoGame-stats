@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 23, 2023 22:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 24, 2023 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -108,22 +108,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>14</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>15</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      <b>8000 x Mora</b>
+      <b>5 x Adventurer's Experience</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-11-23 00:05:58+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-11-24 04:08:15+08:00</b></td>
   </tr>
 </table>
 
@@ -682,6 +682,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Hutao_Card.png"
+        ,
+        height="18"
+      />
+      <b>Hu Tao</b> <code>(6)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
         ,
         height="18"
@@ -696,12 +701,7 @@
         ,
         height="18"
       />
-      <b>Nilou</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Furina_Card.png"
-        ,
-        height="18"
-      />
-      <b>Furina</b> <code>(6)</code><br />
+      <b>Nilou</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -9442,22 +9442,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>8</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>9</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Lost Gold Fragment</b>
+      <b>5000 x Credit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-11-23 12:45:20+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-11-24 04:08:12+08:00</b></td>
   </tr>
 </table>
 
