@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 24, 2023 22:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 25, 2023 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -108,22 +108,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>15</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>16</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
           ,
           height="80" /></a
       ><br />
-      <b>5 x Adventurer's Experience</b>
+      <b>5 x Fine Enhancement Ore</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-11-24 04:08:15+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-11-25 04:08:06+08:00</b></td>
   </tr>
 </table>
 
@@ -150,7 +150,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>786</b></td>
+    <td align="center"><b>787</b></td>
   </tr>
   <tr>
     <td>
@@ -161,7 +161,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>899</b></td>
+    <td align="center"><b>900</b></td>
   </tr>
   <tr>
     <td>
@@ -682,6 +682,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Baizhuer_Card.png"
+        ,
+        height="18"
+      />
+      <b>Baizhu</b> <code>(6)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nilou_Card.png"
         ,
         height="18"
@@ -696,12 +701,7 @@
         ,
         height="18"
       />
-      <b>Nahida</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
-        ,
-        height="18"
-      />
-      <b>Yelan</b> <code>(6)</code><br />
+      <b>Nahida</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -774,7 +774,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>4820</b> <code>(rate 492)</code></td>
+    <td align="center"><b>4850</b> <code>(rate 495)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -785,7 +785,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4299290</b> <code>(rate 1078)</code></td>
+    <td align="center"><b>4327948</b> <code>(rate 1086)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -793,10 +793,10 @@
     </td>
     <td>
       Mail: <b>1230</b> <code>(26%)</code><br />Events: <b>880</b>
-      <code>(19%)</code><br />Quests: <b>860</b> <code>(18%)</code
-      ><br />Adventure: <b>691</b> <code>(14%)</code><br />Daily Activity:
-      <b>670</b> <code>(13%)</code><br />Spiral Abyss: <b>450</b>
-      <code>(9%)</code><br />Other: <b>39</b> <code>(1%)</code><br />
+      <code>(19%)</code><br />Quests: <b>860</b> <code>(17%)</code><br />Daily
+      Activity: <b>700</b> <code>(14%)</code><br />Adventure: <b>691</b>
+      <code>(14%)</code><br />Spiral Abyss: <b>450</b> <code>(9%)</code
+      ><br />Other: <b>39</b> <code>(1%)</code><br />
     </td>
   </tr>
 </table>
@@ -9442,22 +9442,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>9</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>10</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Credit</b>
+      <b>3 x Adventure Log</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-11-24 04:08:12+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-11-25 04:08:03+08:00</b></td>
   </tr>
 </table>
 
