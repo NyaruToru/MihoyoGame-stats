@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 24, 2023 17:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 24, 2023 22:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -682,16 +682,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
-        ,
-        height="18"
-      />
-      <b>Kaedehara Kazuha</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Baizhuer_Card.png"
-        ,
-        height="18"
-      />
-      <b>Baizhu</b> <code>(6)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nilou_Card.png"
         ,
         height="18"
@@ -701,7 +691,17 @@
         ,
         height="18"
       />
-      <b>Furina</b> <code>(6)</code><br />
+      <b>Furina</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
+        ,
+        height="18"
+      />
+      <b>Nahida</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
+        ,
+        height="18"
+      />
+      <b>Yelan</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -9500,7 +9500,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>2800</b> <code>(rate -68)</code></td>
+    <td align="center"><b>3040</b> <code>(rate -65)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9521,11 +9521,11 @@
       Categories
     </td>
     <td>
-      Mail: <b>1410</b> <code>(50%)</code><br />Daily Activity: <b>460</b>
-      <code>(16%)</code><br />Simulated Universe: <b>460</b> <code>(16%)</code
-      ><br />Event: <b>375</b> <code>(13%)</code><br />Forgotten Hall:
-      <b>60</b> <code>(2%)</code><br />Other: <b>0</b> <code>(2%)</code
-      ><br />Adventure Rewards: <b>35</b> <code>(1%)</code><br />
+      Mail: <b>1410</b> <code>(46%)</code><br />Simulated Universe: <b>635</b>
+      <code>(20%)</code><br />Daily Activity: <b>520</b> <code>(17%)</code
+      ><br />Event: <b>375</b> <code>(12%)</code><br />Other: <b>0</b>
+      <code>(3%)</code><br />Adventure Rewards: <b>40</b> <code>(1%)</code
+      ><br />Forgotten Hall: <b>60</b> <code>(1%)</code><br />
     </td>
   </tr>
 </table>
