@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 25, 2023 22:06 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 26, 2023 03:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -108,22 +108,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>16</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>17</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      <b>5 x Fine Enhancement Ore</b>
+      <b>5000 x Mora</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-11-25 04:08:06+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-11-26 04:07:27+08:00</b></td>
   </tr>
 </table>
 
@@ -682,16 +682,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nilou_Card.png"
-        ,
-        height="18"
-      />
-      <b>Nilou</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Furina_Card.png"
-        ,
-        height="18"
-      />
-      <b>Furina</b> <code>(6)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
         ,
         height="18"
@@ -701,7 +691,17 @@
         ,
         height="18"
       />
-      <b>Yelan</b> <code>(6)</code><br />
+      <b>Yelan</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Hutao_Card.png"
+        ,
+        height="18"
+      />
+      <b>Hu Tao</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -9442,22 +9442,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>10</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>11</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventure Log</b>
+      <b>2 x Lost Gold Fragment</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-11-25 04:08:03+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-11-26 04:07:27+08:00</b></td>
   </tr>
 </table>
 
