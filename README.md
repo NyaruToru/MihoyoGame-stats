@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 25, 2023 03:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 25, 2023 07:34 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -682,16 +682,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Baizhuer_Card.png"
-        ,
-        height="18"
-      />
-      <b>Baizhu</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nilou_Card.png"
-        ,
-        height="18"
-      />
-      <b>Nilou</b> <code>(6)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Furina_Card.png"
         ,
         height="18"
@@ -701,7 +691,17 @@
         ,
         height="18"
       />
-      <b>Nahida</b> <code>(6)</code><br />
+      <b>Nahida</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
+        ,
+        height="18"
+      />
+      <b>Yelan</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -774,7 +774,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>4850</b> <code>(rate 495)</code></td>
+    <td align="center"><b>4890</b> <code>(rate 500)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -785,7 +785,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4327948</b> <code>(rate 1086)</code></td>
+    <td align="center"><b>4354037</b> <code>(rate 1093)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -793,8 +793,8 @@
     </td>
     <td>
       Mail: <b>1230</b> <code>(26%)</code><br />Events: <b>880</b>
-      <code>(19%)</code><br />Quests: <b>860</b> <code>(17%)</code><br />Daily
-      Activity: <b>700</b> <code>(14%)</code><br />Adventure: <b>691</b>
+      <code>(18%)</code><br />Quests: <b>860</b> <code>(18%)</code><br />Daily
+      Activity: <b>730</b> <code>(14%)</code><br />Adventure: <b>701</b>
       <code>(14%)</code><br />Spiral Abyss: <b>450</b> <code>(9%)</code
       ><br />Other: <b>39</b> <code>(1%)</code><br />
     </td>
@@ -2640,11 +2640,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/9cb923026023879aad24ebbb3f55da78.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/35b7645f6b9930f381f7bb873d0749fd.png"
             ,
             height="20"
           />
-          The Widsith
+          Sacrificial Fragments
         </h3>
       </th>
     </tr>
@@ -2661,7 +2661,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/9cb923026023879aad24ebbb3f55da78.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/35b7645f6b9930f381f7bb873d0749fd.png"
             ,
             height="256"
           />
@@ -2751,7 +2751,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">The Widsith</td>
+            <td align="center">Sacrificial Fragments</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -2802,11 +2802,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/35b7645f6b9930f381f7bb873d0749fd.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/9cb923026023879aad24ebbb3f55da78.png"
             ,
             height="20"
           />
-          Sacrificial Fragments
+          The Widsith
         </h3>
       </th>
     </tr>
@@ -2823,7 +2823,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/35b7645f6b9930f381f7bb873d0749fd.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/9cb923026023879aad24ebbb3f55da78.png"
             ,
             height="256"
           />
@@ -2914,7 +2914,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Sacrificial Fragments</td>
+            <td align="center">The Widsith</td>
           </tr>
           <tr>
             <td>Type</td>
