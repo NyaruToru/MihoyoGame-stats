@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 26, 2023 12:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 26, 2023 17:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -150,7 +150,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>789</b></td>
+    <td align="center"><b>790</b></td>
   </tr>
   <tr>
     <td>
@@ -275,7 +275,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>11-3</b></td>
+    <td align="center"><b>12-3</b></td>
   </tr>
 </table>
 
@@ -653,19 +653,19 @@
   <tr>
     <td align="center">
       <img src="./images/logo/floor.webp" , height="18" /> Max Floor:
-      <b>10-3</b>
+      <b>12-3</b>
     </td>
     <td align="center">
       <img src="./images/logo/battle.webp" , height="18" /> Total Battles:
-      <b>7</b>
+      <b>16</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>6</b>
+      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>15</b>
     </td>
     <td align="center">
-      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>18</b>
+      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>36</b>
     </td>
   </tr>
   <tr>
@@ -682,26 +682,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
         ,
         height="18"
       />
-      <b>Kaedehara Kazuha</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Baizhuer_Card.png"
+      <b>Nahida</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
         ,
         height="18"
       />
-      <b>Baizhu</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nilou_Card.png"
+      <b>Yelan</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
         ,
         height="18"
       />
-      <b>Nilou</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Furina_Card.png"
+      <b>Zhongli</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Hutao_Card.png"
         ,
         height="18"
       />
-      <b>Furina</b> <code>(6)</code><br />
+      <b>Hu Tao</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
@@ -712,7 +712,7 @@
         ,
         height="18"
       />
-      <b>Hu Tao</b> <code>(17)</code><br />
+      <b>Hu Tao</b> <code>(27)</code><br />
     </td>
   </tr>
   <tr>
@@ -723,7 +723,7 @@
         ,
         height="18"
       />
-      <b>Hu Tao</b> <code>(522612)</code><br />
+      <b>Hu Tao</b> <code>(687596)</code><br />
     </td>
   </tr>
   <tr>
@@ -734,7 +734,7 @@
         ,
         height="18"
       />
-      <b>Furina</b> <code>(27121)</code><br />
+      <b>Furina</b> <code>(59596)</code><br />
     </td>
   </tr>
   <tr>
@@ -745,18 +745,18 @@
         ,
         height="18"
       />
-      <b>Furina</b> <code>(5)</code><br />
+      <b>Furina</b> <code>(12)</code><br />
     </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
         ,
         height="18"
       />
-      <b>Kaedehara Kazuha</b> <code>(10)</code><br />
+      <b>Nahida</b> <code>(20)</code><br />
     </td>
   </tr>
 </table>
@@ -774,7 +774,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>4960</b> <code>(rate 509)</code></td>
+    <td align="center"><b>5170</b> <code>(rate 535)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -785,17 +785,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4483886</b> <code>(rate 1129)</code></td>
+    <td align="center"><b>4720484</b> <code>(rate 1193)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>1230</b> <code>(25%)</code><br />Events: <b>880</b>
-      <code>(18%)</code><br />Quests: <b>860</b> <code>(18%)</code><br />Daily
-      Activity: <b>790</b> <code>(15%)</code><br />Adventure: <b>711</b>
-      <code>(14%)</code><br />Spiral Abyss: <b>450</b> <code>(9%)</code
+      Mail: <b>1230</b> <code>(24%)</code><br />Events: <b>880</b>
+      <code>(18%)</code><br />Daily Activity: <b>850</b> <code>(17%)</code
+      ><br />Quests: <b>860</b> <code>(16%)</code><br />Adventure: <b>711</b>
+      <code>(13%)</code><br />Spiral Abyss: <b>600</b> <code>(11%)</code
       ><br />Other: <b>39</b> <code>(1%)</code><br />
     </td>
   </tr>
