@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 26, 2023 17:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 26, 2023 22:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -682,37 +682,37 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
-        ,
-        height="18"
-      />
-      <b>Nahida</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
         ,
         height="18"
       />
-      <b>Yelan</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(9)</code><br /><img
+      <b>Yelan</b> <code>(15)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Hutao_Card.png"
         ,
         height="18"
       />
-      <b>Hu Tao</b> <code>(9)</code><br />
+      <b>Hu Tao</b> <code>(15)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nilou_Card.png"
+        ,
+        height="18"
+      />
+      <b>Nilou</b> <code>(15)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Furina_Card.png"
+        ,
+        height="18"
+      />
+      <b>Furina</b> <code>(15)</code><br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Hutao_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
         ,
         height="18"
       />
-      <b>Hu Tao</b> <code>(27)</code><br />
+      <b>Nahida</b> <code>(34)</code><br />
     </td>
   </tr>
   <tr>
@@ -723,7 +723,7 @@
         ,
         height="18"
       />
-      <b>Hu Tao</b> <code>(687596)</code><br />
+      <b>Hu Tao</b> <code>(1099597)</code><br />
     </td>
   </tr>
   <tr>
@@ -734,7 +734,7 @@
         ,
         height="18"
       />
-      <b>Furina</b> <code>(59596)</code><br />
+      <b>Furina</b> <code>(231738)</code><br />
     </td>
   </tr>
   <tr>
@@ -745,7 +745,7 @@
         ,
         height="18"
       />
-      <b>Furina</b> <code>(12)</code><br />
+      <b>Furina</b> <code>(34)</code><br />
     </td>
   </tr>
   <tr>
@@ -756,7 +756,7 @@
         ,
         height="18"
       />
-      <b>Nahida</b> <code>(20)</code><br />
+      <b>Nahida</b> <code>(63)</code><br />
     </td>
   </tr>
 </table>
@@ -774,7 +774,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>5170</b> <code>(rate 535)</code></td>
+    <td align="center"><b>5271</b> <code>(rate 547)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -785,7 +785,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4720484</b> <code>(rate 1193)</code></td>
+    <td align="center"><b>4875484</b> <code>(rate 1236)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -793,10 +793,10 @@
     </td>
     <td>
       Mail: <b>1230</b> <code>(24%)</code><br />Events: <b>880</b>
-      <code>(18%)</code><br />Daily Activity: <b>850</b> <code>(17%)</code
-      ><br />Quests: <b>860</b> <code>(16%)</code><br />Adventure: <b>711</b>
-      <code>(13%)</code><br />Spiral Abyss: <b>600</b> <code>(11%)</code
-      ><br />Other: <b>39</b> <code>(1%)</code><br />
+      <code>(17%)</code><br />Daily Activity: <b>850</b> <code>(16%)</code
+      ><br />Quests: <b>860</b> <code>(16%)</code><br />Spiral Abyss:
+      <b>700</b> <code>(13%)</code><br />Adventure: <b>711</b> <code>(13%)</code
+      ><br />Other: <b>40</b> <code>(1%)</code><br />
     </td>
   </tr>
 </table>
@@ -9475,7 +9475,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>206</b></td>
+    <td><b>207</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
