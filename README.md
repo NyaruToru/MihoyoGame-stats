@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 27, 2023 03:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 27, 2023 07:36 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -682,26 +682,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
-        ,
-        height="18"
-      />
-      <b>Yelan</b> <code>(15)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(15)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nilou_Card.png"
         ,
         height="18"
       />
       <b>Nilou</b> <code>(15)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Furina_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
         ,
         height="18"
       />
-      <b>Furina</b> <code>(15)</code><br />
+      <b>Kaedehara Kazuha</b> <code>(15)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(15)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Hutao_Card.png"
+        ,
+        height="18"
+      />
+      <b>Hu Tao</b> <code>(15)</code><br />
     </td>
   </tr>
   <tr>
@@ -9526,83 +9526,6 @@
       ><br />Event: <b>375</b> <code>(12%)</code><br />Other: <b>0</b>
       <code>(3%)</code><br />Adventure Rewards: <b>40</b> <code>(1%)</code
       ><br />Forgotten Hall: <b>60</b> <code>(1%)</code><br />
-    </td>
-  </tr>
-</table>
-<h2 align="center">
-  <img
-    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
-    height="20"
-  />
-  Memory of Chaos
-  <img
-    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
-    height="20"
-  />
-</h2>
-<table align="center">
-  <tr>
-    <td>Season</td>
-    <td align="center"><b>1006</b></td>
-  </tr>
-  <tr>
-    <td>Max Floor</td>
-    <td align="center"><b>Divine Root Subdual Stage 1</b></td>
-  </tr>
-  <tr>
-    <td>Total Battles</td>
-    <td align="center"><b>1</b></td>
-  </tr>
-  <tr>
-    <td>Total Stars</td>
-    <td align="center"><b>3</b></td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Divine Root Subdual Stage 1</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>2</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/a1b1fb803b67d9349514d823545bdde2.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/1f1478777f0a1f7e4d91dfd958975b56.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/93b0add0f72f857ea1cb7f7642c98ae0.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/8a2f039fad15e1b501779a4c59b0ea18.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/2fb867ccfb1b7678484d7f0d98782d26.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/4dafdce91ff047e7317f0b06208eac25.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/11f1ddd0ecd21b39c68cf8e31e805084.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/eb4ee0f7fadf9b787ffe1c25aee5c173.png"
-        height="18"
-      />
     </td>
   </tr>
 </table>
