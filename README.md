@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 30, 2023 07:36 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 30, 2023 12:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -682,16 +682,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nilou_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
         ,
         height="18"
       />
-      <b>Nilou</b> <code>(15)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(15)</code><br /><img
+      <b>Nahida</b> <code>(15)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
         ,
         height="18"
@@ -701,7 +696,12 @@
         ,
         height="18"
       />
-      <b>Hu Tao</b> <code>(15)</code><br />
+      <b>Hu Tao</b> <code>(15)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
+        ,
+        height="18"
+      />
+      <b>Kaedehara Kazuha</b> <code>(15)</code><br />
     </td>
   </tr>
   <tr>
