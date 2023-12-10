@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 10, 2023 22:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 11, 2023 03:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -108,22 +108,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>10</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>11</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Mora</b>
+      <b>20 x Primogem</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-12-10 04:07:32+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-12-11 04:07:48+08:00</b></td>
   </tr>
 </table>
 
@@ -9442,22 +9442,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>10</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>11</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventure Log</b>
+      <b>2 x Lost Gold Fragment</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-12-10 04:07:33+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-12-11 04:07:49+08:00</b></td>
   </tr>
 </table>
 
@@ -9526,83 +9526,6 @@
       ><br />Forgotten Hall: <b>60</b> <code>(2%)</code><br />Other: <b>0</b>
       <code>(1%)</code><br />Adventure Rewards: <b>0</b> <code>(0%)</code
       ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />
-    </td>
-  </tr>
-</table>
-<h2 align="center">
-  <img
-    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
-    height="20"
-  />
-  Memory of Chaos
-  <img
-    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
-    height="20"
-  />
-</h2>
-<table align="center">
-  <tr>
-    <td>Season</td>
-    <td align="center"><b>1007</b></td>
-  </tr>
-  <tr>
-    <td>Max Floor</td>
-    <td align="center"><b>Oath of Eternal Alliance (I)</b></td>
-  </tr>
-  <tr>
-    <td>Total Battles</td>
-    <td align="center"><b>1</b></td>
-  </tr>
-  <tr>
-    <td>Total Stars</td>
-    <td align="center"><b>3</b></td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Oath of Eternal Alliance (I)</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>4</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/bb1537c478dfcfe51edc4f09232ea3ca.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/5d7fbc30d3755f7203a4c61a54e02841.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/c4722e396ecd9752b391bcab55066e8f.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/d395b1b01cbf387d533e9da95bc3c316.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/1a31b9b1d02a41ce0e337ebda87c5198.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/35ac712cc0bfb79f6be59d6dba3d9314.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/9ba46547b08eb48c0005690c0bff0dd4.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/52d5a657c6a1e5044be62e9fda7d7df0.png"
-        height="18"
-      />
     </td>
   </tr>
 </table>
