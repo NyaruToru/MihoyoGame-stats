@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 14, 2023 22:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 15, 2023 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -108,22 +108,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>14</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>15</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      <b>8000 x Mora</b>
+      <b>5 x Adventurer's Experience</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-12-14 04:08:27+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-12-15 04:08:32+08:00</b></td>
   </tr>
 </table>
 
@@ -9442,22 +9442,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>14</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>15</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Credit</b>
+      <b>1 x Energy Drink (sugar-free)</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-12-14 04:08:28+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-12-15 04:08:32+08:00</b></td>
   </tr>
 </table>
 
@@ -9483,11 +9483,11 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>309</b></td>
+    <td><b>310</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>275</b></td>
+    <td><b>276</b></td>
   </tr>
 </table>
 
@@ -9500,7 +9500,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>3310</b> <code>(rate 6)</code></td>
+    <td align="center"><b>3486</b> <code>(rate 12)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9510,7 +9510,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>12</b> <code>(rate -47)</code></td>
+    <td align="center"><b>13</b> <code>(rate -43)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9521,11 +9521,11 @@
       Categories
     </td>
     <td>
-      Mail: <b>2470</b> <code>(74%)</code><br />Simulated Universe: <b>345</b>
-      <code>(10%)</code><br />Event: <b>230</b> <code>(6%)</code><br />Daily
-      Activity: <b>150</b> <code>(4%)</code><br />Other: <b>0</b>
-      <code>(4%)</code><br />Adventure Rewards: <b>55</b> <code>(1%)</code
-      ><br />Forgotten Hall: <b>60</b> <code>(1%)</code><br />
+      Mail: <b>2470</b> <code>(70%)</code><br />Simulated Universe: <b>345</b>
+      <code>(9%)</code><br />Event: <b>230</b> <code>(6%)</code><br />Adventure
+      Rewards: <b>210</b> <code>(6%)</code><br />Daily Activity: <b>170</b>
+      <code>(4%)</code><br />Other: <b>1</b> <code>(4%)</code><br />Forgotten
+      Hall: <b>60</b> <code>(1%)</code><br />
     </td>
   </tr>
 </table>
