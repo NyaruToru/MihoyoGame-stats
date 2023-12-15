@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 15, 2023 12:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 15, 2023 17:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -161,7 +161,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>913</b></td>
+    <td align="center"><b>914</b></td>
   </tr>
   <tr>
     <td>
@@ -275,7 +275,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>8-3</b></td>
+    <td align="center"><b>11-3</b></td>
   </tr>
 </table>
 
@@ -647,117 +647,60 @@
   <tr>
     <td colspan="2" align="center">
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Season:
-      <b>82</b>
+      <b>83</b>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/floor.webp" , height="18" /> Max Floor:
-      <b>12-3</b>
+      <b>11-3</b>
     </td>
     <td align="center">
       <img src="./images/logo/battle.webp" , height="18" /> Total Battles:
-      <b>16</b>
+      <b>15</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>15</b>
+      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>9</b>
     </td>
     <td align="center">
-      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>36</b>
+      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>27</b>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      🕐 Start Time: <b>2023-11-15 20:00:00+00:00</b>
+      🕐 Start Time: <b>2023-11-30 20:00:00+00:00</b>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      🕛 End Time: <b>2023-11-30 19:59:59+00:00</b>
+      🕛 End Time: <b>2023-12-15 19:59:59+00:00</b>
     </td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(15)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Hutao_Card.png"
-        ,
-        height="18"
-      />
-      <b>Hu Tao</b> <code>(15)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
-        ,
-        height="18"
-      />
-      <b>Kaedehara Kazuha</b> <code>(15)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
-        ,
-        height="18"
-      />
-      <b>Yelan</b> <code>(15)</code><br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
-        ,
-        height="18"
-      />
-      <b>Nahida</b> <code>(34)</code><br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Hutao_Card.png"
-        ,
-        height="18"
-      />
-      <b>Hu Tao</b> <code>(1099597)</code><br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Furina_Card.png"
-        ,
-        height="18"
-      />
-      <b>Furina</b> <code>(231738)</code><br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Furina_Card.png"
-        ,
-        height="18"
-      />
-      <b>Furina</b> <code>(34)</code><br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
-        ,
-        height="18"
-      />
-      <b>Nahida</b> <code>(63)</code><br />
-    </td>
+    <td></td>
   </tr>
 </table>
 <h2 align="center">
@@ -774,7 +717,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2010</b> <code>(rate -63)</code></td>
+    <td align="center"><b>2490</b> <code>(rate -54)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -785,18 +728,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>141092</b> <code>(rate -97)</code></td>
+    <td align="center"><b>599415</b> <code>(rate -88)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>1940</b> <code>(97%)</code><br />Daily Activity: <b>70</b>
-      <code>(3%)</code><br />Events: <b>0</b> <code>(0%)</code><br />Spiral
-      Abyss: <b>0</b> <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code
-      ><br />Adventure: <b>0</b> <code>(0%)</code><br />Other: <b>0</b>
-      <code>(0%)</code><br />
+      Mail: <b>1940</b> <code>(78%)</code><br />Spiral Abyss: <b>450</b>
+      <code>(18%)</code><br />Daily Activity: <b>100</b> <code>(4%)</code
+      ><br />Events: <b>0</b> <code>(0%)</code><br />Quests: <b>0</b>
+      <code>(0%)</code><br />Adventure: <b>0</b> <code>(0%)</code><br />Other:
+      <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -9500,7 +9443,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>3877</b> <code>(rate 24)</code></td>
+    <td align="center"><b>4677</b> <code>(rate 50)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9510,7 +9453,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>13</b> <code>(rate -43)</code></td>
+    <td align="center"><b>14</b> <code>(rate -39)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9521,10 +9464,10 @@
       Categories
     </td>
     <td>
-      Mail: <b>2490</b> <code>(64%)</code><br />Event: <b>440</b>
-      <code>(11%)</code><br />Simulated Universe: <b>345</b> <code>(8%)</code
-      ><br />Adventure Rewards: <b>310</b> <code>(7%)</code><br />Daily
-      Activity: <b>230</b> <code>(5%)</code><br />Other: <b>2</b>
+      Mail: <b>2520</b> <code>(53%)</code><br />Event: <b>1020</b>
+      <code>(21%)</code><br />Adventure Rewards: <b>500</b> <code>(10%)</code
+      ><br />Simulated Universe: <b>345</b> <code>(7%)</code><br />Daily
+      Activity: <b>230</b> <code>(4%)</code><br />Other: <b>2</b>
       <code>(4%)</code><br />Forgotten Hall: <b>60</b> <code>(1%)</code><br />
     </td>
   </tr>
