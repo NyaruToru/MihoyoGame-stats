@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 15, 2023 22:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 16, 2023 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -108,22 +108,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>15</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>16</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
           ,
           height="80" /></a
       ><br />
-      <b>5 x Adventurer's Experience</b>
+      <b>5 x Fine Enhancement Ore</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-12-15 04:08:32+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-12-16 04:08:34+08:00</b></td>
   </tr>
 </table>
 
@@ -275,7 +275,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>11-3</b></td>
+    <td align="center"><b>-</b></td>
   </tr>
 </table>
 
@@ -687,21 +687,21 @@
         height="18"
       />
       <b>Bennett</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Baizhuer_Card.png"
-        ,
-        height="18"
-      />
-      <b>Baizhu</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
         ,
         height="18"
       />
       <b>Raiden Shogun</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Furina_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nilou_Card.png"
         ,
         height="18"
       />
-      <b>Furina</b> <code>(9)</code><br />
+      <b>Nilou</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
+        ,
+        height="18"
+      />
+      <b>Nahida</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
@@ -741,11 +741,11 @@
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
         ,
         height="18"
       />
-      <b>Bennett</b> <code>(18)</code><br />
+      <b>Nahida</b> <code>(18)</code><br />
     </td>
   </tr>
   <tr>
@@ -9439,22 +9439,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>15</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>16</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Energy Drink (sugar-free)</b>
+      <b>3 x Adventure Log</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-12-15 04:08:32+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-12-16 04:08:35+08:00</b></td>
   </tr>
 </table>
 
@@ -9497,7 +9497,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>4677</b> <code>(rate 50)</code></td>
+    <td align="center"><b>4977</b> <code>(rate 60)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9518,11 +9518,11 @@
       Categories
     </td>
     <td>
-      Mail: <b>2520</b> <code>(53%)</code><br />Event: <b>1020</b>
-      <code>(21%)</code><br />Adventure Rewards: <b>500</b> <code>(10%)</code
-      ><br />Simulated Universe: <b>345</b> <code>(7%)</code><br />Daily
+      Mail: <b>2820</b> <code>(56%)</code><br />Event: <b>1020</b>
+      <code>(20%)</code><br />Adventure Rewards: <b>500</b> <code>(10%)</code
+      ><br />Simulated Universe: <b>345</b> <code>(6%)</code><br />Daily
       Activity: <b>230</b> <code>(4%)</code><br />Other: <b>2</b>
-      <code>(4%)</code><br />Forgotten Hall: <b>60</b> <code>(1%)</code><br />
+      <code>(3%)</code><br />Forgotten Hall: <b>60</b> <code>(1%)</code><br />
     </td>
   </tr>
 </table>
