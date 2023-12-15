@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 15, 2023 07:36 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 15, 2023 12:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9475,7 +9475,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>217</b></td>
+    <td><b>218</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9483,11 +9483,11 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>310</b></td>
+    <td><b>315</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>276</b></td>
+    <td><b>282</b></td>
   </tr>
 </table>
 
@@ -9500,7 +9500,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>3486</b> <code>(rate 12)</code></td>
+    <td align="center"><b>3877</b> <code>(rate 24)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9521,11 +9521,11 @@
       Categories
     </td>
     <td>
-      Mail: <b>2470</b> <code>(70%)</code><br />Simulated Universe: <b>345</b>
-      <code>(9%)</code><br />Event: <b>230</b> <code>(6%)</code><br />Adventure
-      Rewards: <b>210</b> <code>(6%)</code><br />Daily Activity: <b>170</b>
-      <code>(4%)</code><br />Other: <b>1</b> <code>(4%)</code><br />Forgotten
-      Hall: <b>60</b> <code>(1%)</code><br />
+      Mail: <b>2490</b> <code>(64%)</code><br />Event: <b>440</b>
+      <code>(11%)</code><br />Simulated Universe: <b>345</b> <code>(8%)</code
+      ><br />Adventure Rewards: <b>310</b> <code>(7%)</code><br />Daily
+      Activity: <b>230</b> <code>(5%)</code><br />Other: <b>2</b>
+      <code>(4%)</code><br />Forgotten Hall: <b>60</b> <code>(1%)</code><br />
     </td>
   </tr>
 </table>
@@ -10370,20 +10370,20 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/2ea00e7ee7472a09d951639a0e58afb9.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/4317618e99ae9021a016cea37b0e8e06.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Planet Screwllum's Mechanical Sun<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/c1eea7ebbef799d013d9407754fd636c.png"
+              Herta's Space Station<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/5c0762ef9626da1709042b172972beb4.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Planet Screwllum's Ring System<br />
+              Herta's Wandering Trek<br />
             </td>
           </tr>
         </table>
@@ -11476,8 +11476,8 @@
                 ,
                 height="25"
               />
-              <code>+13</code><br />
-              ⭐⭐⭐⭐⭐<br />
+              <code>+12</code><br />
+              ⭐⭐⭐⭐<br />
               Herta's Wandering Trek<br />
             </td>
           </tr>
