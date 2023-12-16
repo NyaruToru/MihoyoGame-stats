@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 16, 2023 07:35 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 16, 2023 12:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -682,26 +682,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
-        ,
-        height="18"
-      />
-      <b>Bennett</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Baizhuer_Card.png"
-        ,
-        height="18"
-      />
-      <b>Baizhu</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nilou_Card.png"
-        ,
-        height="18"
-      />
-      <b>Nilou</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Furina_Card.png"
         ,
         height="18"
       />
-      <b>Furina</b> <code>(9)</code><br />
+      <b>Furina</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
+        ,
+        height="18"
+      />
+      <b>Kaedehara Kazuha</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
+        ,
+        height="18"
+      />
+      <b>Nahida</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
+        ,
+        height="18"
+      />
+      <b>Bennett</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
@@ -9472,7 +9472,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>218</b></td>
+    <td><b>219</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
