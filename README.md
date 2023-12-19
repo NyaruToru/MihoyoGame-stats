@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 19, 2023 12:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 19, 2023 17:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -161,7 +161,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>915</b></td>
+    <td align="center"><b>916</b></td>
   </tr>
   <tr>
     <td>
@@ -647,117 +647,59 @@
   <tr>
     <td colspan="2" align="center">
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Season:
-      <b>83</b>
+      <b>84</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./images/logo/floor.webp" , height="18" /> Max Floor:
-      <b>11-3</b>
+      <img src="./images/logo/floor.webp" , height="18" /> Max Floor: <b>9-3</b>
     </td>
     <td align="center">
       <img src="./images/logo/battle.webp" , height="18" /> Total Battles:
-      <b>15</b>
+      <b>3</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>9</b>
+      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>3</b>
     </td>
     <td align="center">
-      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>27</b>
+      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>9</b>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      🕐 Start Time: <b>2023-11-30 20:00:00+00:00</b>
+      🕐 Start Time: <b>2023-12-15 20:00:00+00:00</b>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      🕛 End Time: <b>2023-12-15 19:59:59+00:00</b>
+      🕛 End Time: <b>2023-12-31 19:59:59+00:00</b>
     </td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
-        ,
-        height="18"
-      />
-      <b>Bennett</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
-        ,
-        height="18"
-      />
-      <b>Kaedehara Kazuha</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
-        ,
-        height="18"
-      />
-      <b>Raiden Shogun</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nilou_Card.png"
-        ,
-        height="18"
-      />
-      <b>Nilou</b> <code>(9)</code><br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yae_Card.png"
-        ,
-        height="18"
-      />
-      <b>Yae Miko</b> <code>(18)</code><br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
-        ,
-        height="18"
-      />
-      <b>Raiden Shogun</b> <code>(132883)</code><br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nilou_Card.png"
-        ,
-        height="18"
-      />
-      <b>Nilou</b> <code>(84859)</code><br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
-        ,
-        height="18"
-      />
-      <b>Bennett</b> <code>(18)</code><br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yae_Card.png"
-        ,
-        height="18"
-      />
-      <b>Yae Miko</b> <code>(42)</code><br />
-    </td>
+    <td></td>
   </tr>
 </table>
 <h2 align="center">
@@ -774,7 +716,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2811</b> <code>(rate -48)</code></td>
+    <td align="center"><b>2911</b> <code>(rate -46)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -785,16 +727,16 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1092857</b> <code>(rate -78)</code></td>
+    <td align="center"><b>1212237</b> <code>(rate -76)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>1940</b> <code>(70%)</code><br />Spiral Abyss: <b>450</b>
-      <code>(16%)</code><br />Events: <b>280</b> <code>(9%)</code><br />Daily
-      Activity: <b>140</b> <code>(4%)</code><br />Quests: <b>0</b>
+      Mail: <b>1960</b> <code>(68%)</code><br />Spiral Abyss: <b>450</b>
+      <code>(15%)</code><br />Events: <b>300</b> <code>(10%)</code><br />Daily
+      Activity: <b>200</b> <code>(6%)</code><br />Quests: <b>0</b>
       <code>(0%)</code><br />Adventure: <b>0</b> <code>(0%)</code><br />Other:
       <b>1</b> <code>(1%)</code><br />
     </td>
