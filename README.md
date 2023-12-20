@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 20, 2023 03:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 20, 2023 07:29 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -161,7 +161,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>916</b></td>
+    <td align="center"><b>917</b></td>
   </tr>
   <tr>
     <td>
@@ -681,11 +681,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
-        ,
-        height="18"
-      />
-      <b>Nahida</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
         ,
         height="18"
@@ -700,7 +695,12 @@
         ,
         height="18"
       />
-      <b>Hu Tao</b> <code>(3)</code><br />
+      <b>Hu Tao</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
+        ,
+        height="18"
+      />
+      <b>Kaedehara Kazuha</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
