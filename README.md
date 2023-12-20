@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 20, 2023 12:06 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 20, 2023 17:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -681,6 +681,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nilou_Card.png"
+        ,
+        height="18"
+      />
+      <b>Nilou</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Furina_Card.png"
         ,
         height="18"
@@ -695,12 +700,7 @@
         ,
         height="18"
       />
-      <b>Yelan</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(3)</code><br />
+      <b>Yelan</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -766,7 +766,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2916</b> <code>(rate -46)</code></td>
+    <td align="center"><b>3557</b> <code>(rate -35)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -777,18 +777,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1212803</b> <code>(rate -76)</code></td>
+    <td align="center"><b>1212909</b> <code>(rate -76)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>1960</b> <code>(67%)</code><br />Spiral Abyss: <b>450</b>
-      <code>(15%)</code><br />Events: <b>300</b> <code>(10%)</code><br />Daily
-      Activity: <b>200</b> <code>(6%)</code><br />Adventure: <b>5</b>
+      Mail: <b>2560</b> <code>(72%)</code><br />Spiral Abyss: <b>450</b>
+      <code>(12%)</code><br />Events: <b>340</b> <code>(9%)</code><br />Daily
+      Activity: <b>200</b> <code>(5%)</code><br />Adventure: <b>5</b>
       <code>(1%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
-      <b>1</b> <code>(1%)</code><br />
+      <b>2</b> <code>(1%)</code><br />
     </td>
   </tr>
 </table>
