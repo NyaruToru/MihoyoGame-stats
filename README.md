@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 22, 2023 03:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 22, 2023 07:35 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -681,26 +681,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
         ,
         height="18"
       />
-      <b>Kaedehara Kazuha</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Baizhuer_Card.png"
+      <b>Nahida</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
         ,
         height="18"
       />
-      <b>Baizhu</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nilou_Card.png"
+      <b>Yelan</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
         ,
         height="18"
       />
-      <b>Nilou</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Furina_Card.png"
+      <b>Zhongli</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Hutao_Card.png"
         ,
         height="18"
       />
-      <b>Furina</b> <code>(3)</code><br />
+      <b>Hu Tao</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -766,7 +766,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>3617</b> <code>(rate -34)</code></td>
+    <td align="center"><b>3677</b> <code>(rate -32)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -777,16 +777,16 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1260284</b> <code>(rate -75)</code></td>
+    <td align="center"><b>1297107</b> <code>(rate -74)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>2620</b> <code>(72%)</code><br />Spiral Abyss: <b>450</b>
+      Mail: <b>2620</b> <code>(70%)</code><br />Spiral Abyss: <b>450</b>
       <code>(12%)</code><br />Events: <b>340</b> <code>(9%)</code><br />Daily
-      Activity: <b>200</b> <code>(5%)</code><br />Adventure: <b>5</b>
+      Activity: <b>260</b> <code>(7%)</code><br />Adventure: <b>5</b>
       <code>(1%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
       <b>2</b> <code>(1%)</code><br />
     </td>
