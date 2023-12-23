@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 23, 2023 12:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 23, 2023 17:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -681,16 +681,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Hutao_Card.png"
-        ,
-        height="18"
-      />
-      <b>Hu Tao</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
         ,
         height="18"
@@ -700,7 +690,17 @@
         ,
         height="18"
       />
-      <b>Baizhu</b> <code>(3)</code><br />
+      <b>Baizhu</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nilou_Card.png"
+        ,
+        height="18"
+      />
+      <b>Nilou</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Furina_Card.png"
+        ,
+        height="18"
+      />
+      <b>Furina</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -766,7 +766,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>3677</b> <code>(rate -32)</code></td>
+    <td align="center"><b>3735</b> <code>(rate -31)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -777,16 +777,16 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1300424</b> <code>(rate -74)</code></td>
+    <td align="center"><b>1413281</b> <code>(rate -72)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>2620</b> <code>(70%)</code><br />Spiral Abyss: <b>450</b>
+      Mail: <b>2620</b> <code>(69%)</code><br />Spiral Abyss: <b>450</b>
       <code>(12%)</code><br />Events: <b>340</b> <code>(9%)</code><br />Daily
-      Activity: <b>260</b> <code>(7%)</code><br />Adventure: <b>5</b>
+      Activity: <b>300</b> <code>(8%)</code><br />Adventure: <b>23</b>
       <code>(1%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
       <b>2</b> <code>(1%)</code><br />
     </td>
@@ -833,11 +833,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/0b9121240dd7420571d860e347c07fde.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/c8607e9b6938744f6175b5631c2d61d0.png"
             ,
             height="20"
           />
-          Primordial Jade Cutter
+          Amenoma Kageuchi
         </h3>
       </th>
     </tr>
@@ -854,7 +854,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/0b9121240dd7420571d860e347c07fde.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/c8607e9b6938744f6175b5631c2d61d0.png"
             ,
             height="256"
           />
@@ -945,7 +945,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Primordial Jade Cutter</td>
+            <td align="center">Amenoma Kageuchi</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -953,7 +953,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1169,11 +1169,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/7203a9c9f0447b3ff957472308f72ce9.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/a33f08b9156e58d1c580f47b0b507efa.png"
             ,
             height="20"
           />
-          Black Tassel
+          Deathmatch
         </h3>
       </th>
     </tr>
@@ -1190,7 +1190,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/7203a9c9f0447b3ff957472308f72ce9.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/a33f08b9156e58d1c580f47b0b507efa.png"
             ,
             height="256"
           />
@@ -1281,7 +1281,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Black Tassel</td>
+            <td align="center">Deathmatch</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -1289,19 +1289,19 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+90</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>6</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
         </table>
       </td>
@@ -1495,11 +1495,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/a33f08b9156e58d1c580f47b0b507efa.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/7203a9c9f0447b3ff957472308f72ce9.png"
             ,
             height="20"
           />
-          Deathmatch
+          Black Tassel
         </h3>
       </th>
     </tr>
@@ -1516,7 +1516,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/a33f08b9156e58d1c580f47b0b507efa.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/7203a9c9f0447b3ff957472308f72ce9.png"
             ,
             height="256"
           />
@@ -1607,7 +1607,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Deathmatch</td>
+            <td align="center">Black Tassel</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -1615,19 +1615,19 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+90</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>6</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>3</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -2143,11 +2143,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/786f57b0980053a0fecae879254abc22.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/3f28df47f34f46ec1a9089ed5c408de3.png"
             ,
             height="20"
           />
-          Skyward Atlas
+          Lost Prayer to the Sacred Winds
         </h3>
       </th>
     </tr>
@@ -2164,7 +2164,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/786f57b0980053a0fecae879254abc22.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/3f28df47f34f46ec1a9089ed5c408de3.png"
             ,
             height="256"
           />
@@ -2203,18 +2203,18 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />3 x Gladiator's Finale<br />2 x Shimenawa's
-              Reminiscence<br />
+              Artifacts<br />2 x Gilded Dreams<br />1 x Shimenawa's
+              Reminiscence<br />2 x Gladiator's Finale<br />
             </td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/dc88f5d32a2fa6bce8d026078d1427af.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/f14ca488f35f9cea7e6cfb769cde8dfb.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Gladiator's Nostalgia<br /><img
+              Dreaming Steelbloom<br /><img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/aa5e445e8e5428ff69714b3093633f82.png"
                 ,
                 height="25"
@@ -2236,13 +2236,13 @@
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
               Gladiator's Intoxication<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/8c5fbb2f91059deaac7376fb5cc12fcd.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/cee31e730dc1a91841e043140e24e56f.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Capricious Visage<br />
+              Shadow of the Sand King<br />
             </td>
           </tr>
           <tr>
@@ -2255,7 +2255,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Skyward Atlas</td>
+            <td align="center">Lost Prayer to the Sacred Winds</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -2267,15 +2267,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+90</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>6</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>3</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -2469,11 +2469,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/f6fd61e8d0a2ff589b473f7b1904ab60.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/e4d23a24291750f8dc86cbaa9a8a3352.png"
             ,
             height="20"
           />
-          Key of Khaj-Nisut
+          Favonius Sword
         </h3>
       </th>
     </tr>
@@ -2490,7 +2490,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/f6fd61e8d0a2ff589b473f7b1904ab60.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/e4d23a24291750f8dc86cbaa9a8a3352.png"
             ,
             height="256"
           />
@@ -2581,7 +2581,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Key of Khaj-Nisut</td>
+            <td align="center">Favonius Sword</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -2589,7 +2589,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2601,7 +2601,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -2692,17 +2692,17 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />4 x Gilded Dreams<br />1 x Gladiator's Finale<br />
+              Artifacts<br />2 x Gladiator's Finale<br />3 x Gilded Dreams<br />
             </td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/f14ca488f35f9cea7e6cfb769cde8dfb.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/dc88f5d32a2fa6bce8d026078d1427af.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Dreaming Steelbloom<br /><img
+              Gladiator's Nostalgia<br /><img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/ec836a2049d0e2ae3295ec99ae0c030f.png"
                 ,
                 height="25"
@@ -2794,11 +2794,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/3f28df47f34f46ec1a9089ed5c408de3.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/786f57b0980053a0fecae879254abc22.png"
             ,
             height="20"
           />
-          Lost Prayer to the Sacred Winds
+          Skyward Atlas
         </h3>
       </th>
     </tr>
@@ -2815,7 +2815,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/3f28df47f34f46ec1a9089ed5c408de3.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/786f57b0980053a0fecae879254abc22.png"
             ,
             height="256"
           />
@@ -2906,7 +2906,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Lost Prayer to the Sacred Winds</td>
+            <td align="center">Skyward Atlas</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -2918,15 +2918,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+70</code></td>
+            <td align="center"><code>+90</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>4</code></td>
+            <td align="center"><code>6</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
         </table>
       </td>
@@ -2957,11 +2957,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/c8607e9b6938744f6175b5631c2d61d0.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/0b9121240dd7420571d860e347c07fde.png"
             ,
             height="20"
           />
-          Amenoma Kageuchi
+          Primordial Jade Cutter
         </h3>
       </th>
     </tr>
@@ -2978,7 +2978,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/c8607e9b6938744f6175b5631c2d61d0.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/0b9121240dd7420571d860e347c07fde.png"
             ,
             height="256"
           />
@@ -3069,7 +3069,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Amenoma Kageuchi</td>
+            <td align="center">Primordial Jade Cutter</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -3077,7 +3077,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -4386,11 +4386,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/e4d23a24291750f8dc86cbaa9a8a3352.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/f6fd61e8d0a2ff589b473f7b1904ab60.png"
             ,
             height="20"
           />
-          Favonius Sword
+          Key of Khaj-Nisut
         </h3>
       </th>
     </tr>
@@ -4407,7 +4407,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/e4d23a24291750f8dc86cbaa9a8a3352.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/f6fd61e8d0a2ff589b473f7b1904ab60.png"
             ,
             height="256"
           />
@@ -4498,7 +4498,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Favonius Sword</td>
+            <td align="center">Key of Khaj-Nisut</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -4506,7 +4506,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -4518,7 +4518,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -5340,9 +5340,8 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />1 x Gilded Dreams<br />1 x Shimenawa's
-              Reminiscence<br />1 x Wanderer's Troupe<br />1 x Noblesse
-              Oblige<br />
+              Artifacts<br />1 x Gilded Dreams<br />1 x Gladiator's Finale<br />1
+              x Wanderer's Troupe<br />1 x Noblesse Oblige<br />
             </td>
             <td align="center">
               <img
@@ -5353,13 +5352,13 @@
               <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               Dreaming Steelbloom<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/aa5e445e8e5428ff69714b3093633f82.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/41bf93b85954812d9de74b29903aa652.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Shaft of Remembrance<br /><img
+              Gladiator's Destiny<br /><img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/5eda94ed465a76a4e8e2923fda382f2d.png"
                 ,
                 height="25"
@@ -6074,8 +6073,7 @@
           <tr>
             <td>
               Artifacts<br />1 x Gladiator's Finale<br />1 x Tenacity of the
-              Millelith<br />1 x Shimenawa's Reminiscence<br />1 x Gilded
-              Dreams<br />
+              Millelith<br />2 x Shimenawa's Reminiscence<br />
             </td>
             <td align="center">
               <img
@@ -6100,13 +6098,13 @@
               <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               Morning Dew's Moment<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/cee31e730dc1a91841e043140e24e56f.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/8c5fbb2f91059deaac7376fb5cc12fcd.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Shadow of the Sand King<br />
+              Capricious Visage<br />
             </td>
           </tr>
           <tr>
@@ -6510,18 +6508,18 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />1 x Gladiator's Finale<br />1 x Noblesse Oblige<br />1
-              x Deepwood Memories<br />
+              Artifacts<br />1 x Shimenawa's Reminiscence<br />1 x Noblesse
+              Oblige<br />1 x Deepwood Memories<br />
             </td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/41bf93b85954812d9de74b29903aa652.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/aa5e445e8e5428ff69714b3093633f82.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Gladiator's Destiny<br /><img
+              Shaft of Remembrance<br /><img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/75ea0ddd10569e5b74a11c67bb5c04ec.png"
                 ,
                 height="25"
