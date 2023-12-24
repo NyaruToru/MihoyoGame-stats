@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 24, 2023 22:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 25, 2023 03:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -108,22 +108,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>24</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>25</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Mora</b>
+      <b>3 x Hero's Wit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-12-24 04:07:29+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-12-25 04:07:40+08:00</b></td>
   </tr>
 </table>
 
@@ -161,7 +161,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>920</b></td>
+    <td align="center"><b>921</b></td>
   </tr>
   <tr>
     <td>
@@ -681,26 +681,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Hutao_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Furina_Card.png"
         ,
         height="18"
       />
-      <b>Hu Tao</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
+      <b>Furina</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
         ,
         height="18"
       />
-      <b>Kaedehara Kazuha</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Baizhuer_Card.png"
+      <b>Nahida</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
         ,
         height="18"
       />
-      <b>Baizhu</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nilou_Card.png"
+      <b>Yelan</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
         ,
         height="18"
       />
-      <b>Nilou</b> <code>(3)</code><br />
+      <b>Zhongli</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -1169,11 +1169,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/a33f08b9156e58d1c580f47b0b507efa.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/7203a9c9f0447b3ff957472308f72ce9.png"
             ,
             height="20"
           />
-          Deathmatch
+          Black Tassel
         </h3>
       </th>
     </tr>
@@ -1190,7 +1190,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/a33f08b9156e58d1c580f47b0b507efa.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/7203a9c9f0447b3ff957472308f72ce9.png"
             ,
             height="256"
           />
@@ -1281,7 +1281,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Deathmatch</td>
+            <td align="center">Black Tassel</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -1289,19 +1289,19 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+90</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>6</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>3</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -1495,11 +1495,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/7203a9c9f0447b3ff957472308f72ce9.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/a33f08b9156e58d1c580f47b0b507efa.png"
             ,
             height="20"
           />
-          Black Tassel
+          Deathmatch
         </h3>
       </th>
     </tr>
@@ -1516,7 +1516,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/7203a9c9f0447b3ff957472308f72ce9.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/a33f08b9156e58d1c580f47b0b507efa.png"
             ,
             height="256"
           />
@@ -1607,7 +1607,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Black Tassel</td>
+            <td align="center">Deathmatch</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -1615,19 +1615,19 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+90</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>6</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
         </table>
       </td>
@@ -3494,7 +3494,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+6</code></td>
+            <td align="center"><code>+7</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -9434,22 +9434,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>24</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>25</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6c600507c71c6eafa40ad3066c1c9601_4411785649112465062.png"
           ,
           height="80" /></a
       ><br />
-      <b>8000 x Credit</b>
+      <b>1 x Disposable Kinetic Arm</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-12-24 04:07:30+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-12-25 04:07:41+08:00</b></td>
   </tr>
 </table>
 
@@ -9467,7 +9467,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>225</b></td>
+    <td><b>226</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
