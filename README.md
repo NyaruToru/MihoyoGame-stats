@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 25, 2023 03:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 25, 2023 07:36 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -681,16 +681,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Furina_Card.png"
-        ,
-        height="18"
-      />
-      <b>Furina</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
-        ,
-        height="18"
-      />
-      <b>Nahida</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
         ,
         height="18"
@@ -700,7 +690,17 @@
         ,
         height="18"
       />
-      <b>Zhongli</b> <code>(3)</code><br />
+      <b>Zhongli</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Hutao_Card.png"
+        ,
+        height="18"
+      />
+      <b>Hu Tao</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
+        ,
+        height="18"
+      />
+      <b>Kaedehara Kazuha</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -766,7 +766,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>3792</b> <code>(rate -30)</code></td>
+    <td align="center"><b>4002</b> <code>(rate -27)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -777,17 +777,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1427541</b> <code>(rate -71)</code></td>
+    <td align="center"><b>1542722</b> <code>(rate -69)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>2620</b> <code>(70%)</code><br />Spiral Abyss: <b>450</b>
-      <code>(12%)</code><br />Events: <b>340</b> <code>(8%)</code><br />Daily
-      Activity: <b>300</b> <code>(7%)</code><br />Adventure: <b>80</b>
-      <code>(2%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
+      Mail: <b>2620</b> <code>(66%)</code><br />Spiral Abyss: <b>600</b>
+      <code>(15%)</code><br />Events: <b>340</b> <code>(9%)</code><br />Daily
+      Activity: <b>360</b> <code>(8%)</code><br />Adventure: <b>80</b>
+      <code>(1%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
       <b>2</b> <code>(1%)</code><br />
     </td>
   </tr>
