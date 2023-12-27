@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 27, 2023 22:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 28, 2023 03:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -108,22 +108,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>27</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>28</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventurer's Experience</b>
+      <b>3 x Hero's Wit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-12-27 04:07:59+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-12-28 04:07:54+08:00</b></td>
   </tr>
 </table>
 
@@ -681,6 +681,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Baizhuer_Card.png"
+        ,
+        height="18"
+      />
+      <b>Baizhu</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nilou_Card.png"
+        ,
+        height="18"
+      />
+      <b>Nilou</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Furina_Card.png"
         ,
         height="18"
@@ -690,17 +700,7 @@
         ,
         height="18"
       />
-      <b>Nahida</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
-        ,
-        height="18"
-      />
-      <b>Yelan</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(3)</code><br />
+      <b>Nahida</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -9434,22 +9434,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>27</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>28</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/40c4661295cacb4f584fd7787375d7ac_9144584527481294308.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/508229a94e4fa459651f64c1cd02687a_2622619536733353535.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Lost Crystal</b>
+      <b>3 x Traveler's Guide</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-12-27 04:08:00+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-12-28 04:07:54+08:00</b></td>
   </tr>
 </table>
 
@@ -9475,7 +9475,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>317</b></td>
+    <td><b>318</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -9492,7 +9492,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>8328</b> <code>(rate 168)</code></td>
+    <td align="center"><b>8568</b> <code>(rate 175)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9513,11 +9513,11 @@
       Categories
     </td>
     <td>
-      Mail: <b>3440</b> <code>(41%)</code><br />Event: <b>2430</b>
-      <code>(29%)</code><br />Adventure Rewards: <b>895</b> <code>(10%)</code
+      Mail: <b>3490</b> <code>(40%)</code><br />Event: <b>2600</b>
+      <code>(30%)</code><br />Adventure Rewards: <b>915</b> <code>(10%)</code
       ><br />Simulated Universe: <b>705</b> <code>(8%)</code><br />Daily
       Activity: <b>435</b> <code>(5%)</code><br />Forgotten Hall: <b>420</b>
-      <code>(5%)</code><br />Other: <b>3</b> <code>(2%)</code><br />
+      <code>(4%)</code><br />Other: <b>3</b> <code>(3%)</code><br />
     </td>
   </tr>
 </table>
