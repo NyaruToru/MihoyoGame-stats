@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 28, 2023 17:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 28, 2023 22:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -681,6 +681,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
+        ,
+        height="18"
+      />
+      <b>Nahida</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
         ,
         height="18"
@@ -695,12 +700,7 @@
         ,
         height="18"
       />
-      <b>Hu Tao</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
-        ,
-        height="18"
-      />
-      <b>Kaedehara Kazuha</b> <code>(3)</code><br />
+      <b>Hu Tao</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -9479,7 +9479,7 @@
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>288</b></td>
+    <td><b>289</b></td>
   </tr>
 </table>
 
@@ -9492,7 +9492,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>8633</b> <code>(rate 177)</code></td>
+    <td align="center"><b>8638</b> <code>(rate 178)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9514,7 +9514,7 @@
     </td>
     <td>
       Mail: <b>3490</b> <code>(40%)</code><br />Event: <b>2600</b>
-      <code>(30%)</code><br />Adventure Rewards: <b>920</b> <code>(10%)</code
+      <code>(30%)</code><br />Adventure Rewards: <b>925</b> <code>(10%)</code
       ><br />Simulated Universe: <b>705</b> <code>(8%)</code><br />Daily
       Activity: <b>495</b> <code>(5%)</code><br />Forgotten Hall: <b>420</b>
       <code>(4%)</code><br />Other: <b>3</b> <code>(3%)</code><br />
@@ -9539,15 +9539,111 @@
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td align="center"><b>Enigma in Deep Space (VI)</b></td>
+    <td align="center"><b>Enigma in Deep Space (VIII)</b></td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>9</b></td>
+    <td align="center"><b>11</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td align="center"><b>18</b></td>
+    <td align="center"><b>23</b></td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>Enigma in Deep Space (VIII)</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>3 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>9</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center">
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/bb0dfc695baa9a903f64a5395049e633.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/890b0bb5a381ff5268a1fc1c015d6c2c.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/b1175c60a14ccbda6adbb5d8184f25c3.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/b7b82f08ed57295555cb1ef662297150.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center">
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/62233f61aa280a966208300f3e5e44f9.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/e45d11777200fc9c73b98bedf802e333.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/4ffb19e65882e923edff373bfc72f4b4.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/e52ed26b017cd0d7274db7c9d50273b1.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>Enigma in Deep Space (VII)</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>2 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>7</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center">
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/bb0dfc695baa9a903f64a5395049e633.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/890b0bb5a381ff5268a1fc1c015d6c2c.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/b1175c60a14ccbda6adbb5d8184f25c3.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/b7b82f08ed57295555cb1ef662297150.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center">
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/62233f61aa280a966208300f3e5e44f9.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/e45d11777200fc9c73b98bedf802e333.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/4ffb19e65882e923edff373bfc72f4b4.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/e52ed26b017cd0d7274db7c9d50273b1.png"
+        height="18"
+      />
+    </td>
   </tr>
   <tr>
     <td>Name</td>
@@ -11118,7 +11214,7 @@
                 ,
                 height="25"
               />
-              <code>+13</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               The IPC's Mega HQ<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/66b7df3d312da4d7d044a0ef753eede1.png"
@@ -13098,7 +13194,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>6</code></td>
           </tr>
           <tr>
             <td>Relics</td>
