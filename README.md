@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 28, 2023 03:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 28, 2023 07:34 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -681,6 +681,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
+        ,
+        height="18"
+      />
+      <b>Kaedehara Kazuha</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Baizhuer_Card.png"
         ,
         height="18"
@@ -695,12 +700,7 @@
         ,
         height="18"
       />
-      <b>Furina</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
-        ,
-        height="18"
-      />
-      <b>Nahida</b> <code>(3)</code><br />
+      <b>Furina</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -9467,7 +9467,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>228</b></td>
+    <td><b>229</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9502,7 +9502,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>23</b> <code>(rate 0)</code></td>
+    <td align="center"><b>24</b> <code>(rate 4)</code></td>
   </tr>
   <tr>
     <td align="center">
