@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 29, 2023 03:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 29, 2023 07:29 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -161,7 +161,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>922</b></td>
+    <td align="center"><b>923</b></td>
   </tr>
   <tr>
     <td>
@@ -681,11 +681,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nilou_Card.png"
-        ,
-        height="18"
-      />
-      <b>Nilou</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Furina_Card.png"
         ,
         height="18"
@@ -700,7 +695,12 @@
         ,
         height="18"
       />
-      <b>Yelan</b> <code>(3)</code><br />
+      <b>Yelan</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -9467,7 +9467,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>229</b></td>
+    <td><b>230</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
