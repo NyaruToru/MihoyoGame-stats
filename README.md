@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 29, 2023 22:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 30, 2023 03:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -108,7 +108,7 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>29</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>30</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -123,7 +123,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-12-29 04:07:47+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-12-30 04:07:45+08:00</b></td>
   </tr>
 </table>
 
@@ -681,11 +681,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
-        ,
-        height="18"
-      />
-      <b>Kaedehara Kazuha</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Baizhuer_Card.png"
         ,
         height="18"
@@ -700,7 +695,12 @@
         ,
         height="18"
       />
-      <b>Furina</b> <code>(3)</code><br />
+      <b>Furina</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
+        ,
+        height="18"
+      />
+      <b>Nahida</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -9434,7 +9434,7 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>29</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>30</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9449,7 +9449,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-12-29 04:07:48+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-12-30 04:07:46+08:00</b></td>
   </tr>
 </table>
 
@@ -9502,7 +9502,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>38</b> <code>(rate 65)</code></td>
+    <td align="center"><b>40</b> <code>(rate 73)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -12548,7 +12548,7 @@
                 ,
                 height="25"
               />
-              <code>+13</code><br />
+              <code>+4</code><br />
               ⭐⭐⭐⭐⭐<br />
               Herta's Space Station<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/52cde3c27ad197aeae2053c2c67b6014.png"
@@ -12575,6 +12575,151 @@
           <tr>
             <td>Superimpose</td>
             <td align="center"><code>1</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+      height="18"
+    /><b> Clara </b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+            height="20"
+          />
+          Clara
+        </h3>
+      </th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/65f65f8c6dcd7514b7627bda8a756a39.png"
+            height="20"
+          />
+          The Moles Welcome You
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/3ae0f470be5962324569f3dde7eda220.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/65f65f8c6dcd7514b7627bda8a756a39.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+                height="18"
+              />
+              physical
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+61</code></td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/2f91fd74c6706a8ae650e8c58571ef0f.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Champion's Headgear<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/9cd74b75fc1bfd82214db2280b14a1d8.png"
+                ,
+                height="25"
+              />
+              <code>+12</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Champion's Heavy Gloves<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/7105db7069d3241f0cb7a4a0b8244790.png"
+                ,
+                height="25"
+              />
+              <code>+8</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Champion's Chest Guard<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/b01b98b36fd6816e1ac57a27ae076efc.png"
+                ,
+                height="25"
+              />
+              <code>+8</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Champion's Fleetfoot Boots<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Planar</td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/d007890453d0ee0a8fc5e9550ffe6330.png"
+                ,
+                height="25"
+              />
+              <code>+13</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Herta's Space Station<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/52cde3c27ad197aeae2053c2c67b6014.png"
+                ,
+                height="25"
+              />
+              <code>+12</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Herta's Wandering Trek<br />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">The Moles Welcome You</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+60</code></td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center"><code>4</code></td>
           </tr>
         </table>
       </td>
@@ -12835,13 +12980,13 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/2f91fd74c6706a8ae650e8c58571ef0f.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/17af5643502ec1222ae3985fdb3e1cbd.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Champion's Headgear<br /><img
+              Hunter's Artaius Hood<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/9cd74b75fc1bfd82214db2280b14a1d8.png"
                 ,
                 height="25"
@@ -14101,91 +14246,6 @@
           <tr>
             <td>Eidolon</td>
             <td align="center"><code>6</code></td>
-          </tr>
-          <tr>
-            <td>Relics</td>
-            <td align="center"></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table align="center">
-          <tr>
-            <td>Name</td>
-            <td align="center"></td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+</code></td>
-          </tr>
-          <tr>
-            <td>Superimpose</td>
-            <td align="center"><code></code></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary align="center">
-    <img
-      src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
-      height="18"
-    /><b> Clara </b>
-  </summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th align="center">
-        <h3>
-          <img
-            src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
-            height="20"
-          />
-          Clara
-        </h3>
-      </th>
-      <th align="center">
-        <h3><img src="" height="20" /></h3>
-      </th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/3ae0f470be5962324569f3dde7eda220.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center"><img src="" /></p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table align="center">
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
-                height="18"
-              />
-              physical
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+20</code></td>
-          </tr>
-          <tr>
-            <td>Eidolon</td>
-            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Relics</td>
