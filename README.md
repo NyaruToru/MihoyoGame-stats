@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 29, 2023 07:29 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 29, 2023 12:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -161,7 +161,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>923</b></td>
+    <td align="center"><b>924</b></td>
   </tr>
   <tr>
     <td>
@@ -228,7 +228,7 @@
       />
       Hydroculus
     </td>
-    <td align="center"><b>13</b></td>
+    <td align="center"><b>14</b></td>
   </tr>
   <tr>
     <td>
@@ -242,7 +242,7 @@
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>1371</b></td>
+    <td align="center"><b>1372</b></td>
   </tr>
   <tr>
     <td>
@@ -681,26 +681,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Furina_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Hutao_Card.png"
         ,
         height="18"
       />
-      <b>Furina</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
+      <b>Hu Tao</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
         ,
         height="18"
       />
-      <b>Nahida</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
+      <b>Kaedehara Kazuha</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Baizhuer_Card.png"
         ,
         height="18"
       />
-      <b>Yelan</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
+      <b>Baizhu</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nilou_Card.png"
         ,
         height="18"
       />
-      <b>Zhongli</b> <code>(3)</code><br />
+      <b>Nilou</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -766,7 +766,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>4092</b> <code>(rate -25)</code></td>
+    <td align="center"><b>4097</b> <code>(rate -25)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -777,17 +777,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1635634</b> <code>(rate -67)</code></td>
+    <td align="center"><b>1637174</b> <code>(rate -67)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>2620</b> <code>(65%)</code><br />Spiral Abyss: <b>600</b>
+      Mail: <b>2620</b> <code>(64%)</code><br />Spiral Abyss: <b>600</b>
       <code>(15%)</code><br />Daily Activity: <b>450</b> <code>(10%)</code
-      ><br />Events: <b>340</b> <code>(8%)</code><br />Adventure: <b>80</b>
-      <code>(1%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
+      ><br />Events: <b>340</b> <code>(8%)</code><br />Adventure: <b>85</b>
+      <code>(2%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
       <b>2</b> <code>(1%)</code><br />
     </td>
   </tr>
@@ -9475,7 +9475,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>319</b></td>
+    <td><b>333</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -9492,7 +9492,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>9143</b> <code>(rate 194)</code></td>
+    <td align="center"><b>9856</b> <code>(rate 217)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9502,7 +9502,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>24</b> <code>(rate 4)</code></td>
+    <td align="center"><b>27</b> <code>(rate 17)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9513,11 +9513,11 @@
       Categories
     </td>
     <td>
-      Mail: <b>3490</b> <code>(38%)</code><br />Event: <b>2600</b>
-      <code>(28%)</code><br />Adventure Rewards: <b>1190</b> <code>(13%)</code
-      ><br />Simulated Universe: <b>825</b> <code>(9%)</code><br />Daily
-      Activity: <b>495</b> <code>(5%)</code><br />Forgotten Hall: <b>540</b>
-      <code>(5%)</code><br />Other: <b>3</b> <code>(2%)</code><br />
+      Mail: <b>3490</b> <code>(35%)</code><br />Event: <b>2840</b>
+      <code>(28%)</code><br />Adventure Rewards: <b>1460</b> <code>(14%)</code
+      ><br />Simulated Universe: <b>875</b> <code>(8%)</code><br />Daily
+      Activity: <b>645</b> <code>(6%)</code><br />Forgotten Hall: <b>540</b>
+      <code>(5%)</code><br />Other: <b>6</b> <code>(4%)</code><br />
     </td>
   </tr>
 </table>
@@ -11127,20 +11127,20 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/a71a5032872a776626984d437969ff21.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/522ad1c616980082238643035f3829fc.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐<br />
-              Thief's Myriad-Faced Mask<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/e8adb0b1ef6d166ffa5ee813cada1d18.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
+              <code>+13</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Thief's Gloves With Prints<br /><img
+              Messenger's Holovisor<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/e52c6e476cd6324ef723ca17291dd6df.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Messenger's Transformative Arm<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/9d5e45d12f28450a6217c96b46c2a393.png"
                 ,
                 height="25"
@@ -11891,7 +11891,7 @@
                 ,
                 height="25"
               />
-              <code>+13</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               Messenger's Holovisor<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua57cb/e52c6e476cd6324ef723ca17291dd6df.png"
@@ -12077,7 +12077,7 @@
                 ,
                 height="25"
               />
-              <code>+13</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               The Xianzhou Luofu's Ambrosial Arbor Vines<br />
             </td>
