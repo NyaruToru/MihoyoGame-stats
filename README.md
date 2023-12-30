@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 30, 2023 17:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 30, 2023 22:06 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -161,7 +161,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>924</b></td>
+    <td align="center"><b>925</b></td>
   </tr>
   <tr>
     <td>
@@ -681,26 +681,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nilou_Card.png"
-        ,
-        height="18"
-      />
-      <b>Nilou</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Furina_Card.png"
-        ,
-        height="18"
-      />
-      <b>Furina</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
-        ,
-        height="18"
-      />
-      <b>Nahida</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
         ,
         height="18"
       />
-      <b>Yelan</b> <code>(3)</code><br />
+      <b>Yelan</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Hutao_Card.png"
+        ,
+        height="18"
+      />
+      <b>Hu Tao</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
+        ,
+        height="18"
+      />
+      <b>Kaedehara Kazuha</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -9475,7 +9475,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>341</b></td>
+    <td><b>342</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -9492,7 +9492,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>11043</b> <code>(rate 255)</code></td>
+    <td align="center"><b>11158</b> <code>(rate 259)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9514,10 +9514,10 @@
     </td>
     <td>
       Mail: <b>3490</b> <code>(31%)</code><br />Event: <b>3140</b>
-      <code>(28%)</code><br />Adventure Rewards: <b>2195</b> <code>(19%)</code
+      <code>(28%)</code><br />Adventure Rewards: <b>2310</b> <code>(20%)</code
       ><br />Daily Activity: <b>795</b> <code>(7%)</code><br />Simulated
       Universe: <b>875</b> <code>(7%)</code><br />Forgotten Hall: <b>540</b>
-      <code>(4%)</code><br />Other: <b>8</b> <code>(4%)</code><br />
+      <code>(4%)</code><br />Other: <b>8</b> <code>(3%)</code><br />
     </td>
   </tr>
 </table>
