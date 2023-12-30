@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 30, 2023 12:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 30, 2023 17:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -681,11 +681,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Baizhuer_Card.png"
-        ,
-        height="18"
-      />
-      <b>Baizhu</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nilou_Card.png"
         ,
         height="18"
@@ -700,7 +695,12 @@
         ,
         height="18"
       />
-      <b>Nahida</b> <code>(3)</code><br />
+      <b>Nahida</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
+        ,
+        height="18"
+      />
+      <b>Yelan</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -9475,7 +9475,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>340</b></td>
+    <td><b>341</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -9492,7 +9492,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>10978</b> <code>(rate 253)</code></td>
+    <td align="center"><b>11043</b> <code>(rate 255)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9514,10 +9514,10 @@
     </td>
     <td>
       Mail: <b>3490</b> <code>(31%)</code><br />Event: <b>3140</b>
-      <code>(28%)</code><br />Adventure Rewards: <b>2180</b> <code>(19%)</code
-      ><br />Simulated Universe: <b>875</b> <code>(7%)</code><br />Daily
-      Activity: <b>745</b> <code>(6%)</code><br />Other: <b>8</b>
-      <code>(5%)</code><br />Forgotten Hall: <b>540</b> <code>(4%)</code><br />
+      <code>(28%)</code><br />Adventure Rewards: <b>2195</b> <code>(19%)</code
+      ><br />Daily Activity: <b>795</b> <code>(7%)</code><br />Simulated
+      Universe: <b>875</b> <code>(7%)</code><br />Forgotten Hall: <b>540</b>
+      <code>(4%)</code><br />Other: <b>8</b> <code>(4%)</code><br />
     </td>
   </tr>
 </table>
@@ -12645,7 +12645,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+61</code></td>
+            <td align="center"><code>+64</code></td>
           </tr>
           <tr>
             <td>Eidolon</td>
