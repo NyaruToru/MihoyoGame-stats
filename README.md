@@ -49,7 +49,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 31, 2023 07:38 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 31, 2023 12:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -681,6 +681,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Baizhuer_Card.png"
+        ,
+        height="18"
+      />
+      <b>Baizhu</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nilou_Card.png"
         ,
         height="18"
@@ -695,12 +700,7 @@
         ,
         height="18"
       />
-      <b>Nahida</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
-        ,
-        height="18"
-      />
-      <b>Yelan</b> <code>(3)</code><br />
+      <b>Nahida</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -9467,7 +9467,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>231</b></td>
+    <td><b>232</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9492,7 +9492,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>11158</b> <code>(rate 259)</code></td>
+    <td align="center"><b>11258</b> <code>(rate 262)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9502,7 +9502,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>41</b> <code>(rate 78)</code></td>
+    <td align="center"><b>42</b> <code>(rate 82)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9514,10 +9514,10 @@
     </td>
     <td>
       Mail: <b>3490</b> <code>(31%)</code><br />Event: <b>3140</b>
-      <code>(28%)</code><br />Adventure Rewards: <b>2310</b> <code>(20%)</code
-      ><br />Daily Activity: <b>795</b> <code>(7%)</code><br />Simulated
+      <code>(27%)</code><br />Adventure Rewards: <b>2310</b> <code>(20%)</code
+      ><br />Daily Activity: <b>895</b> <code>(7%)</code><br />Simulated
       Universe: <b>875</b> <code>(7%)</code><br />Forgotten Hall: <b>540</b>
-      <code>(4%)</code><br />Other: <b>8</b> <code>(3%)</code><br />
+      <code>(4%)</code><br />Other: <b>8</b> <code>(4%)</code><br />
     </td>
   </tr>
 </table>
