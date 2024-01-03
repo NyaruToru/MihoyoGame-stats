@@ -24,7 +24,6 @@ DEFAULT_OUTPUT_PATH = "stats.html"
 
 class GenshinRes:
     user: genshin.models.FullGenshinUserStats
-    abyss: genshin.models.SpiralAbyss
     diary: genshin.models.Diary
     reward: genshin.models.ClaimedDailyReward
     reward_info: genshin.models.DailyRewardInfo
@@ -73,7 +72,6 @@ class AnimeGame(genshin.Client):
 
     async def get_genshin_res(self) -> GenshinRes:
         user = await self.get_full_genshin_user(0, lang=self.args.lang)
-        abyss = user.abyss.current if user.abyss.current.floors else user.abyss.previous
         diary = await self.get_genshin_diary()
         reward, reward_info = await self._claim_daily()
         codes = self.codes.get_codes()
@@ -81,7 +79,6 @@ class AnimeGame(genshin.Client):
             await self.codes.redeem_codes(self, codes)
         return GenshinRes(
             user=user,
-            abyss=abyss,
             diary=diary,
             reward=reward,
             reward_info=reward_info
