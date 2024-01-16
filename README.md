@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jan 16, 2024 07:36 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 16, 2024 12:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -169,7 +169,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>935</b></td>
+    <td align="center"><b>936</b></td>
   </tr>
   <tr>
     <td>
@@ -283,7 +283,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>-</b></td>
+    <td align="center"><b>8-3</b></td>
   </tr>
 </table>
 
@@ -9361,11 +9361,11 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>346</b></td>
+    <td><b>347</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>311</b></td>
+    <td><b>315</b></td>
   </tr>
 </table>
 
@@ -9378,7 +9378,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>3621</b> <code>(rate -67)</code></td>
+    <td align="center"><b>3856</b> <code>(rate -65)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9399,11 +9399,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>2180</b> <code>(60%)</code><br />Simulated Universe:
-      <b>595</b> <code>(16%)</code><br />Forgotten Hall: <b>500</b>
-      <code>(13%)</code><br />Adventure Rewards: <b>325</b> <code>(8%)</code
-      ><br />Other: <b>1</b> <code>(3%)</code><br />Event: <b>0</b>
-      <code>(0%)</code><br />Mail: <b>20</b> <code>(0%)</code><br />
+      Daily Activity: <b>2210</b> <code>(57%)</code><br />Simulated Universe:
+      <b>595</b> <code>(15%)</code><br />Adventure Rewards: <b>480</b>
+      <code>(12%)</code><br />Forgotten Hall: <b>500</b> <code>(12%)</code
+      ><br />Other: <b>1</b> <code>(3%)</code><br />Mail: <b>70</b>
+      <code>(1%)</code><br />Event: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
