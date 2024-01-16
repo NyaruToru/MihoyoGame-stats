@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jan 16, 2024 03:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 16, 2024 07:36 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -169,7 +169,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>934</b></td>
+    <td align="center"><b>935</b></td>
   </tr>
   <tr>
     <td>
@@ -9353,7 +9353,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>247</b></td>
+    <td><b>248</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9378,7 +9378,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>3371</b> <code>(rate -70)</code></td>
+    <td align="center"><b>3621</b> <code>(rate -67)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9399,9 +9399,9 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>2060</b> <code>(61%)</code><br />Simulated Universe:
-      <b>595</b> <code>(17%)</code><br />Forgotten Hall: <b>500</b>
-      <code>(14%)</code><br />Adventure Rewards: <b>195</b> <code>(5%)</code
+      Daily Activity: <b>2180</b> <code>(60%)</code><br />Simulated Universe:
+      <b>595</b> <code>(16%)</code><br />Forgotten Hall: <b>500</b>
+      <code>(13%)</code><br />Adventure Rewards: <b>325</b> <code>(8%)</code
       ><br />Other: <b>1</b> <code>(3%)</code><br />Event: <b>0</b>
       <code>(0%)</code><br />Mail: <b>20</b> <code>(0%)</code><br />
     </td>
@@ -10091,10 +10091,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/60dd7dca8d8504a7b115321c0cf4566a.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/24bc04f5ef8126adb52099eb81d32c97.png"
             height="20"
           />
-          Under the Blue Sky
+          The Moles Welcome You
         </h3>
       </th>
     </tr>
@@ -10109,7 +10109,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/60dd7dca8d8504a7b115321c0cf4566a.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/24bc04f5ef8126adb52099eb81d32c97.png"
           />
         </p>
       </td>
@@ -10199,11 +10199,11 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Under the Blue Sky</td>
+            <td align="center">The Moles Welcome You</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+60</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
@@ -11481,10 +11481,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/24bc04f5ef8126adb52099eb81d32c97.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/60dd7dca8d8504a7b115321c0cf4566a.png"
             height="20"
           />
-          The Moles Welcome You
+          Under the Blue Sky
         </h3>
       </th>
     </tr>
@@ -11499,7 +11499,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/24bc04f5ef8126adb52099eb81d32c97.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/60dd7dca8d8504a7b115321c0cf4566a.png"
           />
         </p>
       </td>
@@ -11537,7 +11537,7 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+14</code><br />
               ⭐⭐⭐⭐⭐<br />
               Champion's Headgear<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/669caaf9245f9ba9665208a081c9c5d2.png"
@@ -11551,14 +11551,14 @@
                 ,
                 height="25"
               />
-              <code>+8</code><br />
+              <code>+11</code><br />
               ⭐⭐⭐⭐⭐<br />
               Champion's Chest Guard<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/6d84ee91fe118a86c44819421ecb38e0.png"
                 ,
                 height="25"
               />
-              <code>+8</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Champion's Fleetfoot Boots<br />
             </td>
@@ -11578,7 +11578,7 @@
                 ,
                 height="25"
               />
-              <code>+12</code><br />
+              <code>+13</code><br />
               ⭐⭐⭐⭐⭐<br />
               Herta's Wandering Trek<br />
             </td>
@@ -11589,11 +11589,11 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">The Moles Welcome You</td>
+            <td align="center">Under the Blue Sky</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+60</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
@@ -11738,7 +11738,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+60</code></td>
+            <td align="center"><code>+70</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
