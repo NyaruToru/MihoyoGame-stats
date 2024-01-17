@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jan 17, 2024 12:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 17, 2024 17:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9361,7 +9361,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>347</b></td>
+    <td><b>348</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -9378,7 +9378,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>3961</b> <code>(rate -64)</code></td>
+    <td align="center"><b>4156</b> <code>(rate -63)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9388,7 +9388,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>20</b> <code>(rate -52)</code></td>
+    <td align="center"><b>22</b> <code>(rate -47)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9399,11 +9399,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>2310</b> <code>(58%)</code><br />Simulated Universe:
-      <b>595</b> <code>(15%)</code><br />Adventure Rewards: <b>485</b>
-      <code>(12%)</code><br />Forgotten Hall: <b>500</b> <code>(12%)</code
-      ><br />Other: <b>1</b> <code>(2%)</code><br />Mail: <b>70</b>
-      <code>(1%)</code><br />Event: <b>0</b> <code>(0%)</code><br />
+      Daily Activity: <b>2360</b> <code>(56%)</code><br />Simulated Universe:
+      <b>595</b> <code>(14%)</code><br />Forgotten Hall: <b>500</b>
+      <code>(12%)</code><br />Adventure Rewards: <b>490</b> <code>(11%)</code
+      ><br />Event: <b>140</b> <code>(3%)</code><br />Other: <b>1</b>
+      <code>(3%)</code><br />Mail: <b>70</b> <code>(1%)</code><br />
     </td>
   </tr>
 </table>
@@ -10141,57 +10141,7 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td align="center">
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/bee517d1c691f70fbc601b7e9d4d9e4f.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Wastelander's Breathing Mask<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/cbad8aa8cfdb79c3b0d554259a68d66e.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Wastelander's Desert Terminal<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/d2658d590494ec07a0db725c7085fa92.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Wastelander's Friar Robe<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/7245a96e53fa5e73015d6b817b52d384.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Wastelander's Powered Greaves<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Planar</td>
-            <td align="center">
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/89589a6b4d20bc448701c6ab76731b6a.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Taikiyan Laser Stadium<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/3dedd2266876a3d76021c64ff5148759.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Taikiyan's Arclight Race Track<br />
-            </td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -10816,10 +10766,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/b98bcdd4f128e4d0e54906239eeacdf9.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/685b23069d465f2c1642161c9993658b.png"
             height="20"
           />
-          Cruising in the Stellar Sea
+          Darting Arrow
         </h3>
       </th>
     </tr>
@@ -10834,7 +10784,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/b98bcdd4f128e4d0e54906239eeacdf9.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/685b23069d465f2c1642161c9993658b.png"
           />
         </p>
       </td>
@@ -10924,15 +10874,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Cruising in the Stellar Sea</td>
+            <td align="center">Darting Arrow</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+70</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>3</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -12760,6 +12710,151 @@
 <details>
   <summary align="center">
     <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+      height="18"
+    /><b> Dr. Ratio </b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+            height="20"
+          />
+          Dr. Ratio
+        </h3>
+      </th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/b98bcdd4f128e4d0e54906239eeacdf9.png"
+            height="20"
+          />
+          Cruising in the Stellar Sea
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/bf890bf87a5e4a6581edc893971fbc59.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/b98bcdd4f128e4d0e54906239eeacdf9.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+                height="18"
+              />
+              imaginary
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+60</code></td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/bee517d1c691f70fbc601b7e9d4d9e4f.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Wastelander's Breathing Mask<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/cbad8aa8cfdb79c3b0d554259a68d66e.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Wastelander's Desert Terminal<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/d2658d590494ec07a0db725c7085fa92.png"
+                ,
+                height="25"
+              />
+              <code>+12</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Wastelander's Friar Robe<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/7245a96e53fa5e73015d6b817b52d384.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Wastelander's Powered Greaves<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Planar</td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/47686848493e67cb3d6b84db1d26e24d.png"
+                ,
+                height="25"
+              />
+              <code>+11</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Glamoth's Iron Cavalry Regiment<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/4f7dee55e503c9d10e8fbe55ee710706.png"
+                ,
+                height="25"
+              />
+              <code>+10</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Glamoth's Silent Tombstone<br />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Cruising in the Stellar Sea</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+80</code></td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center"><code>3</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
       src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
       height="18"
     /><b> Bailu </b>
@@ -13633,13 +13728,7 @@
         </h3>
       </th>
       <th align="center">
-        <h3>
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/685b23069d465f2c1642161c9993658b.png"
-            height="20"
-          />
-          Darting Arrow
-        </h3>
+        <h3><img src="" height="20" /></h3>
       </th>
     </tr>
     <tr>
@@ -13651,11 +13740,7 @@
         </p>
       </td>
       <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/685b23069d465f2c1642161c9993658b.png"
-          />
-        </p>
+        <p align="center"><img src="" /></p>
       </td>
     </tr>
     <tr>
@@ -13743,15 +13828,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Darting Arrow</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+60</code></td>
+            <td align="center"><code>+</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code></code></td>
           </tr>
         </table>
       </td>
@@ -14132,91 +14217,6 @@
           <tr>
             <td>Eidolon</td>
             <td align="center"><code>6</code></td>
-          </tr>
-          <tr>
-            <td>Relics</td>
-            <td align="center"></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table align="center">
-          <tr>
-            <td>Name</td>
-            <td align="center"></td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+</code></td>
-          </tr>
-          <tr>
-            <td>Superimpose</td>
-            <td align="center"><code></code></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary align="center">
-    <img
-      src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
-      height="18"
-    /><b> Dr. Ratio </b>
-  </summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th align="center">
-        <h3>
-          <img
-            src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
-            height="20"
-          />
-          Dr. Ratio
-        </h3>
-      </th>
-      <th align="center">
-        <h3><img src="" height="20" /></h3>
-      </th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/bf890bf87a5e4a6581edc893971fbc59.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center"><img src="" /></p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table align="center">
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
-                height="18"
-              />
-              imaginary
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+1</code></td>
-          </tr>
-          <tr>
-            <td>Eidolon</td>
-            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Relics</td>
