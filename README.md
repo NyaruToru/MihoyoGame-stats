@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jan 18, 2024 03:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 18, 2024 07:36 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9353,7 +9353,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>249</b></td>
+    <td><b>250</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9378,7 +9378,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>4301</b> <code>(rate -61)</code></td>
+    <td align="center"><b>4451</b> <code>(rate -60)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9399,9 +9399,9 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>2360</b> <code>(54%)</code><br />Simulated Universe:
-      <b>705</b> <code>(16%)</code><br />Adventure Rewards: <b>525</b>
-      <code>(12%)</code><br />Forgotten Hall: <b>500</b> <code>(11%)</code
+      Daily Activity: <b>2510</b> <code>(56%)</code><br />Simulated Universe:
+      <b>705</b> <code>(15%)</code><br />Adventure Rewards: <b>525</b>
+      <code>(11%)</code><br />Forgotten Hall: <b>500</b> <code>(11%)</code
       ><br />Event: <b>140</b> <code>(3%)</code><br />Other: <b>1</b>
       <code>(3%)</code><br />Mail: <b>70</b> <code>(1%)</code><br />
     </td>
@@ -9429,7 +9429,7 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>21</b></td>
+    <td align="center"><b>22</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
@@ -10532,7 +10532,7 @@
                 ,
                 height="25"
               />
-              <code>+10</code><br />
+              <code>+12</code><br />
               ⭐⭐⭐⭐⭐<br />
               Messenger's Holovisor<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/5626f8e7153c8dd734be49afae5e7654.png"
