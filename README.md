@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jan 18, 2024 17:09 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 18, 2024 22:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -663,7 +663,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1754964</b> <code>(rate 7)</code></td>
+    <td align="center"><b>1783064</b> <code>(rate 8)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9378,7 +9378,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>4451</b> <code>(rate -60)</code></td>
+    <td align="center"><b>4551</b> <code>(rate -59)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9399,10 +9399,10 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>2510</b> <code>(56%)</code><br />Simulated Universe:
+      Daily Activity: <b>2510</b> <code>(55%)</code><br />Simulated Universe:
       <b>705</b> <code>(15%)</code><br />Adventure Rewards: <b>525</b>
-      <code>(11%)</code><br />Forgotten Hall: <b>500</b> <code>(11%)</code
-      ><br />Event: <b>140</b> <code>(3%)</code><br />Other: <b>1</b>
+      <code>(11%)</code><br />Forgotten Hall: <b>500</b> <code>(10%)</code
+      ><br />Event: <b>240</b> <code>(5%)</code><br />Other: <b>1</b>
       <code>(3%)</code><br />Mail: <b>70</b> <code>(1%)</code><br />
     </td>
   </tr>
