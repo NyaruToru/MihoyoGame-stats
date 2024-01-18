@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jan 18, 2024 22:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 19, 2024 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -116,22 +116,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>8</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>9</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventurer's Experience</b>
+      <b>3 x Fine Enhancement Ore</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-01-18 04:08:16+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-01-19 04:08:40+08:00</b></td>
   </tr>
 </table>
 
@@ -169,7 +169,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>937</b></td>
+    <td align="center"><b>938</b></td>
   </tr>
   <tr>
     <td>
@@ -652,7 +652,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2895</b> <code>(rate -29)</code></td>
+    <td align="center"><b>2960</b> <code>(rate -27)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -663,15 +663,15 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1783064</b> <code>(rate 8)</code></td>
+    <td align="center"><b>1817795</b> <code>(rate 11)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>1343</b> <code>(47%)</code><br />Daily Activity: <b>520</b>
-      <code>(18%)</code><br />Events: <b>460</b> <code>(16%)</code><br />Quests:
+      Adventure: <b>1348</b> <code>(46%)</code><br />Daily Activity: <b>580</b>
+      <code>(20%)</code><br />Events: <b>460</b> <code>(15%)</code><br />Quests:
       <b>150</b> <code>(5%)</code><br />Mail: <b>120</b> <code>(4%)</code
       ><br />Spiral Abyss: <b>0</b> <code>(0%)</code><br />Other: <b>302</b>
       <code>(10%)</code><br />
@@ -9320,22 +9320,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>8</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>9</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Lost Gold Fragment</b>
+      <b>5000 x Credit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-01-18 04:08:16+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-01-19 04:08:41+08:00</b></td>
   </tr>
 </table>
 
