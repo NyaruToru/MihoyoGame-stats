@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jan 19, 2024 17:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 19, 2024 22:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9378,7 +9378,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>4651</b> <code>(rate -58)</code></td>
+    <td align="center"><b>4831</b> <code>(rate -57)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9388,7 +9388,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>23</b> <code>(rate -45)</code></td>
+    <td align="center"><b>24</b> <code>(rate -42)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9399,10 +9399,10 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>2610</b> <code>(56%)</code><br />Simulated Universe:
-      <b>705</b> <code>(15%)</code><br />Adventure Rewards: <b>525</b>
+      Daily Activity: <b>2660</b> <code>(55%)</code><br />Simulated Universe:
+      <b>705</b> <code>(14%)</code><br />Adventure Rewards: <b>555</b>
       <code>(11%)</code><br />Forgotten Hall: <b>500</b> <code>(10%)</code
-      ><br />Event: <b>240</b> <code>(5%)</code><br />Other: <b>1</b>
+      ><br />Event: <b>340</b> <code>(7%)</code><br />Other: <b>1</b>
       <code>(2%)</code><br />Mail: <b>70</b> <code>(1%)</code><br />
     </td>
   </tr>
@@ -12950,6 +12950,91 @@
 <details>
   <summary align="center">
     <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+      height="18"
+    /><b> Hanya </b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+            height="20"
+          />
+          Hanya
+        </h3>
+      </th>
+      <th align="center">
+        <h3><img src="" height="20" /></h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/6faa8b81b922a093aa68b05f2e57cd5d.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center"><img src="" /></p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+                height="18"
+              />
+              physical
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+60</code></td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center"></td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+</code></td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center"><code></code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
       src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
       height="18"
     /><b> Xueyi </b>
@@ -13982,91 +14067,6 @@
           <tr>
             <td>Superimpose</td>
             <td align="center"><code>2</code></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary align="center">
-    <img
-      src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
-      height="18"
-    /><b> Hanya </b>
-  </summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th align="center">
-        <h3>
-          <img
-            src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
-            height="20"
-          />
-          Hanya
-        </h3>
-      </th>
-      <th align="center">
-        <h3><img src="" height="20" /></h3>
-      </th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/6faa8b81b922a093aa68b05f2e57cd5d.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center"><img src="" /></p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table align="center">
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
-                height="18"
-              />
-              physical
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+40</code></td>
-          </tr>
-          <tr>
-            <td>Eidolon</td>
-            <td align="center"><code>0</code></td>
-          </tr>
-          <tr>
-            <td>Relics</td>
-            <td align="center"></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table align="center">
-          <tr>
-            <td>Name</td>
-            <td align="center"></td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+</code></td>
-          </tr>
-          <tr>
-            <td>Superimpose</td>
-            <td align="center"><code></code></td>
           </tr>
         </table>
       </td>
