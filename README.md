@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jan 21, 2024 07:40 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 21, 2024 12:40 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -169,7 +169,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>940</b></td>
+    <td align="center"><b>941</b></td>
   </tr>
   <tr>
     <td>
@@ -9361,11 +9361,11 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>361</b></td>
+    <td><b>362</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>328</b></td>
+    <td><b>332</b></td>
   </tr>
 </table>
 
@@ -9378,7 +9378,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>8402</b> <code>(rate -25)</code></td>
+    <td align="center"><b>8797</b> <code>(rate -21)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9388,7 +9388,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>35</b> <code>(rate -16)</code></td>
+    <td align="center"><b>38</b> <code>(rate -9)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9399,11 +9399,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>2960</b> <code>(35%)</code><br />Adventure Rewards:
-      <b>2505</b> <code>(29%)</code><br />Simulated Universe: <b>1825</b>
-      <code>(21%)</code><br />Event: <b>540</b> <code>(6%)</code><br />Forgotten
-      Hall: <b>500</b> <code>(5%)</code><br />Other: <b>2</b> <code>(4%)</code
-      ><br />Mail: <b>70</b> <code>(0%)</code><br />
+      Daily Activity: <b>2960</b> <code>(33%)</code><br />Adventure Rewards:
+      <b>2540</b> <code>(28%)</code><br />Simulated Universe: <b>2065</b>
+      <code>(23%)</code><br />Forgotten Hall: <b>620</b> <code>(7%)</code
+      ><br />Event: <b>540</b> <code>(6%)</code><br />Other: <b>2</b>
+      <code>(3%)</code><br />Mail: <b>70</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -9425,15 +9425,63 @@
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td align="center"><b>Enigma in Deep Space (X)</b></td>
+    <td align="center"><b>Enigma in Deep Space (XI)</b></td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>22</b></td>
+    <td align="center"><b>25</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td align="center"><b>26</b></td>
+    <td align="center"><b>27</b></td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>Enigma in Deep Space (XI)</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>1 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>20</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center">
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/ff22a7ca44c32640a91d95db629ed0af.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/d98e2f17edb4e6c0dfde05284074e842.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1b8624ae84b5dd78407b96c872eac10.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/200bdf0196b9656939786f98fd07d102.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center">
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/03186aa337c91495e2e62eafe09b4e62.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/5f3b839ff3798047b4ff906443779f5e.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/ece90b5394b28a2a4fc5d1a3b8b7ea59.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/ae11af476302bf62364b45c5e52556db.png"
+        height="18"
+      />
+    </td>
   </tr>
   <tr>
     <td>Name</td>
@@ -11378,7 +11426,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+77</code></td>
+            <td align="center"><code>+79</code></td>
           </tr>
           <tr>
             <td>Eidolon</td>
@@ -11413,7 +11461,7 @@
                 ,
                 height="25"
               />
-              <code>+14</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Prisoner's Restrictive Fetters<br />
             </td>
@@ -11912,7 +11960,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>2</code></td>
           </tr>
           <tr>
             <td>Relics</td>
