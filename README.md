@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jan 21, 2024 03:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 21, 2024 07:40 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9353,11 +9353,11 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>252</b></td>
+    <td><b>253</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
-    <td><b>34</b></td>
+    <td><b>35</b></td>
   </tr>
   <tr>
     <td>Total Achievement</td>
@@ -9378,7 +9378,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>8147</b> <code>(rate -27)</code></td>
+    <td align="center"><b>8402</b> <code>(rate -25)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9388,7 +9388,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>32</b> <code>(rate -23)</code></td>
+    <td align="center"><b>35</b> <code>(rate -16)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9399,11 +9399,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>2810</b> <code>(34%)</code><br />Adventure Rewards:
-      <b>2500</b> <code>(30%)</code><br />Simulated Universe: <b>1825</b>
-      <code>(22%)</code><br />Forgotten Hall: <b>500</b> <code>(6%)</code
-      ><br />Event: <b>440</b> <code>(5%)</code><br />Other: <b>2</b>
-      <code>(3%)</code><br />Mail: <b>70</b> <code>(0%)</code><br />
+      Daily Activity: <b>2960</b> <code>(35%)</code><br />Adventure Rewards:
+      <b>2505</b> <code>(29%)</code><br />Simulated Universe: <b>1825</b>
+      <code>(21%)</code><br />Event: <b>540</b> <code>(6%)</code><br />Forgotten
+      Hall: <b>500</b> <code>(5%)</code><br />Other: <b>2</b> <code>(4%)</code
+      ><br />Mail: <b>70</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -11317,6 +11317,151 @@
 <details>
   <summary align="center">
     <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
+      height="18"
+    /><b> Kafka </b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
+            height="20"
+          />
+          Kafka
+        </h3>
+      </th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/06438b41601a1da464a9685759c854dc.png"
+            height="20"
+          />
+          In the Name of the World
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/ff22a7ca44c32640a91d95db629ed0af.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/06438b41601a1da464a9685759c854dc.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
+                height="18"
+              />
+              lightning
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+77</code></td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/3a9a2f902130856cb04c52fc39a1f25a.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Prisoner's Sealed Muzzle<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/73025255ba003e4790c58b94870a09a9.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Prisoner's Leadstone Shackles<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/bbca56116421552a1395ffe6f45543e1.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Prisoner's Repressive Straitjacket<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/7dd6f0b636cb8878fd2619eb6984f6ff.png"
+                ,
+                height="25"
+              />
+              <code>+14</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Prisoner's Restrictive Fetters<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Planar</td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/47686848493e67cb3d6b84db1d26e24d.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Glamoth's Iron Cavalry Regiment<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/4f7dee55e503c9d10e8fbe55ee710706.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Glamoth's Silent Tombstone<br />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">In the Name of the World</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+80</code></td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center"><code>1</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
       src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
       height="18"
     /><b> Trailblazer </b>
@@ -11402,13 +11547,13 @@
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Musketeer's Coarse Leather Gloves<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/5abc1539a9b7eead2ab7c1565a9f8f8e.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/35d96a0c14636658398c0394a99a0cdc.png"
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Musketeer's Wind-Hunting Shawl<br /><img
+              Eagle's Winged Suit Harness<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/74f7702e2fde31e64691b7d0ad12df03.png"
                 ,
                 height="25"
@@ -11939,13 +12084,13 @@
               <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               Musketeer's Wind-Hunting Shawl<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/74f7702e2fde31e64691b7d0ad12df03.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/2ea82b05c943ce7d61b2c5ef062a6c7a.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Musketeer's Rivets Riding Boots<br />
+              Eagle's Quilted Puttees<br />
             </td>
           </tr>
           <tr>
@@ -12357,50 +12502,50 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+14</code><br />
               ⭐⭐⭐⭐⭐<br />
               Eagle's Beaked Helmet<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/38a3f11a0f427ab7e29db14bb29d30c6.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+10</code><br />
               ⭐⭐⭐⭐⭐<br />
               Eagle's Soaring Ring<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/35d96a0c14636658398c0394a99a0cdc.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/5abc1539a9b7eead2ab7c1565a9f8f8e.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Eagle's Winged Suit Harness<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/2ea82b05c943ce7d61b2c5ef062a6c7a.png"
+              Musketeer's Wind-Hunting Shawl<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/74f7702e2fde31e64691b7d0ad12df03.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+12</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Eagle's Quilted Puttees<br />
+              Musketeer's Rivets Riding Boots<br />
             </td>
           </tr>
           <tr>
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/afe7cfa0c9c070b1d342e80e2fa8a9bc.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/47686848493e67cb3d6b84db1d26e24d.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+14</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Herta's Space Station<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/8f6eb9e9a1cabfbb17a7c64d710b2976.png"
+              Glamoth's Iron Cavalry Regiment<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/4f7dee55e503c9d10e8fbe55ee710706.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+7</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Herta's Wandering Trek<br />
+              Glamoth's Silent Tombstone<br />
             </td>
           </tr>
         </table>
@@ -12413,11 +12558,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+50</code></td>
+            <td align="center"><code>+70</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>4</code></td>
           </tr>
         </table>
       </td>
@@ -12496,57 +12641,7 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td align="center">
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/eeb19b1eaff71a42831c7229cb6c3851.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Band's Polarized Sunglasses<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/8418a3306de44fc5ea3f5768a1061c4a.png"
-                ,
-                height="25"
-              />
-              <code>+11</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Band's Touring Bracelet<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/4f3bb921e7bf640c950113d96269c96d.png"
-                ,
-                height="25"
-              />
-              <code>+4</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Band's Leather Jacket With Studs<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/b0ee095039e4c67b8b505162602e009b.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Band's Ankle Boots With Rivets<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Planar</td>
-            <td align="center">
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/afe7cfa0c9c070b1d342e80e2fa8a9bc.png"
-                ,
-                height="25"
-              />
-              <code>+7</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Herta's Space Station<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/8f6eb9e9a1cabfbb17a7c64d710b2976.png"
-                ,
-                height="25"
-              />
-              <code>+12</code><br />
-              ⭐⭐⭐⭐<br />
-              Herta's Wandering Trek<br />
-            </td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -13855,57 +13950,7 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td align="center">
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/9967f8bd5ef6c9a33788668f317dc32e.png"
-                ,
-                height="25"
-              />
-              <code>+14</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Eagle's Beaked Helmet<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/38a3f11a0f427ab7e29db14bb29d30c6.png"
-                ,
-                height="25"
-              />
-              <code>+10</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Eagle's Soaring Ring<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/35d96a0c14636658398c0394a99a0cdc.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Eagle's Winged Suit Harness<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/2ea82b05c943ce7d61b2c5ef062a6c7a.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐<br />
-              Eagle's Quilted Puttees<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Planar</td>
-            <td align="center">
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/afe7cfa0c9c070b1d342e80e2fa8a9bc.png"
-                ,
-                height="25"
-              />
-              <code>+6</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Herta's Space Station<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/8f6eb9e9a1cabfbb17a7c64d710b2976.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Herta's Wandering Trek<br />
-            </td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -14127,7 +14172,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+40</code></td>
+            <td align="center"><code>+50</code></td>
           </tr>
           <tr>
             <td>Eidolon</td>
