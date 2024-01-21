@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jan 21, 2024 22:06 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 22, 2024 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -116,22 +116,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>11</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>12</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+          src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
           ,
           height="80" /></a
       ><br />
-      <b>20 x Primogem</b>
+      <b>3 x Fried Radish Balls</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-01-21 04:07:46+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-01-22 04:08:09+08:00</b></td>
   </tr>
 </table>
 
@@ -652,7 +652,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>3380</b> <code>(rate -17)</code></td>
+    <td align="center"><b>3860</b> <code>(rate -5)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -663,18 +663,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1985427</b> <code>(rate 21)</code></td>
+    <td align="center"><b>2250363</b> <code>(rate 37)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>1348</b> <code>(40%)</code><br />Daily Activity: <b>700</b>
-      <code>(21%)</code><br />Events: <b>460</b> <code>(14%)</code><br />Mail:
-      <b>420</b> <code>(13%)</code><br />Quests: <b>150</b> <code>(4%)</code
-      ><br />Spiral Abyss: <b>0</b> <code>(0%)</code><br />Other: <b>302</b>
-      <code>(8%)</code><br />
+      Adventure: <b>1348</b> <code>(35%)</code><br />Events: <b>860</b>
+      <code>(23%)</code><br />Daily Activity: <b>760</b> <code>(20%)</code
+      ><br />Mail: <b>420</b> <code>(11%)</code><br />Quests: <b>150</b>
+      <code>(3%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      ><br />Other: <b>322</b> <code>(8%)</code><br />
     </td>
   </tr>
 </table>
@@ -3380,7 +3380,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+7</code></td>
+            <td align="center"><code>+8</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -9320,22 +9320,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>11</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>12</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Lost Gold Fragment</b>
+      <b>2 x Condensed Aether</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-01-21 04:07:48+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-01-22 04:08:09+08:00</b></td>
   </tr>
 </table>
 
@@ -9378,7 +9378,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>8797</b> <code>(rate -21)</code></td>
+    <td align="center"><b>8897</b> <code>(rate -20)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9400,567 +9400,10 @@
     </td>
     <td>
       Daily Activity: <b>2960</b> <code>(33%)</code><br />Adventure Rewards:
-      <b>2540</b> <code>(28%)</code><br />Simulated Universe: <b>2065</b>
-      <code>(23%)</code><br />Forgotten Hall: <b>620</b> <code>(7%)</code
-      ><br />Event: <b>540</b> <code>(6%)</code><br />Other: <b>2</b>
-      <code>(3%)</code><br />Mail: <b>70</b> <code>(0%)</code><br />
-    </td>
-  </tr>
-</table>
-<h2 align="center">
-  <img
-    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
-    height="20"
-  />
-  Memory of Chaos
-  <img
-    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
-    height="20"
-  />
-</h2>
-<table align="center">
-  <tr>
-    <td>Season</td>
-    <td align="center"><b>1009</b></td>
-  </tr>
-  <tr>
-    <td>Max Floor</td>
-    <td align="center"><b>Enigma in Deep Space (XI)</b></td>
-  </tr>
-  <tr>
-    <td>Total Battles</td>
-    <td align="center"><b>25</b></td>
-  </tr>
-  <tr>
-    <td>Total Stars</td>
-    <td align="center"><b>27</b></td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Enigma in Deep Space (XI)</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>1 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>20</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/ff22a7ca44c32640a91d95db629ed0af.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/d98e2f17edb4e6c0dfde05284074e842.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1b8624ae84b5dd78407b96c872eac10.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/200bdf0196b9656939786f98fd07d102.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/03186aa337c91495e2e62eafe09b4e62.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/5f3b839ff3798047b4ff906443779f5e.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/ece90b5394b28a2a4fc5d1a3b8b7ea59.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/ae11af476302bf62364b45c5e52556db.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Enigma in Deep Space (X)</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>0 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>25</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/e3d097f27fe5dc6f015bd63ce367ae4a.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/27fd2d40e98f24e4ce4403a1dc6c8f6e.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/200bdf0196b9656939786f98fd07d102.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/03186aa337c91495e2e62eafe09b4e62.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1b8624ae84b5dd78407b96c872eac10.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/5f3b839ff3798047b4ff906443779f5e.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/ece90b5394b28a2a4fc5d1a3b8b7ea59.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1f5917e92f00a1371250edc7317f066.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Enigma in Deep Space (IX)</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>2 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>12</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1b8624ae84b5dd78407b96c872eac10.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/5f3b839ff3798047b4ff906443779f5e.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/ece90b5394b28a2a4fc5d1a3b8b7ea59.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1f5917e92f00a1371250edc7317f066.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/e3d097f27fe5dc6f015bd63ce367ae4a.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/27fd2d40e98f24e4ce4403a1dc6c8f6e.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/200bdf0196b9656939786f98fd07d102.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/03186aa337c91495e2e62eafe09b4e62.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Enigma in Deep Space (VIII)</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>9</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1b8624ae84b5dd78407b96c872eac10.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/5f3b839ff3798047b4ff906443779f5e.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/ece90b5394b28a2a4fc5d1a3b8b7ea59.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1f5917e92f00a1371250edc7317f066.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/e3d097f27fe5dc6f015bd63ce367ae4a.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/27fd2d40e98f24e4ce4403a1dc6c8f6e.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/200bdf0196b9656939786f98fd07d102.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/03186aa337c91495e2e62eafe09b4e62.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Enigma in Deep Space (VII)</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>8</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1b8624ae84b5dd78407b96c872eac10.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/5f3b839ff3798047b4ff906443779f5e.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/ece90b5394b28a2a4fc5d1a3b8b7ea59.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1f5917e92f00a1371250edc7317f066.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/e3d097f27fe5dc6f015bd63ce367ae4a.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/27fd2d40e98f24e4ce4403a1dc6c8f6e.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/200bdf0196b9656939786f98fd07d102.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/03186aa337c91495e2e62eafe09b4e62.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Enigma in Deep Space (VI)</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>10</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1b8624ae84b5dd78407b96c872eac10.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/27fd2d40e98f24e4ce4403a1dc6c8f6e.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/ece90b5394b28a2a4fc5d1a3b8b7ea59.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1f5917e92f00a1371250edc7317f066.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/200bdf0196b9656939786f98fd07d102.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/e3d097f27fe5dc6f015bd63ce367ae4a.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/03186aa337c91495e2e62eafe09b4e62.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/05834c515f89e9732068188b83cf967a.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Enigma in Deep Space (V)</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>8</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/200bdf0196b9656939786f98fd07d102.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/e3d097f27fe5dc6f015bd63ce367ae4a.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/03186aa337c91495e2e62eafe09b4e62.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/05834c515f89e9732068188b83cf967a.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1b8624ae84b5dd78407b96c872eac10.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/27fd2d40e98f24e4ce4403a1dc6c8f6e.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/ece90b5394b28a2a4fc5d1a3b8b7ea59.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1f5917e92f00a1371250edc7317f066.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Enigma in Deep Space (IV)</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>8</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1b8624ae84b5dd78407b96c872eac10.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/27fd2d40e98f24e4ce4403a1dc6c8f6e.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/ece90b5394b28a2a4fc5d1a3b8b7ea59.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1f5917e92f00a1371250edc7317f066.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/200bdf0196b9656939786f98fd07d102.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/e3d097f27fe5dc6f015bd63ce367ae4a.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/03186aa337c91495e2e62eafe09b4e62.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/05834c515f89e9732068188b83cf967a.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Enigma in Deep Space (III)</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>5</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1b8624ae84b5dd78407b96c872eac10.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/27fd2d40e98f24e4ce4403a1dc6c8f6e.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/ece90b5394b28a2a4fc5d1a3b8b7ea59.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1f5917e92f00a1371250edc7317f066.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/200bdf0196b9656939786f98fd07d102.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/e3d097f27fe5dc6f015bd63ce367ae4a.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/03186aa337c91495e2e62eafe09b4e62.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/05834c515f89e9732068188b83cf967a.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Enigma in Deep Space (II)</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>6</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1b8624ae84b5dd78407b96c872eac10.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/27fd2d40e98f24e4ce4403a1dc6c8f6e.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/ece90b5394b28a2a4fc5d1a3b8b7ea59.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1f5917e92f00a1371250edc7317f066.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/200bdf0196b9656939786f98fd07d102.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/e3d097f27fe5dc6f015bd63ce367ae4a.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/03186aa337c91495e2e62eafe09b4e62.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/05834c515f89e9732068188b83cf967a.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Enigma in Deep Space (I)</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>4</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1b8624ae84b5dd78407b96c872eac10.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/27fd2d40e98f24e4ce4403a1dc6c8f6e.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/ece90b5394b28a2a4fc5d1a3b8b7ea59.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1f5917e92f00a1371250edc7317f066.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/200bdf0196b9656939786f98fd07d102.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/e3d097f27fe5dc6f015bd63ce367ae4a.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/03186aa337c91495e2e62eafe09b4e62.png"
-        height="18"
-      /><img
-        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/05834c515f89e9732068188b83cf967a.png"
-        height="18"
-      />
+      <b>2640</b> <code>(29%)</code><br />Simulated Universe: <b>2065</b>
+      <code>(23%)</code><br />Event: <b>540</b> <code>(6%)</code><br />Forgotten
+      Hall: <b>620</b> <code>(6%)</code><br />Other: <b>2</b> <code>(3%)</code
+      ><br />Mail: <b>70</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -10715,7 +10158,7 @@
                 ,
                 height="25"
               />
-              <code>+12</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Messenger's Holovisor<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/5626f8e7153c8dd734be49afae5e7654.png"
@@ -10752,13 +10195,13 @@
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Insumousu's Whalefall Ship<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/bf61f953d9375a8291d47b7191364318.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/268d91ea51f9b188b1825ef6562775c9.png"
                 ,
                 height="25"
               />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Insumousu's Frayed Hawser<br />
+              <code>+12</code><br />
+              ⭐⭐⭐⭐<br />
+              The Xianzhou Luofu's Ambrosial Arbor Vines<br />
             </td>
           </tr>
         </table>
@@ -12260,7 +11703,7 @@
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+12</code><br />
               ⭐⭐⭐⭐⭐<br />
               Messenger's Holovisor<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/a0264085ed0e735bc596b19d9177ab4e.png"
@@ -12297,13 +11740,13 @@
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               The Xianzhou Luofu's Celestial Ark<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/268d91ea51f9b188b1825ef6562775c9.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/bf61f953d9375a8291d47b7191364318.png"
                 ,
                 height="25"
               />
-              <code>+12</code><br />
-              ⭐⭐⭐⭐<br />
-              The Xianzhou Luofu's Ambrosial Arbor Vines<br />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Insumousu's Frayed Hawser<br />
             </td>
           </tr>
         </table>
