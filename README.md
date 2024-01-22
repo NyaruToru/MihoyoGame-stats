@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jan 22, 2024 22:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 23, 2024 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -116,22 +116,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>12</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>13</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Fried Radish Balls</b>
+      <b>2 x Adventurer's Experience</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-01-22 04:08:09+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-01-23 04:08:47+08:00</b></td>
   </tr>
 </table>
 
@@ -9320,22 +9320,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>12</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>13</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Condensed Aether</b>
+      <b>20 x Stellar Jade</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-01-22 04:08:09+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-01-23 04:08:47+08:00</b></td>
   </tr>
 </table>
 
@@ -9361,7 +9361,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>362</b></td>
+    <td><b>363</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -9378,7 +9378,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>9087</b> <code>(rate -19)</code></td>
+    <td align="center"><b>9692</b> <code>(rate -13)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9388,7 +9388,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>38</b> <code>(rate -9)</code></td>
+    <td align="center"><b>39</b> <code>(rate -7)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9399,11 +9399,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>3070</b> <code>(33%)</code><br />Adventure Rewards:
-      <b>2660</b> <code>(29%)</code><br />Simulated Universe: <b>2065</b>
-      <code>(22%)</code><br />Forgotten Hall: <b>680</b> <code>(7%)</code
+      Daily Activity: <b>3110</b> <code>(32%)</code><br />Adventure Rewards:
+      <b>2670</b> <code>(27%)</code><br />Simulated Universe: <b>2440</b>
+      <code>(25%)</code><br />Forgotten Hall: <b>860</b> <code>(8%)</code
       ><br />Event: <b>540</b> <code>(5%)</code><br />Other: <b>2</b>
-      <code>(4%)</code><br />Mail: <b>70</b> <code>(0%)</code><br />
+      <code>(3%)</code><br />Mail: <b>70</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -9425,15 +9425,159 @@
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td align="center"><b>Light of Reignition (I)</b></td>
+    <td align="center"><b>Light of Reignition (IV)</b></td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>1</b></td>
+    <td align="center"><b>4</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
+    <td align="center"><b>12</b></td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>Light of Reignition (IV)</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>3 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>7</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center">
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/bf890bf87a5e4a6581edc893971fbc59.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/200bdf0196b9656939786f98fd07d102.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1b8624ae84b5dd78407b96c872eac10.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/27fd2d40e98f24e4ce4403a1dc6c8f6e.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center">
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/ff22a7ca44c32640a91d95db629ed0af.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/03186aa337c91495e2e62eafe09b4e62.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/5f3b839ff3798047b4ff906443779f5e.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/d98e2f17edb4e6c0dfde05284074e842.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>Light of Reignition (III)</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>3 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>4</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center">
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/bf890bf87a5e4a6581edc893971fbc59.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/200bdf0196b9656939786f98fd07d102.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1b8624ae84b5dd78407b96c872eac10.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/27fd2d40e98f24e4ce4403a1dc6c8f6e.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center">
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/ff22a7ca44c32640a91d95db629ed0af.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/03186aa337c91495e2e62eafe09b4e62.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/5f3b839ff3798047b4ff906443779f5e.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/d98e2f17edb4e6c0dfde05284074e842.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>Light of Reignition (II)</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>3 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
     <td align="center"><b>3</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center">
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/ff22a7ca44c32640a91d95db629ed0af.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/03186aa337c91495e2e62eafe09b4e62.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/5f3b839ff3798047b4ff906443779f5e.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/d98e2f17edb4e6c0dfde05284074e842.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center">
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/bf890bf87a5e4a6581edc893971fbc59.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/200bdf0196b9656939786f98fd07d102.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1b8624ae84b5dd78407b96c872eac10.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/27fd2d40e98f24e4ce4403a1dc6c8f6e.png"
+        height="18"
+      />
+    </td>
   </tr>
   <tr>
     <td>Name</td>
@@ -9566,6 +9710,27 @@
             <td>Relics</td>
             <td align="center">
               <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/bee517d1c691f70fbc601b7e9d4d9e4f.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Wastelander's Breathing Mask<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/cbad8aa8cfdb79c3b0d554259a68d66e.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Wastelander's Desert Terminal<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/d2658d590494ec07a0db725c7085fa92.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Wastelander's Friar Robe<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/7245a96e53fa5e73015d6b817b52d384.png"
                 ,
                 height="25"
@@ -9783,10 +9948,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/4511df9e6e3bf983f8fc999e20429478.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/792032fbd1c4d73cd6e1b69db76d0228.png"
             height="20"
           />
-          Under the Blue Sky
+          A Secret Vow
         </h3>
       </th>
     </tr>
@@ -9801,7 +9966,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/4511df9e6e3bf983f8fc999e20429478.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/792032fbd1c4d73cd6e1b69db76d0228.png"
           />
         </p>
       </td>
@@ -9835,27 +10000,6 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/bee517d1c691f70fbc601b7e9d4d9e4f.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Wastelander's Breathing Mask<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/cbad8aa8cfdb79c3b0d554259a68d66e.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Wastelander's Desert Terminal<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/d2658d590494ec07a0db725c7085fa92.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Wastelander's Friar Robe<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/7245a96e53fa5e73015d6b817b52d384.png"
                 ,
                 height="25"
@@ -9875,14 +10019,7 @@
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Taikiyan Laser Stadium<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/3dedd2266876a3d76021c64ff5148759.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Taikiyan's Arclight Race Track<br />
+              Taikiyan Laser Stadium<br />
             </td>
           </tr>
         </table>
@@ -9891,7 +10028,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Under the Blue Sky</td>
+            <td align="center">A Secret Vow</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -9899,7 +10036,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>4</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -9928,10 +10065,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/792032fbd1c4d73cd6e1b69db76d0228.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/4511df9e6e3bf983f8fc999e20429478.png"
             height="20"
           />
-          A Secret Vow
+          Under the Blue Sky
         </h3>
       </th>
     </tr>
@@ -9946,7 +10083,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/792032fbd1c4d73cd6e1b69db76d0228.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/4511df9e6e3bf983f8fc999e20429478.png"
           />
         </p>
       </td>
@@ -10020,7 +10157,14 @@
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Taikiyan Laser Stadium<br />
+              Taikiyan Laser Stadium<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/3dedd2266876a3d76021c64ff5148759.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Taikiyan's Arclight Race Track<br />
             </td>
           </tr>
         </table>
@@ -10029,7 +10173,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">A Secret Vow</td>
+            <td align="center">Under the Blue Sky</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -10037,7 +10181,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>4</code></td>
           </tr>
         </table>
       </td>
@@ -12088,34 +12232,34 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/9967f8bd5ef6c9a33788668f317dc32e.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/3a9a2f902130856cb04c52fc39a1f25a.png"
                 ,
                 height="25"
               />
-              <code>+14</code><br />
+              <code>+9</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Eagle's Beaked Helmet<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/38a3f11a0f427ab7e29db14bb29d30c6.png"
+              Prisoner's Sealed Muzzle<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/73025255ba003e4790c58b94870a09a9.png"
                 ,
                 height="25"
               />
-              <code>+10</code><br />
+              <code>+11</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Eagle's Soaring Ring<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/5abc1539a9b7eead2ab7c1565a9f8f8e.png"
+              Prisoner's Leadstone Shackles<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/bbca56116421552a1395ffe6f45543e1.png"
+                ,
+                height="25"
+              />
+              <code>+9</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Prisoner's Repressive Straitjacket<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/7dd6f0b636cb8878fd2619eb6984f6ff.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Musketeer's Wind-Hunting Shawl<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/74f7702e2fde31e64691b7d0ad12df03.png"
-                ,
-                height="25"
-              />
-              <code>+12</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Musketeer's Rivets Riding Boots<br />
+              Prisoner's Restrictive Fetters<br />
             </td>
           </tr>
           <tr>
