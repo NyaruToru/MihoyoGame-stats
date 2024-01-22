@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jan 22, 2024 07:38 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 22, 2024 12:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9378,7 +9378,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>8897</b> <code>(rate -20)</code></td>
+    <td align="center"><b>9087</b> <code>(rate -19)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9399,11 +9399,88 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>2960</b> <code>(33%)</code><br />Adventure Rewards:
-      <b>2640</b> <code>(29%)</code><br />Simulated Universe: <b>2065</b>
-      <code>(23%)</code><br />Event: <b>540</b> <code>(6%)</code><br />Forgotten
-      Hall: <b>620</b> <code>(6%)</code><br />Other: <b>2</b> <code>(3%)</code
-      ><br />Mail: <b>70</b> <code>(0%)</code><br />
+      Daily Activity: <b>3070</b> <code>(33%)</code><br />Adventure Rewards:
+      <b>2660</b> <code>(29%)</code><br />Simulated Universe: <b>2065</b>
+      <code>(22%)</code><br />Forgotten Hall: <b>680</b> <code>(7%)</code
+      ><br />Event: <b>540</b> <code>(5%)</code><br />Other: <b>2</b>
+      <code>(4%)</code><br />Mail: <b>70</b> <code>(0%)</code><br />
+    </td>
+  </tr>
+</table>
+<h2 align="center">
+  <img
+    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
+    height="20"
+  />
+  Memory of Chaos
+  <img
+    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
+    height="20"
+  />
+</h2>
+<table align="center">
+  <tr>
+    <td>Season</td>
+    <td align="center"><b>1010</b></td>
+  </tr>
+  <tr>
+    <td>Max Floor</td>
+    <td align="center"><b>Light of Reignition (I)</b></td>
+  </tr>
+  <tr>
+    <td>Total Battles</td>
+    <td align="center"><b>1</b></td>
+  </tr>
+  <tr>
+    <td>Total Stars</td>
+    <td align="center"><b>3</b></td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>Light of Reignition (I)</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>3 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>2</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center">
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/bf890bf87a5e4a6581edc893971fbc59.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/200bdf0196b9656939786f98fd07d102.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1b8624ae84b5dd78407b96c872eac10.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/27fd2d40e98f24e4ce4403a1dc6c8f6e.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center">
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/ff22a7ca44c32640a91d95db629ed0af.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/03186aa337c91495e2e62eafe09b4e62.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/5f3b839ff3798047b4ff906443779f5e.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/d98e2f17edb4e6c0dfde05284074e842.png"
+        height="18"
+      />
     </td>
   </tr>
 </table>
