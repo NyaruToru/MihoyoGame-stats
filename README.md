@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jan 23, 2024 22:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 24, 2024 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -116,22 +116,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>13</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>14</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Adventurer's Experience</b>
+      <b>8000 x Mora</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-01-23 04:08:47+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-01-24 04:08:34+08:00</b></td>
   </tr>
 </table>
 
@@ -169,7 +169,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>941</b></td>
+    <td align="center"><b>942</b></td>
   </tr>
   <tr>
     <td>
@@ -9320,22 +9320,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>13</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>14</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      <b>20 x Stellar Jade</b>
+      <b>5000 x Credit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-01-23 04:08:47+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-01-24 04:08:35+08:00</b></td>
   </tr>
 </table>
 
@@ -9378,7 +9378,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>10072</b> <code>(rate -10)</code></td>
+    <td align="center"><b>10167</b> <code>(rate -9)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9399,11 +9399,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>3220</b> <code>(31%)</code><br />Adventure Rewards:
-      <b>2820</b> <code>(27%)</code><br />Simulated Universe: <b>2560</b>
+      Daily Activity: <b>3260</b> <code>(32%)</code><br />Adventure Rewards:
+      <b>2855</b> <code>(28%)</code><br />Simulated Universe: <b>2560</b>
       <code>(25%)</code><br />Forgotten Hall: <b>860</b> <code>(8%)</code
       ><br />Event: <b>540</b> <code>(5%)</code><br />Other: <b>2</b>
-      <code>(4%)</code><br />Mail: <b>70</b> <code>(0%)</code><br />
+      <code>(2%)</code><br />Mail: <b>90</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -9425,15 +9425,63 @@
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td align="center"><b>Light of Reignition (IV)</b></td>
+    <td align="center"><b>Light of Reignition (V)</b></td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>4</b></td>
+    <td align="center"><b>5</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td align="center"><b>12</b></td>
+    <td align="center"><b>15</b></td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>Light of Reignition (V)</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>3 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>5</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center">
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/ff22a7ca44c32640a91d95db629ed0af.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/03186aa337c91495e2e62eafe09b4e62.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/5f3b839ff3798047b4ff906443779f5e.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/d98e2f17edb4e6c0dfde05284074e842.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center">
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/bf890bf87a5e4a6581edc893971fbc59.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/200bdf0196b9656939786f98fd07d102.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1b8624ae84b5dd78407b96c872eac10.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/27fd2d40e98f24e4ce4403a1dc6c8f6e.png"
+        height="18"
+      />
+    </td>
   </tr>
   <tr>
     <td>Name</td>
