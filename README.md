@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jan 24, 2024 17:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 24, 2024 22:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9378,7 +9378,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>10257</b> <code>(rate -8)</code></td>
+    <td align="center"><b>10627</b> <code>(rate -5)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9399,11 +9399,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>3350</b> <code>(32%)</code><br />Adventure Rewards:
-      <b>2855</b> <code>(27%)</code><br />Simulated Universe: <b>2560</b>
-      <code>(24%)</code><br />Forgotten Hall: <b>860</b> <code>(8%)</code
+      Daily Activity: <b>3410</b> <code>(32%)</code><br />Adventure Rewards:
+      <b>2865</b> <code>(26%)</code><br />Simulated Universe: <b>2560</b>
+      <code>(24%)</code><br />Forgotten Hall: <b>1160</b> <code>(10%)</code
       ><br />Event: <b>540</b> <code>(5%)</code><br />Other: <b>2</b>
-      <code>(4%)</code><br />Mail: <b>90</b> <code>(0%)</code><br />
+      <code>(3%)</code><br />Mail: <b>90</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -9425,15 +9425,255 @@
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td align="center"><b>Light of Reignition (V)</b></td>
+    <td align="center"><b>Light of Reignition (X)</b></td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>5</b></td>
+    <td align="center"><b>15</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td align="center"><b>15</b></td>
+    <td align="center"><b>28</b></td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>Light of Reignition (X)</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>1 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>17</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center">
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/d98e2f17edb4e6c0dfde05284074e842.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/03186aa337c91495e2e62eafe09b4e62.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/5f3b839ff3798047b4ff906443779f5e.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/ff22a7ca44c32640a91d95db629ed0af.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center">
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/e0185da9377a38a89923b2761412527a.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/200bdf0196b9656939786f98fd07d102.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1b8624ae84b5dd78407b96c872eac10.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/27fd2d40e98f24e4ce4403a1dc6c8f6e.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>Light of Reignition (IX)</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>3 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>6</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center">
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/bf890bf87a5e4a6581edc893971fbc59.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/200bdf0196b9656939786f98fd07d102.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1b8624ae84b5dd78407b96c872eac10.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/27fd2d40e98f24e4ce4403a1dc6c8f6e.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center">
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/ece90b5394b28a2a4fc5d1a3b8b7ea59.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/03186aa337c91495e2e62eafe09b4e62.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/5f3b839ff3798047b4ff906443779f5e.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/ff22a7ca44c32640a91d95db629ed0af.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>Light of Reignition (VIII)</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>3 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>7</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center">
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/bf890bf87a5e4a6581edc893971fbc59.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/200bdf0196b9656939786f98fd07d102.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1b8624ae84b5dd78407b96c872eac10.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/27fd2d40e98f24e4ce4403a1dc6c8f6e.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center">
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/ff22a7ca44c32640a91d95db629ed0af.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/03186aa337c91495e2e62eafe09b4e62.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/5f3b839ff3798047b4ff906443779f5e.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/d98e2f17edb4e6c0dfde05284074e842.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>Light of Reignition (VII)</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>3 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>9</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center">
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/ff22a7ca44c32640a91d95db629ed0af.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/03186aa337c91495e2e62eafe09b4e62.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/5f3b839ff3798047b4ff906443779f5e.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/d98e2f17edb4e6c0dfde05284074e842.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center">
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/ece90b5394b28a2a4fc5d1a3b8b7ea59.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1f5917e92f00a1371250edc7317f066.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1b8624ae84b5dd78407b96c872eac10.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/27fd2d40e98f24e4ce4403a1dc6c8f6e.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>Light of Reignition (VI)</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>3 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>6</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center">
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/bf890bf87a5e4a6581edc893971fbc59.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/200bdf0196b9656939786f98fd07d102.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/f1b8624ae84b5dd78407b96c872eac10.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/27fd2d40e98f24e4ce4403a1dc6c8f6e.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center">
+      <img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/ff22a7ca44c32640a91d95db629ed0af.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/03186aa337c91495e2e62eafe09b4e62.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/5f3b839ff3798047b4ff906443779f5e.png"
+        height="18"
+      /><img
+        src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/d98e2f17edb4e6c0dfde05284074e842.png"
+        height="18"
+      />
+    </td>
   </tr>
   <tr>
     <td>Name</td>
@@ -9756,57 +9996,7 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td align="center">
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/bee517d1c691f70fbc601b7e9d4d9e4f.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Wastelander's Breathing Mask<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/cbad8aa8cfdb79c3b0d554259a68d66e.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Wastelander's Desert Terminal<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/d2658d590494ec07a0db725c7085fa92.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Wastelander's Friar Robe<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/7245a96e53fa5e73015d6b817b52d384.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Wastelander's Powered Greaves<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Planar</td>
-            <td align="center">
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/47686848493e67cb3d6b84db1d26e24d.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Glamoth's Iron Cavalry Regiment<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/4f7dee55e503c9d10e8fbe55ee710706.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Glamoth's Silent Tombstone<br />
-            </td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -10048,6 +10238,27 @@
             <td>Relics</td>
             <td align="center">
               <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/bee517d1c691f70fbc601b7e9d4d9e4f.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Wastelander's Breathing Mask<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/cbad8aa8cfdb79c3b0d554259a68d66e.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Wastelander's Desert Terminal<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/d2658d590494ec07a0db725c7085fa92.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Wastelander's Friar Robe<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/7245a96e53fa5e73015d6b817b52d384.png"
                 ,
                 height="25"
@@ -10067,7 +10278,14 @@
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Taikiyan Laser Stadium<br />
+              Taikiyan Laser Stadium<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/3dedd2266876a3d76021c64ff5148759.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Taikiyan's Arclight Race Track<br />
             </td>
           </tr>
         </table>
@@ -11370,7 +11588,7 @@
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               Taikiyan's Arclight Race Track<br />
             </td>
