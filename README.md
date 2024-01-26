@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jan 26, 2024 17:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 26, 2024 22:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9378,7 +9378,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>10882</b> <code>(rate -3)</code></td>
+    <td align="center"><b>11232</b> <code>(rate 0)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9399,11 +9399,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>3660</b> <code>(33%)</code><br />Adventure Rewards:
-      <b>2870</b> <code>(26%)</code><br />Simulated Universe: <b>2560</b>
-      <code>(23%)</code><br />Forgotten Hall: <b>1160</b> <code>(10%)</code
-      ><br />Event: <b>540</b> <code>(4%)</code><br />Other: <b>2</b>
-      <code>(4%)</code><br />Mail: <b>90</b> <code>(0%)</code><br />
+      Daily Activity: <b>3710</b> <code>(33%)</code><br />Adventure Rewards:
+      <b>2870</b> <code>(25%)</code><br />Simulated Universe: <b>2560</b>
+      <code>(22%)</code><br />Forgotten Hall: <b>1160</b> <code>(10%)</code
+      ><br />Event: <b>540</b> <code>(4%)</code><br />Mail: <b>390</b>
+      <code>(3%)</code><br />Other: <b>2</b> <code>(3%)</code><br />
     </td>
   </tr>
 </table>
@@ -10707,13 +10707,13 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/d4ff8a0312b35aaa1e5dcc340375af9d.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/2dc4db447b772f171b9b9a0683005455.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Insumousu's Whalefall Ship<br /><img
+              The Xianzhou Luofu's Celestial Ark<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/268d91ea51f9b188b1825ef6562775c9.png"
                 ,
                 height="25"
@@ -12242,13 +12242,13 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/2dc4db447b772f171b9b9a0683005455.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/d4ff8a0312b35aaa1e5dcc340375af9d.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              The Xianzhou Luofu's Celestial Ark<br /><img
+              Insumousu's Whalefall Ship<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/bf61f953d9375a8291d47b7191364318.png"
                 ,
                 height="25"
@@ -12502,14 +12502,14 @@
                 ,
                 height="25"
               />
-              <code>+9</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Prisoner's Sealed Muzzle<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/73025255ba003e4790c58b94870a09a9.png"
                 ,
                 height="25"
               />
-              <code>+11</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Prisoner's Leadstone Shackles<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/bbca56116421552a1395ffe6f45543e1.png"
@@ -12543,7 +12543,7 @@
                 ,
                 height="25"
               />
-              <code>+7</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Glamoth's Silent Tombstone<br />
             </td>
