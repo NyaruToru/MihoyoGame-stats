@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jan 27, 2024 07:34 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 27, 2024 12:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9361,7 +9361,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>364</b></td>
+    <td><b>365</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -9378,7 +9378,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>11397</b> <code>(rate 1)</code></td>
+    <td align="center"><b>11487</b> <code>(rate 2)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9399,8 +9399,8 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>3810</b> <code>(33%)</code><br />Adventure Rewards:
-      <b>2875</b> <code>(25%)</code><br />Simulated Universe: <b>2560</b>
+      Daily Activity: <b>3860</b> <code>(33%)</code><br />Adventure Rewards:
+      <b>2915</b> <code>(25%)</code><br />Simulated Universe: <b>2560</b>
       <code>(22%)</code><br />Forgotten Hall: <b>1160</b> <code>(10%)</code
       ><br />Event: <b>540</b> <code>(4%)</code><br />Mail: <b>450</b>
       <code>(3%)</code><br />Other: <b>2</b> <code>(3%)</code><br />
@@ -11932,20 +11932,20 @@
               <code>+12</code><br />
               ⭐⭐⭐⭐⭐<br />
               Firesmith's Ring of Flame-Mastery<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/5abc1539a9b7eead2ab7c1565a9f8f8e.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/39bbc8e97b6fc4309d9038b98c90c781.png"
                 ,
                 height="25"
               />
-              <code>+11</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Musketeer's Wind-Hunting Shawl<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/74f7702e2fde31e64691b7d0ad12df03.png"
+              Firesmith's Fireproof Apron<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/82422502b4470ae64f5216e219593fdc.png"
                 ,
                 height="25"
               />
-              <code>+11</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Musketeer's Rivets Riding Boots<br />
+              Firesmith's Alloy Leg<br />
             </td>
           </tr>
           <tr>
