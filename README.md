@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jan 30, 2024 22:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 31, 2024 03:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -116,14 +116,14 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>20</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>21</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2023/08/02/01ba12730bd86c8858c1e2d86c7d150d_5226749879789315268.png"
           ,
           height="80" /></a
       ><br />
@@ -131,7 +131,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-01-30 04:07:53+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-01-31 04:07:31+08:00</b></td>
   </tr>
 </table>
 
@@ -9320,22 +9320,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>20</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>21</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      <b>20 x Stellar Jade</b>
+      <b>3 x Adventure Log</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-01-30 04:07:54+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-01-31 04:07:31+08:00</b></td>
   </tr>
 </table>
 
