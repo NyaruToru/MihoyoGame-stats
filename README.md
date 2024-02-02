@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Feb 02, 2024 03:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 02, 2024 07:34 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -169,7 +169,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>944</b></td>
+    <td align="center"><b>945</b></td>
   </tr>
   <tr>
     <td>
@@ -180,13 +180,13 @@
       />
       Characters
     </td>
-    <td align="center"><b>58</b></td>
+    <td align="center"><b>60</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>368</b></td>
+    <td align="center"><b>369</b></td>
   </tr>
   <tr>
     <td>
@@ -283,7 +283,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>-</b></td>
+    <td align="center"><b>8-3</b></td>
   </tr>
 </table>
 
@@ -302,6 +302,13 @@
 </h2>
 <table align="center">
   <tr>
+    <th>
+      <img
+        src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterIcon_ChenYuVale.png"
+        width="20"
+      />
+      Chenyu Vale: Upper Vale
+    </th>
     <th>
       <img
         src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterIcon_Fengdan.png"
@@ -365,8 +372,23 @@
       />
       Mondstadt
     </th>
+    <th>
+      <img
+        src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterIcon_ChenYuVale.png"
+        width="20"
+      />
+      Chenyu Vale
+    </th>
   </tr>
   <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterInnerIcon_ChenYuVale.png"
+          width="250"
+        />
+      </p>
+    </td>
     <td>
       <p align="center">
         <img
@@ -439,8 +461,30 @@
         />
       </p>
     </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterInnerIcon_ChenYuVale.png"
+          width="250"
+        />
+      </p>
+    </td>
   </tr>
   <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Explored</td>
+          <td>
+            <img src="https://progress-bar.dev/1/" width="80" />
+          </td>
+        </tr>
+        <tr>
+          <td>TypeUnknow</td>
+          <td align="center">0</td>
+        </tr>
+      </table>
+    </td>
     <td>
       <table>
         <tr>
@@ -564,6 +608,20 @@
         <tr>
           <td>Reputation</td>
           <td align="center">8</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Explored</td>
+          <td>
+            <img src="https://progress-bar.dev/0/" width="80" />
+          </td>
+        </tr>
+        <tr>
+          <td>Offering</td>
+          <td align="center">0</td>
         </tr>
       </table>
     </td>
@@ -9599,7 +9657,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>264</b></td>
+    <td><b>265</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
