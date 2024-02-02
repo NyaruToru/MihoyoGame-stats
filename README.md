@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Feb 02, 2024 07:34 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 02, 2024 12:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -169,7 +169,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>945</b></td>
+    <td align="center"><b>946</b></td>
   </tr>
   <tr>
     <td>
@@ -721,7 +721,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>22619</b> <code>(rate -99)</code></td>
+    <td align="center"><b>32619</b> <code>(rate -98)</code></td>
   </tr>
   <tr>
     <td align="center">
