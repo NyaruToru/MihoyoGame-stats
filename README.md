@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Feb 06, 2024 17:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 06, 2024 22:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9588,7 +9588,7 @@
 <p align="center">
   <a href=""
     ><img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=BiZuShinn's+Honkai:+Star+Rail+Stats"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Beautiful.'s+Honkai:+Star+Rail+Stats"
       alt="Typing SVG"
   /></a>
 </p>
@@ -9608,8 +9608,8 @@
       <img src="./images/logo/hsr-logo.png" , width="80" , alt="Goddess" />
     </th>
     <td colspan="2" align="center">
-      <img src="./images/logo/hsr-level.webp" , height="18" /> <b>BiZuShinn</b>
-      <code>Lv. 70</code>
+      <img src="./images/logo/hsr-level.webp" , height="18" />
+      <b>Beautiful.</b> <code>Lv. 70</code>
     </td>
   </tr>
   <tr>
@@ -9665,11 +9665,11 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>370</b></td>
+    <td><b>375</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>336</b></td>
+    <td><b>345</b></td>
   </tr>
 </table>
 
@@ -9682,7 +9682,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>775</b> <code>(rate -93)</code></td>
+    <td align="center"><b>2298</b> <code>(rate -80)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9692,7 +9692,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>11</b> <code>(rate -72)</code></td>
+    <td align="center"><b>24</b> <code>(rate -40)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9703,11 +9703,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>300</b> <code>(38%)</code><br />Simulated Universe:
-      <b>255</b> <code>(32%)</code><br />Forgotten Hall: <b>180</b>
-      <code>(23%)</code><br />Other: <b>0</b> <code>(3%)</code><br />Adventure
-      Rewards: <b>20</b> <code>(2%)</code><br />Mail: <b>20</b> <code>(2%)</code
-      ><br />Event: <b>0</b> <code>(0%)</code><br />
+      Mail: <b>1030</b> <code>(44%)</code><br />Adventure Rewards: <b>375</b>
+      <code>(16%)</code><br />Daily Activity: <b>320</b> <code>(13%)</code
+      ><br />Simulated Universe: <b>255</b> <code>(11%)</code><br />Forgotten
+      Hall: <b>180</b> <code>(7%)</code><br />Event: <b>130</b> <code>(5%)</code
+      ><br />Other: <b>8</b> <code>(4%)</code><br />
     </td>
   </tr>
 </table>
@@ -10590,7 +10590,57 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td align="center"></td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/79a18a5da1371361cdb9163f3f46c7c3.png"
+                ,
+                height="25"
+              />
+              <code>+10</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Musketeer's Wild Wheat Felt Hat<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/9f877b8b3a3fcae668c5340ab849c6b9.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Musketeer's Coarse Leather Gloves<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/fe3934c9997d21233df9790df3d994aa.png"
+                ,
+                height="25"
+              />
+              <code>+11</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Musketeer's Wind-Hunting Shawl<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/20abaf326e0f0db1f5de9c9123e610ed.png"
+                ,
+                height="25"
+              />
+              <code>+12</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Musketeer's Rivets Riding Boots<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Planar</td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/1be177a3781fafcb1292aece840d5267.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Taikiyan Laser Stadium<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/708ead4cfa77692ce92946ad82cd9e63.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Taikiyan's Arclight Race Track<br />
+            </td>
           </tr>
         </table>
       </td>
@@ -14510,6 +14560,91 @@
 <details>
   <summary align="center">
     <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+      height="18"
+    /><b> Misha </b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+            height="20"
+          />
+          Misha
+        </h3>
+      </th>
+      <th align="center">
+        <h3><img src="" height="20" /></h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/ced6cfb8992c869cb5bd8f1304e774e2.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center"><img src="" /></p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                height="18"
+              />
+              ice
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+40</code></td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center"><code>1</code></td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center"></td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+</code></td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center"><code></code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
       src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
       height="18"
     /><b> Arlan </b>
@@ -14566,91 +14701,6 @@
           <tr>
             <td>Eidolon</td>
             <td align="center"><code>6</code></td>
-          </tr>
-          <tr>
-            <td>Relics</td>
-            <td align="center"></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table align="center">
-          <tr>
-            <td>Name</td>
-            <td align="center"></td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+</code></td>
-          </tr>
-          <tr>
-            <td>Superimpose</td>
-            <td align="center"><code></code></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary align="center">
-    <img
-      src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
-      height="18"
-    /><b> Misha </b>
-  </summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th align="center">
-        <h3>
-          <img
-            src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
-            height="20"
-          />
-          Misha
-        </h3>
-      </th>
-      <th align="center">
-        <h3><img src="" height="20" /></h3>
-      </th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/ced6cfb8992c869cb5bd8f1304e774e2.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center"><img src="" /></p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table align="center">
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
-                height="18"
-              />
-              ice
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+20</code></td>
-          </tr>
-          <tr>
-            <td>Eidolon</td>
-            <td align="center"><code>1</code></td>
           </tr>
           <tr>
             <td>Relics</td>
