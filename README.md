@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Feb 06, 2024 12:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 06, 2024 17:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9657,19 +9657,19 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>268</b></td>
+    <td><b>269</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
-    <td><b>35</b></td>
+    <td><b>36</b></td>
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>367</b></td>
+    <td><b>370</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>334</b></td>
+    <td><b>336</b></td>
   </tr>
 </table>
 
@@ -14566,6 +14566,91 @@
           <tr>
             <td>Eidolon</td>
             <td align="center"><code>6</code></td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center"></td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+</code></td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center"><code></code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+      height="18"
+    /><b> Misha </b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+            height="20"
+          />
+          Misha
+        </h3>
+      </th>
+      <th align="center">
+        <h3><img src="" height="20" /></h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/ced6cfb8992c869cb5bd8f1304e774e2.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center"><img src="" /></p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                height="18"
+              />
+              ice
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+20</code></td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center"><code>1</code></td>
           </tr>
           <tr>
             <td>Relics</td>
