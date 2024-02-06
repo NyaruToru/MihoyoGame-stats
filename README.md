@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Feb 06, 2024 03:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 06, 2024 07:34 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9729,7 +9729,7 @@
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td align="center"><b>Light of Reignition (X)</b></td>
+    <td align="center"><b>Light of Reignition Stage 10</b></td>
   </tr>
   <tr>
     <td>Total Battles</td>
@@ -9741,7 +9741,7 @@
   </tr>
   <tr>
     <td>Name</td>
-    <td align="center"><b>Light of Reignition (X)</b></td>
+    <td align="center"><b>Light of Reignition Stage 10</b></td>
   </tr>
   <tr>
     <td>Floor</td>
@@ -9789,7 +9789,7 @@
   </tr>
   <tr>
     <td>Name</td>
-    <td align="center"><b>Light of Reignition (IX)</b></td>
+    <td align="center"><b>Light of Reignition Stage 9</b></td>
   </tr>
   <tr>
     <td>Floor</td>
@@ -9837,7 +9837,7 @@
   </tr>
   <tr>
     <td>Name</td>
-    <td align="center"><b>Light of Reignition (VIII)</b></td>
+    <td align="center"><b>Light of Reignition Stage 8</b></td>
   </tr>
   <tr>
     <td>Floor</td>
@@ -9885,7 +9885,7 @@
   </tr>
   <tr>
     <td>Name</td>
-    <td align="center"><b>Light of Reignition (VII)</b></td>
+    <td align="center"><b>Light of Reignition Stage 7</b></td>
   </tr>
   <tr>
     <td>Floor</td>
@@ -9933,7 +9933,7 @@
   </tr>
   <tr>
     <td>Name</td>
-    <td align="center"><b>Light of Reignition (VI)</b></td>
+    <td align="center"><b>Light of Reignition Stage 6</b></td>
   </tr>
   <tr>
     <td>Floor</td>
@@ -9981,7 +9981,7 @@
   </tr>
   <tr>
     <td>Name</td>
-    <td align="center"><b>Light of Reignition (V)</b></td>
+    <td align="center"><b>Light of Reignition Stage 5</b></td>
   </tr>
   <tr>
     <td>Floor</td>
@@ -10029,7 +10029,7 @@
   </tr>
   <tr>
     <td>Name</td>
-    <td align="center"><b>Light of Reignition (IV)</b></td>
+    <td align="center"><b>Light of Reignition Stage 4</b></td>
   </tr>
   <tr>
     <td>Floor</td>
@@ -10077,7 +10077,7 @@
   </tr>
   <tr>
     <td>Name</td>
-    <td align="center"><b>Light of Reignition (III)</b></td>
+    <td align="center"><b>Light of Reignition Stage 3</b></td>
   </tr>
   <tr>
     <td>Floor</td>
@@ -10125,7 +10125,7 @@
   </tr>
   <tr>
     <td>Name</td>
-    <td align="center"><b>Light of Reignition (II)</b></td>
+    <td align="center"><b>Light of Reignition Stage 2</b></td>
   </tr>
   <tr>
     <td>Floor</td>
@@ -10173,7 +10173,7 @@
   </tr>
   <tr>
     <td>Name</td>
-    <td align="center"><b>Light of Reignition (I)</b></td>
+    <td align="center"><b>Light of Reignition Stage 1</b></td>
   </tr>
   <tr>
     <td>Floor</td>
