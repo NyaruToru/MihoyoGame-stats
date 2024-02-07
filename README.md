@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Feb 07, 2024 17:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 07, 2024 22:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9665,11 +9665,11 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>375</b></td>
+    <td><b>386</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>347</b></td>
+    <td><b>403</b></td>
   </tr>
 </table>
 
@@ -9682,7 +9682,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>2696</b> <code>(rate -77)</code></td>
+    <td align="center"><b>4456</b> <code>(rate -62)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9703,11 +9703,11 @@
       Categories
     </td>
     <td>
-      Mail: <b>1170</b> <code>(43%)</code><br />Adventure Rewards: <b>570</b>
-      <code>(21%)</code><br />Daily Activity: <b>350</b> <code>(12%)</code
-      ><br />Simulated Universe: <b>255</b> <code>(9%)</code><br />Forgotten
-      Hall: <b>180</b> <code>(6%)</code><br />Event: <b>160</b> <code>(5%)</code
-      ><br />Other: <b>11</b> <code>(4%)</code><br />
+      Adventure Rewards: <b>1445</b> <code>(32%)</code><br />Mail: <b>1300</b>
+      <code>(29%)</code><br />Forgotten Hall: <b>540</b> <code>(12%)</code
+      ><br />Daily Activity: <b>465</b> <code>(10%)</code><br />Event:
+      <b>430</b> <code>(9%)</code><br />Simulated Universe: <b>255</b>
+      <code>(5%)</code><br />Other: <b>21</b> <code>(3%)</code><br />
     </td>
   </tr>
 </table>
@@ -10538,13 +10538,7 @@
         </h3>
       </th>
       <th align="center">
-        <h3>
-          <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/688bef24f8ceb782e49af32d849862be.png"
-            height="20"
-          />
-          A Secret Vow
-        </h3>
+        <h3><img src="" height="20" /></h3>
       </th>
     </tr>
     <tr>
@@ -10556,11 +10550,7 @@
         </p>
       </td>
       <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/688bef24f8ceb782e49af32d849862be.png"
-          />
-        </p>
+        <p align="center"><img src="" /></p>
       </td>
     </tr>
     <tr>
@@ -10648,15 +10638,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">A Secret Vow</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code></code></td>
           </tr>
         </table>
       </td>
@@ -10942,7 +10932,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+70</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
@@ -12083,7 +12073,13 @@
         </h3>
       </th>
       <th align="center">
-        <h3><img src="" height="20" /></h3>
+        <h3>
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/688bef24f8ceb782e49af32d849862be.png"
+            height="20"
+          />
+          A Secret Vow
+        </h3>
       </th>
     </tr>
     <tr>
@@ -12095,7 +12091,11 @@
         </p>
       </td>
       <td>
-        <p align="center"><img src="" /></p>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/688bef24f8ceb782e49af32d849862be.png"
+          />
+        </p>
       </td>
     </tr>
     <tr>
@@ -12131,7 +12131,7 @@
                 ,
                 height="25"
               />
-              <code>+14</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Champion's Headgear<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/945ae92f4c6a271641f297e3237b5743.png"
@@ -12183,15 +12183,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center"></td>
+            <td align="center">A Secret Vow</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+</code></td>
+            <td align="center"><code>+70</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code></code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -12290,14 +12290,14 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+7</code><br />
               ⭐⭐⭐⭐⭐<br />
               Firesmith's Fireproof Apron<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/158f8d686d152cfb4b1986d4ecbb560f.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+9</code><br />
               ⭐⭐⭐⭐⭐<br />
               Firesmith's Alloy Leg<br />
             </td>
@@ -14530,7 +14530,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>0</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
           <tr>
             <td>Relics</td>
