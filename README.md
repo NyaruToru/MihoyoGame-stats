@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Feb 08, 2024 17:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 08, 2024 22:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9682,7 +9682,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>6193</b> <code>(rate -47)</code></td>
+    <td align="center"><b>7095</b> <code>(rate -39)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9703,11 +9703,11 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: <b>2775</b> <code>(44%)</code><br />Mail: <b>1320</b>
-      <code>(21%)</code><br />Daily Activity: <b>630</b> <code>(10%)</code
-      ><br />Event: <b>540</b> <code>(8%)</code><br />Forgotten Hall:
-      <b>540</b> <code>(8%)</code><br />Simulated Universe: <b>365</b>
-      <code>(5%)</code><br />Other: <b>23</b> <code>(4%)</code><br />
+      Adventure Rewards: <b>2965</b> <code>(41%)</code><br />Mail: <b>1320</b>
+      <code>(18%)</code><br />Event: <b>1250</b> <code>(17%)</code><br />Daily
+      Activity: <b>630</b> <code>(8%)</code><br />Forgotten Hall: <b>540</b>
+      <code>(7%)</code><br />Simulated Universe: <b>365</b> <code>(5%)</code
+      ><br />Other: <b>25</b> <code>(4%)</code><br />
     </td>
   </tr>
 </table>
@@ -9733,7 +9733,7 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>16</b></td>
+    <td align="center"><b>19</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
@@ -10675,10 +10675,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/c018df89438c82541bfca35a02f8e63d.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/688bef24f8ceb782e49af32d849862be.png"
             height="20"
           />
-          Under the Blue Sky
+          A Secret Vow
         </h3>
       </th>
     </tr>
@@ -10693,7 +10693,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/c018df89438c82541bfca35a02f8e63d.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/688bef24f8ceb782e49af32d849862be.png"
           />
         </p>
       </td>
@@ -10783,7 +10783,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Under the Blue Sky</td>
+            <td align="center">A Secret Vow</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -10791,7 +10791,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>4</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -10932,7 +10932,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+70</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
@@ -12075,10 +12075,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/688bef24f8ceb782e49af32d849862be.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/c018df89438c82541bfca35a02f8e63d.png"
             height="20"
           />
-          A Secret Vow
+          Under the Blue Sky
         </h3>
       </th>
     </tr>
@@ -12093,7 +12093,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/688bef24f8ceb782e49af32d849862be.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/c018df89438c82541bfca35a02f8e63d.png"
           />
         </p>
       </td>
@@ -12183,15 +12183,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">A Secret Vow</td>
+            <td align="center">Under the Blue Sky</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+70</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>4</code></td>
           </tr>
         </table>
       </td>
@@ -12846,7 +12846,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>2</code></td>
           </tr>
           <tr>
             <td>Relics</td>
@@ -13624,7 +13624,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>2</code></td>
           </tr>
           <tr>
             <td>Relics</td>
