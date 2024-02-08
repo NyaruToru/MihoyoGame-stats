@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Feb 08, 2024 07:33 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 08, 2024 12:09 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9665,11 +9665,11 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>390</b></td>
+    <td><b>395</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>424</b></td>
+    <td><b>432</b></td>
   </tr>
 </table>
 
@@ -9682,7 +9682,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>5923</b> <code>(rate -49)</code></td>
+    <td align="center"><b>6193</b> <code>(rate -47)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9703,11 +9703,11 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: <b>2555</b> <code>(43%)</code><br />Mail: <b>1320</b>
-      <code>(22%)</code><br />Daily Activity: <b>580</b> <code>(9%)</code
-      ><br />Event: <b>540</b> <code>(9%)</code><br />Forgotten Hall:
-      <b>540</b> <code>(9%)</code><br />Simulated Universe: <b>365</b>
-      <code>(6%)</code><br />Other: <b>23</b> <code>(2%)</code><br />
+      Adventure Rewards: <b>2775</b> <code>(44%)</code><br />Mail: <b>1320</b>
+      <code>(21%)</code><br />Daily Activity: <b>630</b> <code>(10%)</code
+      ><br />Event: <b>540</b> <code>(8%)</code><br />Forgotten Hall:
+      <b>540</b> <code>(8%)</code><br />Simulated Universe: <b>365</b>
+      <code>(5%)</code><br />Other: <b>23</b> <code>(4%)</code><br />
     </td>
   </tr>
 </table>
@@ -9733,7 +9733,7 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>15</b></td>
+    <td align="center"><b>16</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
@@ -12870,7 +12870,7 @@
                 ,
                 height="25"
               />
-              <code>+9</code><br />
+              <code>+12</code><br />
               ⭐⭐⭐⭐⭐<br />
               Prisoner's Repressive Straitjacket<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/e6163b877c5b0f917af769724fa4da23.png"
