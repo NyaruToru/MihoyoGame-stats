@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Feb 10, 2024 22:06 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 11, 2024 03:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -116,22 +116,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>10</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>11</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Mora</b>
+      <b>20 x Primogem</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-02-10 04:08:26+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-02-11 04:07:13+08:00</b></td>
   </tr>
 </table>
 
@@ -236,7 +236,7 @@
       />
       Hydroculus
     </td>
-    <td align="center"><b>34</b></td>
+    <td align="center"><b>35</b></td>
   </tr>
   <tr>
     <td>
@@ -250,7 +250,7 @@
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>1387</b></td>
+    <td align="center"><b>1388</b></td>
   </tr>
   <tr>
     <td>
@@ -718,19 +718,20 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="./images/logo/floor.webp" , height="18" /> Max Floor: <b>9-3</b>
+      <img src="./images/logo/floor.webp" , height="18" /> Max Floor:
+      <b>11-3</b>
     </td>
     <td align="center">
       <img src="./images/logo/battle.webp" , height="18" /> Total Battles:
-      <b>3</b>
+      <b>10</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>3</b>
+      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>9</b>
     </td>
     <td align="center">
-      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>9</b>
+      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>27</b>
     </td>
   </tr>
   <tr>
@@ -745,27 +746,84 @@
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
+        ,
+        height="18"
+      />
+      <b>Kaedehara Kazuha</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
+        ,
+        height="18"
+      />
+      <b>Nahida</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Baizhuer_Card.png"
+        ,
+        height="18"
+      />
+      <b>Baizhu</b> <code>(9)</code><br />
+    </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Hutao_Card.png"
+        ,
+        height="18"
+      />
+      <b>Hu Tao</b> <code>(26)</code><br />
+    </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Hutao_Card.png"
+        ,
+        height="18"
+      />
+      <b>Hu Tao</b> <code>(181479)</code><br />
+    </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
+        ,
+        height="18"
+      />
+      <b>Raiden Shogun</b> <code>(29347)</code><br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
+        ,
+        height="18"
+      />
+      <b>Nahida</b> <code>(19)</code><br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yae_Card.png"
+        ,
+        height="18"
+      />
+      <b>Yae Miko</b> <code>(66)</code><br />
+    </td>
   </tr>
 </table>
 <h2 align="center">
@@ -782,7 +840,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1205</b> <code>(rate -69)</code></td>
+    <td align="center"><b>2250</b> <code>(rate -42)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -793,18 +851,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>347482</b> <code>(rate -84)</code></td>
+    <td align="center"><b>1084447</b> <code>(rate -52)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>900</b> <code>(75%)</code><br />Spiral Abyss: <b>150</b>
-      <code>(12%)</code><br />Daily Activity: <b>110</b> <code>(9%)</code
-      ><br />Events: <b>40</b> <code>(3%)</code><br />Adventure: <b>5</b>
+      Mail: <b>900</b> <code>(41%)</code><br />Spiral Abyss: <b>450</b>
+      <code>(20%)</code><br />Daily Activity: <b>170</b> <code>(7%)</code
+      ><br />Events: <b>40</b> <code>(1%)</code><br />Adventure: <b>10</b>
       <code>(1%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
-      <b>0</b> <code>(0%)</code><br />
+      <b>680</b> <code>(30%)</code><br />
     </td>
   </tr>
 </table>
@@ -849,11 +907,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/b5e9197fb102aef16e76446d7ad81987.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/e2e7e721046dd0187c872bac7e933d7b.png"
             ,
             height="20"
           />
-          Amenoma Kageuchi
+          Primordial Jade Cutter
         </h3>
       </th>
     </tr>
@@ -870,7 +928,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/b5e9197fb102aef16e76446d7ad81987.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/e2e7e721046dd0187c872bac7e933d7b.png"
             ,
             height="256"
           />
@@ -961,7 +1019,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Amenoma Kageuchi</td>
+            <td align="center">Primordial Jade Cutter</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -969,7 +1027,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2485,11 +2543,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/14d228da0e656ca99afd14f07abdbfc5.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/040554035576ff63f58be7239692000c.png"
             ,
             height="20"
           />
-          Favonius Sword
+          Key of Khaj-Nisut
         </h3>
       </th>
     </tr>
@@ -2506,7 +2564,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/14d228da0e656ca99afd14f07abdbfc5.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/040554035576ff63f58be7239692000c.png"
             ,
             height="256"
           />
@@ -2597,7 +2655,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Favonius Sword</td>
+            <td align="center">Key of Khaj-Nisut</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -2605,7 +2663,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2617,7 +2675,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -2973,11 +3031,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/e2e7e721046dd0187c872bac7e933d7b.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/b5e9197fb102aef16e76446d7ad81987.png"
             ,
             height="20"
           />
-          Primordial Jade Cutter
+          Amenoma Kageuchi
         </h3>
       </th>
     </tr>
@@ -2994,7 +3052,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/e2e7e721046dd0187c872bac7e933d7b.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/b5e9197fb102aef16e76446d7ad81987.png"
             ,
             height="256"
           />
@@ -3085,7 +3143,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Primordial Jade Cutter</td>
+            <td align="center">Amenoma Kageuchi</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -3093,7 +3151,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -4242,11 +4300,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/040554035576ff63f58be7239692000c.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/14d228da0e656ca99afd14f07abdbfc5.png"
             ,
             height="20"
           />
-          Key of Khaj-Nisut
+          Favonius Sword
         </h3>
       </th>
     </tr>
@@ -4263,7 +4321,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/040554035576ff63f58be7239692000c.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/14d228da0e656ca99afd14f07abdbfc5.png"
             ,
             height="256"
           />
@@ -4354,7 +4412,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Key of Khaj-Nisut</td>
+            <td align="center">Favonius Sword</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -4362,7 +4420,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -4374,7 +4432,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -5075,7 +5133,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"><code>0</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -9696,22 +9754,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>10</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>11</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventure Log</b>
+      <b>2 x Lost Gold Fragment</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-02-10 04:08:28+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-02-11 04:07:14+08:00</b></td>
   </tr>
 </table>
 
