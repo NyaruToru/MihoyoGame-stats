@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Feb 11, 2024 07:37 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 11, 2024 12:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -158,7 +158,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>799</b></td>
+    <td align="center"><b>800</b></td>
   </tr>
   <tr>
     <td>
@@ -186,7 +186,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>369</b></td>
+    <td align="center"><b>371</b></td>
   </tr>
   <tr>
     <td>
@@ -257,7 +257,7 @@
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>411</b></td>
+    <td align="center"><b>412</b></td>
   </tr>
   <tr>
     <td>
@@ -308,6 +308,13 @@
         width="20"
       />
       Chenyu Vale: Upper Vale
+    </th>
+    <th>
+      <img
+        src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterIcon_ChenYuVale.png"
+        width="20"
+      />
+      Chenyu Vale: Southern Mountain
     </th>
     <th>
       <img
@@ -381,6 +388,14 @@
     </th>
   </tr>
   <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterInnerIcon_ChenYuVale.png"
+          width="250"
+        />
+      </p>
+    </td>
     <td>
       <p align="center">
         <img
@@ -477,6 +492,20 @@
           <td>Explored</td>
           <td>
             <img src="https://progress-bar.dev/1/" width="80" />
+          </td>
+        </tr>
+        <tr>
+          <td>TypeUnknow</td>
+          <td align="center">0</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Explored</td>
+          <td>
+            <img src="https://progress-bar.dev/0/" width="80" />
           </td>
         </tr>
         <tr>
@@ -748,11 +777,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Baizhuer_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
         ,
         height="18"
       />
-      <b>Baizhu</b> <code>(9)</code><br /><img
+      <b>Zhongli</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
+        ,
+        height="18"
+      />
+      <b>Kaedehara Kazuha</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Hutao_Card.png"
         ,
         height="18"
@@ -762,12 +796,7 @@
         ,
         height="18"
       />
-      <b>Nahida</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(9)</code><br />
+      <b>Nahida</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
@@ -840,7 +869,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2250</b> <code>(rate -42)</code></td>
+    <td align="center"><b>2271</b> <code>(rate -42)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -851,18 +880,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1084447</b> <code>(rate -52)</code></td>
+    <td align="center"><b>1096389</b> <code>(rate -51)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>900</b> <code>(41%)</code><br />Spiral Abyss: <b>450</b>
-      <code>(20%)</code><br />Daily Activity: <b>170</b> <code>(7%)</code
-      ><br />Events: <b>40</b> <code>(1%)</code><br />Adventure: <b>10</b>
+      Mail: <b>900</b> <code>(40%)</code><br />Spiral Abyss: <b>450</b>
+      <code>(20%)</code><br />Daily Activity: <b>170</b> <code>(8%)</code
+      ><br />Events: <b>40</b> <code>(1%)</code><br />Adventure: <b>30</b>
       <code>(1%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
-      <b>680</b> <code>(30%)</code><br />
+      <b>681</b> <code>(30%)</code><br />
     </td>
   </tr>
 </table>
@@ -1130,18 +1159,11 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />4 x Viridescent Venerer<br />1 x Emblem of Severed
+              Artifacts<br />2 x Viridescent Venerer<br />1 x Emblem of Severed
               Fate<br />
             </td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/f67251d7f5fc80b81e3c8b0f5ad73ddd.png"
-                ,
-                height="25"
-              />
-              <code>+20</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              In Remembrance of Viridescent Fields<br /><img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/bcf40784268c489cf67880970741b816.png"
                 ,
                 height="25"
@@ -1149,13 +1171,6 @@
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
               Viridescent Arrow Feather<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/5e236b937d4699ed54fe960f4dc313c2.png"
-                ,
-                height="25"
-              />
-              <code>+20</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Viridescent Venerer's Determination<br /><img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/e66c0f84db894bac0ec1e92621b005c0.png"
                 ,
                 height="25"
@@ -2867,11 +2882,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/ad86559c281719c6b5011d7aab8ec4c5.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/24ac1380cdfa52dbbb0132a0780b021c.png"
             ,
             height="20"
           />
-          Skyward Atlas
+          Apprentice's Notes
         </h3>
       </th>
     </tr>
@@ -2888,7 +2903,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/ad86559c281719c6b5011d7aab8ec4c5.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/24ac1380cdfa52dbbb0132a0780b021c.png"
             ,
             height="256"
           />
@@ -2979,7 +2994,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Skyward Atlas</td>
+            <td align="center">Apprentice's Notes</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -2987,19 +3002,19 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
+            <td align="center">⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+90</code></td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>6</code></td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>3</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -4689,18 +4704,10 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />1 x Viridescent Venerer<br />1 x Noblesse Oblige<br />2
-              x Wanderer's Troupe<br />
+              Artifacts<br />1 x Noblesse Oblige<br />2 x Wanderer's Troupe<br />
             </td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/bcf40784268c489cf67880970741b816.png"
-                ,
-                height="25"
-              />
-              <code>+20</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Viridescent Arrow Feather<br /><img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/ab3b6ce6da7dd86b8021dea724b9437e.png"
                 ,
                 height="25"
@@ -6153,7 +6160,7 @@
           <tr>
             <td>
               Artifacts<br />1 x Gladiator's Finale<br />1 x Tenacity of the
-              Millelith<br />2 x Shimenawa's Reminiscence<br />
+              Millelith<br />1 x Shimenawa's Reminiscence<br />
             </td>
             <td align="center">
               <img
@@ -6177,14 +6184,7 @@
               />
               <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Morning Dew's Moment<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/f663bfb905c7d46fe43ed0fc123a5561.png"
-                ,
-                height="25"
-              />
-              <code>+20</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Capricious Visage<br />
+              Morning Dew's Moment<br />
             </td>
           </tr>
           <tr>
@@ -9107,6 +9107,169 @@
 <details>
   <summary align="center">
     <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+      ,
+      height="18"
+    /><b> Xianyun</b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+            ,
+            height="20"
+          />
+          Xianyun
+        </h3>
+      </th>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/ad86559c281719c6b5011d7aab8ec4c5.png"
+            ,
+            height="20"
+          />
+          Skyward Atlas
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Liuyun_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/ad86559c281719c6b5011d7aab8ec4c5.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+                ,
+                height="18"
+              />
+              Anemo
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+40</code></td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>
+              Artifacts<br />4 x Viridescent Venerer<br />1 x Shimenawa's
+              Reminiscence<br />
+            </td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/f67251d7f5fc80b81e3c8b0f5ad73ddd.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              In Remembrance of Viridescent Fields<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/bcf40784268c489cf67880970741b816.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Viridescent Arrow Feather<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/5e236b937d4699ed54fe960f4dc313c2.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Viridescent Venerer's Determination<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/e66c0f84db894bac0ec1e92621b005c0.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Viridescent Venerer's Vessel<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/f663bfb905c7d46fe43ed0fc123a5561.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Capricious Visage<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Skyward Atlas</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Catalyst</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+90</code></td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
+            <td align="center"><code>6</code></td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center"><code>3</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
       src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
       ,
       height="18"
@@ -9801,11 +9964,11 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>395</b></td>
+    <td><b>396</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>432</b></td>
+    <td><b>433</b></td>
   </tr>
 </table>
 
@@ -9818,7 +9981,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>7520</b> <code>(rate -36)</code></td>
+    <td align="center"><b>7680</b> <code>(rate -35)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9828,7 +9991,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>34</b> <code>(rate -15)</code></td>
+    <td align="center"><b>36</b> <code>(rate -10)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9839,9 +10002,9 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: <b>2980</b> <code>(39%)</code><br />Mail: <b>1430</b>
-      <code>(19%)</code><br />Event: <b>1250</b> <code>(16%)</code><br />Daily
-      Activity: <b>930</b> <code>(12%)</code><br />Forgotten Hall: <b>540</b>
+      Adventure Rewards: <b>2990</b> <code>(38%)</code><br />Mail: <b>1430</b>
+      <code>(18%)</code><br />Event: <b>1250</b> <code>(16%)</code><br />Daily
+      Activity: <b>1080</b> <code>(14%)</code><br />Forgotten Hall: <b>540</b>
       <code>(7%)</code><br />Simulated Universe: <b>365</b> <code>(4%)</code
       ><br />Other: <b>25</b> <code>(3%)</code><br />
     </td>
