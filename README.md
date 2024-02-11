@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Feb 11, 2024 03:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 11, 2024 07:37 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -169,7 +169,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>952</b></td>
+    <td align="center"><b>953</b></td>
   </tr>
   <tr>
     <td>
@@ -180,7 +180,7 @@
       />
       Characters
     </td>
-    <td align="center"><b>60</b></td>
+    <td align="center"><b>61</b></td>
   </tr>
   <tr>
     <td>
@@ -748,11 +748,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Baizhuer_Card.png"
         ,
         height="18"
       />
-      <b>Kaedehara Kazuha</b> <code>(9)</code><br /><img
+      <b>Baizhu</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Hutao_Card.png"
+        ,
+        height="18"
+      />
+      <b>Hu Tao</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
         ,
         height="18"
@@ -762,12 +767,7 @@
         ,
         height="18"
       />
-      <b>Zhongli</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Baizhuer_Card.png"
-        ,
-        height="18"
-      />
-      <b>Baizhu</b> <code>(9)</code><br />
+      <b>Zhongli</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
@@ -907,11 +907,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/e2e7e721046dd0187c872bac7e933d7b.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/b5e9197fb102aef16e76446d7ad81987.png"
             ,
             height="20"
           />
-          Primordial Jade Cutter
+          Amenoma Kageuchi
         </h3>
       </th>
     </tr>
@@ -928,7 +928,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/e2e7e721046dd0187c872bac7e933d7b.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/b5e9197fb102aef16e76446d7ad81987.png"
             ,
             height="256"
           />
@@ -1019,7 +1019,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Primordial Jade Cutter</td>
+            <td align="center">Amenoma Kageuchi</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -1027,7 +1027,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2277,8 +2277,7 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />2 x Gilded Dreams<br />1 x Shimenawa's
-              Reminiscence<br />2 x Gladiator's Finale<br />
+              Artifacts<br />4 x Gilded Dreams<br />1 x Gladiator's Finale<br />
             </td>
             <td align="center">
               <img
@@ -2289,20 +2288,20 @@
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
               Dreaming Steelbloom<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/ef0d6ce9a6e054eecba9acb8cf1e5d5f.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/87f6de04985464c4791b1601688e62a1.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Shaft of Remembrance<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/37a2ea8988a0a8c43cf10cc32ba64f58.png"
+              Feather of Judgment<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/8519bfb7e6db1b2bf0c458c3e7019c06.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Gladiator's Longing<br /><img
+              The Sunken Years<br /><img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/4e88d52159b68644255f8b021b54756c.png"
                 ,
                 height="25"
@@ -2766,38 +2765,38 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />2 x Gladiator's Finale<br />3 x Gilded Dreams<br />
+              Artifacts<br />4 x Deepwood Memories<br />1 x Gilded Dreams<br />
             </td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/882ae57c13bef21a451fd30b9e5caf70.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/4b2348887e1e3600e8c4186482bba2c0.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Gladiator's Nostalgia<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/87f6de04985464c4791b1601688e62a1.png"
+              Labyrinth Wayfarer<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/c1579075e4745f31233cb1ecc0c5d968.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Feather of Judgment<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/37a2ea8988a0a8c43cf10cc32ba64f58.png"
+              Scholar of Vines<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/8a3905d3603f66b2ee66ca4df46bc3e4.png"
+                ,
+                height="25"
+              />
+              <code>+16</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              A Time of Insight<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/950b1208f7aa28282c7894814e587c6c.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Gladiator's Longing<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/4b8d46f4831bdd3cbd7f15203017fa7c.png"
-                ,
-                height="25"
-              />
-              <code>+20</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Honeyed Final Feast<br /><img
+              Lamp of the Lost<br /><img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/cd249f1547c54255809e07413a434b2c.png"
                 ,
                 height="25"
@@ -3031,11 +3030,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/b5e9197fb102aef16e76446d7ad81987.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/e2e7e721046dd0187c872bac7e933d7b.png"
             ,
             height="20"
           />
-          Amenoma Kageuchi
+          Primordial Jade Cutter
         </h3>
       </th>
     </tr>
@@ -3052,7 +3051,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/b5e9197fb102aef16e76446d7ad81987.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/e2e7e721046dd0187c872bac7e933d7b.png"
             ,
             height="256"
           />
@@ -3091,8 +3090,7 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />2 x Gilded Dreams<br />2 x Deepwood Memories<br />1
-              x Gladiator's Finale<br />
+              Artifacts<br />4 x Gilded Dreams<br />1 x Gladiator's Finale<br />
             </td>
             <td align="center">
               <img
@@ -3110,27 +3108,27 @@
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
               Feather of Judgment<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/8a3905d3603f66b2ee66ca4df46bc3e4.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/37a2ea8988a0a8c43cf10cc32ba64f58.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              A Time of Insight<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/950b1208f7aa28282c7894814e587c6c.png"
+              Gladiator's Longing<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/4b8d46f4831bdd3cbd7f15203017fa7c.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Lamp of the Lost<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/ee593672e7bbe54f1205d5bb9641a9b2.png"
+              Honeyed Final Feast<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/cd249f1547c54255809e07413a434b2c.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Gladiator's Triumphus<br />
+              Shadow of the Sand King<br />
             </td>
           </tr>
           <tr>
@@ -3143,7 +3141,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Amenoma Kageuchi</td>
+            <td align="center">Primordial Jade Cutter</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -3151,7 +3149,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3415,23 +3413,25 @@
             <td align="center"><code>0</code></td>
           </tr>
           <tr>
-            <td>Artifacts<br />5 x Deepwood Memories<br /></td>
+            <td>
+              Artifacts<br />2 x Gilded Dreams<br />3 x Deepwood Memories<br />
+            </td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/4b2348887e1e3600e8c4186482bba2c0.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/5e589ba95f0a79b87f2e528b3b6500cc.png"
                 ,
                 height="25"
               />
-              <code>+20</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Labyrinth Wayfarer<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/c1579075e4745f31233cb1ecc0c5d968.png"
+              Dreaming Steelbloom<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/87f6de04985464c4791b1601688e62a1.png"
                 ,
                 height="25"
               />
-              <code>+20</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Scholar of Vines<br /><img
+              Feather of Judgment<br /><img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/8a3905d3603f66b2ee66ca4df46bc3e4.png"
                 ,
                 height="25"
@@ -3762,7 +3762,7 @@
                 ,
                 height="25"
               />
-              <code>+20</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               The Sunken Years<br /><img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/fe7ce9b2dd8a20e080131a08e9248f78.png"
@@ -3932,7 +3932,13 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/image_2/63c7fec37efa37b4bce06b2bc37d95c4.png"
+                height="80"
+              /><br />
+              Bamboo Rain<br />
+            </td>
           </tr>
         </table>
       </td>
@@ -8825,6 +8831,129 @@
       src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
       ,
       height="18"
+    /><b> Lynette</b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+            ,
+            height="20"
+          />
+          Lynette
+        </h3>
+      </th>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/1d0d2d6eafb1845eccea3b986175c9dc.png"
+            ,
+            height="20"
+          />
+          Dull Blade
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Linette_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/1d0d2d6eafb1845eccea3b986175c9dc.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+                ,
+                height="18"
+              />
+              Anemo
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+50</code></td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center"><code>1</code></td>
+          </tr>
+          <tr>
+            <td>Artifacts<br /></td>
+            <td align="center"></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Dull Blade</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Sword</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center"><code>1</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+      ,
+      height="18"
     /><b> Faruzan</b>
   </summary>
   <br />
@@ -8969,6 +9098,252 @@
           <tr>
             <td>Refinement</td>
             <td align="center"><code>2</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+      ,
+      height="18"
+    /><b> Chevreuse</b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+            ,
+            height="20"
+          />
+          Chevreuse
+        </h3>
+      </th>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/e92cedd8df79f193493085bfe4b0f06f.png"
+            ,
+            height="20"
+          />
+          Beginner's Protector
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Chevreuse_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/e92cedd8df79f193493085bfe4b0f06f.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+                ,
+                height="18"
+              />
+              Pyro
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+40</code></td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Artifacts<br /></td>
+            <td align="center"></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Beginner's Protector</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Polearm</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center"><code>1</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+      ,
+      height="18"
+    /><b> Gaming</b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+            ,
+            height="20"
+          />
+          Gaming
+        </h3>
+      </th>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/55f937760d1f4e496cd8f75731aa24c6.png"
+            ,
+            height="20"
+          />
+          Waster Greatsword
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Gaming_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/55f937760d1f4e496cd8f75731aa24c6.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+                ,
+                height="18"
+              />
+              Pyro
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+40</code></td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center"><code>1</code></td>
+          </tr>
+          <tr>
+            <td>Artifacts<br /></td>
+            <td align="center"></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Waster Greatsword</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Claymore</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -9224,129 +9599,6 @@
 <details>
   <summary align="center">
     <img
-      src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
-      ,
-      height="18"
-    /><b> Lynette</b>
-  </summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th>
-        <h3 align="center">
-          <img
-            src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
-            ,
-            height="20"
-          />
-          Lynette
-        </h3>
-      </th>
-      <th>
-        <h3 align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/1d0d2d6eafb1845eccea3b986175c9dc.png"
-            ,
-            height="20"
-          />
-          Dull Blade
-        </h3>
-      </th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Linette_Card.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/1d0d2d6eafb1845eccea3b986175c9dc.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table align="center">
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
-                ,
-                height="18"
-              />
-              Anemo
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+20</code></td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td align="center"><code>+1</code></td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td align="center"><code>1</code></td>
-          </tr>
-          <tr>
-            <td>Artifacts<br /></td>
-            <td align="center"></td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td align="center"></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table align="center">
-          <tr>
-            <td>Name</td>
-            <td align="center">Dull Blade</td>
-          </tr>
-          <tr>
-            <td>Type</td>
-            <td align="center">Sword</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+1</code></td>
-          </tr>
-          <tr>
-            <td>Ascension</td>
-            <td align="center"><code>0</code></td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td align="center"><code>1</code></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary align="center">
-    <img
       src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
       ,
       height="18"
@@ -9467,252 +9719,6 @@
     </tr>
   </table>
 </details>
-<details>
-  <summary align="center">
-    <img
-      src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
-      ,
-      height="18"
-    /><b> Chevreuse</b>
-  </summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th>
-        <h3 align="center">
-          <img
-            src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
-            ,
-            height="20"
-          />
-          Chevreuse
-        </h3>
-      </th>
-      <th>
-        <h3 align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/e92cedd8df79f193493085bfe4b0f06f.png"
-            ,
-            height="20"
-          />
-          Beginner's Protector
-        </h3>
-      </th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Chevreuse_Card.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/e92cedd8df79f193493085bfe4b0f06f.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table align="center">
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
-                ,
-                height="18"
-              />
-              Pyro
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+20</code></td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td align="center"><code>+1</code></td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td align="center"><code>0</code></td>
-          </tr>
-          <tr>
-            <td>Artifacts<br /></td>
-            <td align="center"></td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td align="center"></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table align="center">
-          <tr>
-            <td>Name</td>
-            <td align="center">Beginner's Protector</td>
-          </tr>
-          <tr>
-            <td>Type</td>
-            <td align="center">Polearm</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+1</code></td>
-          </tr>
-          <tr>
-            <td>Ascension</td>
-            <td align="center"><code>0</code></td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td align="center"><code>1</code></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary align="center">
-    <img
-      src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
-      ,
-      height="18"
-    /><b> Gaming</b>
-  </summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th>
-        <h3 align="center">
-          <img
-            src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
-            ,
-            height="20"
-          />
-          Gaming
-        </h3>
-      </th>
-      <th>
-        <h3 align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/55f937760d1f4e496cd8f75731aa24c6.png"
-            ,
-            height="20"
-          />
-          Waster Greatsword
-        </h3>
-      </th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Gaming_Card.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/55f937760d1f4e496cd8f75731aa24c6.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table align="center">
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
-                ,
-                height="18"
-              />
-              Pyro
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+20</code></td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td align="center"><code>+1</code></td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td align="center"><code>0</code></td>
-          </tr>
-          <tr>
-            <td>Artifacts<br /></td>
-            <td align="center"></td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td align="center"></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table align="center">
-          <tr>
-            <td>Name</td>
-            <td align="center">Waster Greatsword</td>
-          </tr>
-          <tr>
-            <td>Type</td>
-            <td align="center">Claymore</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+1</code></td>
-          </tr>
-          <tr>
-            <td>Ascension</td>
-            <td align="center"><code>0</code></td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td align="center"><code>1</code></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
 <img align="center" src="./images/banner/star-rail-banner.png" />
 
 <p align="center">
@@ -9787,7 +9793,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>273</b></td>
+    <td><b>274</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
