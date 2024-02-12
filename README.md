@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Feb 12, 2024 03:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 12, 2024 07:35 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -777,26 +777,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Baizhuer_Card.png"
+        ,
+        height="18"
+      />
+      <b>Baizhu</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
         ,
         height="18"
       />
       <b>Nahida</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
         ,
         height="18"
       />
-      <b>Yelan</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Hutao_Card.png"
+      <b>Zhongli</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
         ,
         height="18"
       />
-      <b>Hu Tao</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Baizhuer_Card.png"
-        ,
-        height="18"
-      />
-      <b>Baizhu</b> <code>(9)</code><br />
+      <b>Kaedehara Kazuha</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
@@ -9956,7 +9956,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>274</b></td>
+    <td><b>275</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9981,7 +9981,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>7680</b> <code>(rate -35)</code></td>
+    <td align="center"><b>7770</b> <code>(rate -34)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9991,7 +9991,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>36</b> <code>(rate -10)</code></td>
+    <td align="center"><b>39</b> <code>(rate -2)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -10004,8 +10004,8 @@
     <td>
       Adventure Rewards: <b>2990</b> <code>(38%)</code><br />Mail: <b>1430</b>
       <code>(18%)</code><br />Event: <b>1250</b> <code>(16%)</code><br />Daily
-      Activity: <b>1080</b> <code>(14%)</code><br />Forgotten Hall: <b>540</b>
-      <code>(7%)</code><br />Simulated Universe: <b>365</b> <code>(4%)</code
+      Activity: <b>1170</b> <code>(15%)</code><br />Forgotten Hall: <b>540</b>
+      <code>(6%)</code><br />Simulated Universe: <b>365</b> <code>(4%)</code
       ><br />Other: <b>25</b> <code>(3%)</code><br />
     </td>
   </tr>
@@ -14914,7 +14914,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>2</code></td>
           </tr>
           <tr>
             <td>Relics</td>
