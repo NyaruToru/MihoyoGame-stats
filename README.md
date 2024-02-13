@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Feb 13, 2024 17:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 13, 2024 22:06 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -777,16 +777,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Baizhuer_Card.png"
-        ,
-        height="18"
-      />
-      <b>Baizhu</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
-        ,
-        height="18"
-      />
-      <b>Nahida</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
         ,
         height="18"
@@ -796,7 +786,17 @@
         ,
         height="18"
       />
-      <b>Zhongli</b> <code>(9)</code><br />
+      <b>Zhongli</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
+        ,
+        height="18"
+      />
+      <b>Nahida</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Hutao_Card.png"
+        ,
+        height="18"
+      />
+      <b>Hu Tao</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
@@ -9981,7 +9981,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>8055</b> <code>(rate -31)</code></td>
+    <td align="center"><b>8155</b> <code>(rate -30)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -10002,8 +10002,8 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: <b>2990</b> <code>(37%)</code><br />Mail: <b>1430</b>
-      <code>(17%)</code><br />Daily Activity: <b>1230</b> <code>(15%)</code
+      Adventure Rewards: <b>2990</b> <code>(36%)</code><br />Mail: <b>1430</b>
+      <code>(17%)</code><br />Daily Activity: <b>1330</b> <code>(16%)</code
       ><br />Event: <b>1250</b> <code>(15%)</code><br />Simulated Universe:
       <b>590</b> <code>(7%)</code><br />Forgotten Hall: <b>540</b>
       <code>(6%)</code><br />Other: <b>25</b> <code>(3%)</code><br />
