@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Feb 17, 2024 17:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 17, 2024 22:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -869,7 +869,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2271</b> <code>(rate -42)</code></td>
+    <td align="center"><b>2273</b> <code>(rate -42)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -880,7 +880,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1096389</b> <code>(rate -51)</code></td>
+    <td align="center"><b>1096589</b> <code>(rate -51)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -889,7 +889,7 @@
     <td>
       Mail: <b>900</b> <code>(40%)</code><br />Spiral Abyss: <b>450</b>
       <code>(20%)</code><br />Daily Activity: <b>170</b> <code>(8%)</code
-      ><br />Events: <b>40</b> <code>(1%)</code><br />Adventure: <b>30</b>
+      ><br />Events: <b>40</b> <code>(1%)</code><br />Adventure: <b>32</b>
       <code>(1%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
       <b>681</b> <code>(30%)</code><br />
     </td>
@@ -9968,7 +9968,7 @@
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>433</b></td>
+    <td><b>434</b></td>
   </tr>
 </table>
 
@@ -9981,7 +9981,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>8725</b> <code>(rate -26)</code></td>
+    <td align="center"><b>8795</b> <code>(rate -25)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9991,7 +9991,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>40</b> <code>(rate 0)</code></td>
+    <td align="center"><b>42</b> <code>(rate 5)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -10002,8 +10002,8 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: <b>2990</b> <code>(34%)</code><br />Daily Activity:
-      <b>1780</b> <code>(20%)</code><br />Mail: <b>1550</b> <code>(17%)</code
+      Adventure Rewards: <b>3010</b> <code>(34%)</code><br />Daily Activity:
+      <b>1830</b> <code>(20%)</code><br />Mail: <b>1550</b> <code>(17%)</code
       ><br />Event: <b>1250</b> <code>(14%)</code><br />Simulated Universe:
       <b>590</b> <code>(6%)</code><br />Forgotten Hall: <b>540</b>
       <code>(6%)</code><br />Other: <b>25</b> <code>(3%)</code><br />
@@ -10032,7 +10032,7 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>19</b></td>
+    <td align="center"><b>20</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
@@ -10746,34 +10746,34 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/ed2326b06e392107ea71e67808a95d98.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/150e6c5a6e60c6637dd935d929fc5e2b.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Messenger's Holovisor<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/5f50f50f872dfef111c80bcab2c1257e.png"
+              Watchmaker's Telescoping Lens<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/c51ad38c5275109d1e3b0f902fdbac99.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Thief's Gloves With Prints<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/52d4a995f4e27ecda0f6385a069935d3.png"
+              Watchmaker's Fortuitous Wristwatch<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/1c578949b9c07089e4a643131596d741.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Thief's Steel Grappling Hook<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/aad052498a8ba6401c1878bd158dcf3e.png"
+              Watchmaker's Illusory Formal Suit<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/9b6a426186f9694256754b317911ea72.png"
                 ,
                 height="25"
               />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Messenger's Par-kool Sneakers<br />
+              <code>+12</code><br />
+              ⭐⭐⭐⭐<br />
+              Watchmaker's Dream-Concealing Dress Shoes<br />
             </td>
           </tr>
           <tr>
