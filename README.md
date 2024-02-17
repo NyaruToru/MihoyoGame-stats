@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Feb 17, 2024 22:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 18, 2024 03:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -116,22 +116,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>17</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>18</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Mora</b>
+      <b>20 x Primogem</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-02-17 04:07:44+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-02-18 04:07:11+08:00</b></td>
   </tr>
 </table>
 
@@ -158,7 +158,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>800</b></td>
+    <td align="center"><b>801</b></td>
   </tr>
   <tr>
     <td>
@@ -169,7 +169,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>954</b></td>
+    <td align="center"><b>955</b></td>
   </tr>
   <tr>
     <td>
@@ -243,7 +243,7 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>2069</b></td>
+    <td align="center"><b>2070</b></td>
   </tr>
   <tr>
     <td>
@@ -505,7 +505,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/0/" width="80" />
+            <img src="https://progress-bar.dev/1/" width="80" />
           </td>
         </tr>
         <tr>
@@ -869,7 +869,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2273</b> <code>(rate -42)</code></td>
+    <td align="center"><b>2276</b> <code>(rate -42)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -880,7 +880,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1096589</b> <code>(rate -51)</code></td>
+    <td align="center"><b>1112570</b> <code>(rate -50)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -888,10 +888,10 @@
     </td>
     <td>
       Mail: <b>900</b> <code>(40%)</code><br />Spiral Abyss: <b>450</b>
-      <code>(20%)</code><br />Daily Activity: <b>170</b> <code>(8%)</code
+      <code>(20%)</code><br />Daily Activity: <b>170</b> <code>(7%)</code
       ><br />Events: <b>40</b> <code>(1%)</code><br />Adventure: <b>32</b>
       <code>(1%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
-      <b>681</b> <code>(30%)</code><br />
+      <b>684</b> <code>(31%)</code><br />
     </td>
   </tr>
 </table>
@@ -9923,22 +9923,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>17</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>18</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Condensed Aether</b>
+      <b>2 x Lost Gold Fragment</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-02-17 04:07:45+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-02-18 04:07:12+08:00</b></td>
   </tr>
 </table>
 
