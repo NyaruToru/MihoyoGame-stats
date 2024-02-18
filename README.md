@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Feb 18, 2024 12:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 18, 2024 17:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9964,7 +9964,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>397</b></td>
+    <td><b>398</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -9981,7 +9981,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>9010</b> <code>(rate -23)</code></td>
+    <td align="center"><b>9165</b> <code>(rate -22)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -10002,11 +10002,11 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: <b>3075</b> <code>(34%)</code><br />Daily Activity:
-      <b>1980</b> <code>(21%)</code><br />Mail: <b>1550</b> <code>(17%)</code
+      Adventure Rewards: <b>3200</b> <code>(34%)</code><br />Daily Activity:
+      <b>1980</b> <code>(21%)</code><br />Mail: <b>1550</b> <code>(16%)</code
       ><br />Event: <b>1250</b> <code>(13%)</code><br />Simulated Universe:
-      <b>590</b> <code>(6%)</code><br />Forgotten Hall: <b>540</b>
-      <code>(5%)</code><br />Other: <b>25</b> <code>(4%)</code><br />
+      <b>620</b> <code>(6%)</code><br />Forgotten Hall: <b>540</b>
+      <code>(5%)</code><br />Other: <b>25</b> <code>(5%)</code><br />
     </td>
   </tr>
 </table>
