@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Feb 18, 2024 22:06 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 19, 2024 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -116,22 +116,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>18</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>19</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+          src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
           ,
           height="80" /></a
       ><br />
-      <b>20 x Primogem</b>
+      <b>3 x Fisherman's Toast</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-02-18 04:07:11+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-02-19 04:08:05+08:00</b></td>
   </tr>
 </table>
 
@@ -9923,22 +9923,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>18</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>19</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Lost Gold Fragment</b>
+      <b>8000 x Credit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-02-18 04:07:12+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-02-19 04:08:07+08:00</b></td>
   </tr>
 </table>
 
@@ -10007,515 +10007,6 @@
       ><br />Event: <b>1250</b> <code>(13%)</code><br />Simulated Universe:
       <b>620</b> <code>(6%)</code><br />Forgotten Hall: <b>540</b>
       <code>(5%)</code><br />Other: <b>25</b> <code>(5%)</code><br />
-    </td>
-  </tr>
-</table>
-<h2 align="center">
-  <img
-    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
-    height="20"
-  />
-  Memory of Chaos
-  <img
-    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
-    height="20"
-  />
-</h2>
-<table align="center">
-  <tr>
-    <td>Season</td>
-    <td align="center"><b>1010</b></td>
-  </tr>
-  <tr>
-    <td>Max Floor</td>
-    <td align="center"><b>Light of Reignition Stage 10</b></td>
-  </tr>
-  <tr>
-    <td>Total Battles</td>
-    <td align="center"><b>20</b></td>
-  </tr>
-  <tr>
-    <td>Total Stars</td>
-    <td align="center"><b>28</b></td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Light of Reignition Stage 10</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>1 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>17</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/88bbc344892a13a1229b410fd8dacf72.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/afbf097b80209dfd54f74fa44ded0cb6.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/83c2cacf93d3580d5d9f27dc145f42c2.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/e2baff1f0c2095abeaccb193d0696b07.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/6d3bb91d5d72aa7b7fcbff468e7ecf40.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/f3b26be8132fbcd755f673acdc3c2d69.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/746768e81055446b252de5806c5caf3b.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/29a8905ae89c4ce2cf92f7fcc78925b1.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Light of Reignition Stage 9</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>6</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/8af73f9e9ca2aa39801c6297eac1ed09.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/f3b26be8132fbcd755f673acdc3c2d69.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/746768e81055446b252de5806c5caf3b.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/29a8905ae89c4ce2cf92f7fcc78925b1.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/20ffc902491d15d1ba4d2e8453900bb1.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/afbf097b80209dfd54f74fa44ded0cb6.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/83c2cacf93d3580d5d9f27dc145f42c2.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/e2baff1f0c2095abeaccb193d0696b07.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Light of Reignition Stage 8</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>7</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/8af73f9e9ca2aa39801c6297eac1ed09.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/f3b26be8132fbcd755f673acdc3c2d69.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/746768e81055446b252de5806c5caf3b.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/29a8905ae89c4ce2cf92f7fcc78925b1.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/e2baff1f0c2095abeaccb193d0696b07.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/afbf097b80209dfd54f74fa44ded0cb6.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/83c2cacf93d3580d5d9f27dc145f42c2.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/88bbc344892a13a1229b410fd8dacf72.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Light of Reignition Stage 7</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>9</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/e2baff1f0c2095abeaccb193d0696b07.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/afbf097b80209dfd54f74fa44ded0cb6.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/83c2cacf93d3580d5d9f27dc145f42c2.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/88bbc344892a13a1229b410fd8dacf72.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/20ffc902491d15d1ba4d2e8453900bb1.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/60cc2f32247a4dd2daa549e13fe309ce.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/746768e81055446b252de5806c5caf3b.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/29a8905ae89c4ce2cf92f7fcc78925b1.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Light of Reignition Stage 6</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>6</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/8af73f9e9ca2aa39801c6297eac1ed09.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/f3b26be8132fbcd755f673acdc3c2d69.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/746768e81055446b252de5806c5caf3b.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/29a8905ae89c4ce2cf92f7fcc78925b1.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/e2baff1f0c2095abeaccb193d0696b07.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/afbf097b80209dfd54f74fa44ded0cb6.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/83c2cacf93d3580d5d9f27dc145f42c2.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/88bbc344892a13a1229b410fd8dacf72.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Light of Reignition Stage 5</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>5</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/e2baff1f0c2095abeaccb193d0696b07.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/afbf097b80209dfd54f74fa44ded0cb6.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/83c2cacf93d3580d5d9f27dc145f42c2.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/88bbc344892a13a1229b410fd8dacf72.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/8af73f9e9ca2aa39801c6297eac1ed09.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/f3b26be8132fbcd755f673acdc3c2d69.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/746768e81055446b252de5806c5caf3b.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/29a8905ae89c4ce2cf92f7fcc78925b1.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Light of Reignition Stage 4</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>7</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/8af73f9e9ca2aa39801c6297eac1ed09.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/f3b26be8132fbcd755f673acdc3c2d69.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/746768e81055446b252de5806c5caf3b.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/29a8905ae89c4ce2cf92f7fcc78925b1.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/e2baff1f0c2095abeaccb193d0696b07.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/afbf097b80209dfd54f74fa44ded0cb6.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/83c2cacf93d3580d5d9f27dc145f42c2.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/88bbc344892a13a1229b410fd8dacf72.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Light of Reignition Stage 3</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>4</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/8af73f9e9ca2aa39801c6297eac1ed09.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/f3b26be8132fbcd755f673acdc3c2d69.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/746768e81055446b252de5806c5caf3b.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/29a8905ae89c4ce2cf92f7fcc78925b1.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/e2baff1f0c2095abeaccb193d0696b07.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/afbf097b80209dfd54f74fa44ded0cb6.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/83c2cacf93d3580d5d9f27dc145f42c2.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/88bbc344892a13a1229b410fd8dacf72.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Light of Reignition Stage 2</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>3</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/e2baff1f0c2095abeaccb193d0696b07.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/afbf097b80209dfd54f74fa44ded0cb6.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/83c2cacf93d3580d5d9f27dc145f42c2.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/88bbc344892a13a1229b410fd8dacf72.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/8af73f9e9ca2aa39801c6297eac1ed09.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/f3b26be8132fbcd755f673acdc3c2d69.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/746768e81055446b252de5806c5caf3b.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/29a8905ae89c4ce2cf92f7fcc78925b1.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Light of Reignition Stage 1</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>2</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/8af73f9e9ca2aa39801c6297eac1ed09.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/f3b26be8132fbcd755f673acdc3c2d69.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/746768e81055446b252de5806c5caf3b.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/29a8905ae89c4ce2cf92f7fcc78925b1.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/e2baff1f0c2095abeaccb193d0696b07.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/afbf097b80209dfd54f74fa44ded0cb6.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/83c2cacf93d3580d5d9f27dc145f42c2.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/88bbc344892a13a1229b410fd8dacf72.png"
-        height="18"
-      />
     </td>
   </tr>
 </table>
