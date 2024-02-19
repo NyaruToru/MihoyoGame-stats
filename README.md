@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Feb 19, 2024 07:35 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 19, 2024 12:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9981,7 +9981,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>9165</b> <code>(rate -22)</code></td>
+    <td align="center"><b>9265</b> <code>(rate -21)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -10003,10 +10003,87 @@
     </td>
     <td>
       Adventure Rewards: <b>3200</b> <code>(34%)</code><br />Daily Activity:
-      <b>1980</b> <code>(21%)</code><br />Mail: <b>1550</b> <code>(16%)</code
+      <b>2080</b> <code>(22%)</code><br />Mail: <b>1550</b> <code>(16%)</code
       ><br />Event: <b>1250</b> <code>(13%)</code><br />Simulated Universe:
       <b>620</b> <code>(6%)</code><br />Forgotten Hall: <b>540</b>
-      <code>(5%)</code><br />Other: <b>25</b> <code>(5%)</code><br />
+      <code>(5%)</code><br />Other: <b>25</b> <code>(4%)</code><br />
+    </td>
+  </tr>
+</table>
+<h2 align="center">
+  <img
+    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
+    height="20"
+  />
+  Memory of Chaos
+  <img
+    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
+    height="20"
+  />
+</h2>
+<table align="center">
+  <tr>
+    <td>Season</td>
+    <td align="center"><b>1011</b></td>
+  </tr>
+  <tr>
+    <td>Max Floor</td>
+    <td align="center"><b>Dreamland of Longing (1)</b></td>
+  </tr>
+  <tr>
+    <td>Total Battles</td>
+    <td align="center"><b>1</b></td>
+  </tr>
+  <tr>
+    <td>Total Stars</td>
+    <td align="center"><b>3</b></td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>Dreamland of Longing (1)</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>3 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>2</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/20ffc902491d15d1ba4d2e8453900bb1.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/746768e81055446b252de5806c5caf3b.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/60cc2f32247a4dd2daa549e13fe309ce.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/83c2cacf93d3580d5d9f27dc145f42c2.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/cb6d1e36ea14dd2566bc08b5ae40f1ae.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/f3b26be8132fbcd755f673acdc3c2d69.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/29a8905ae89c4ce2cf92f7fcc78925b1.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/10aec3859e32ad0313cc20acfc1d42be.png"
+        height="18"
+      />
     </td>
   </tr>
 </table>
