@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Feb 19, 2024 03:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 19, 2024 07:35 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9956,7 +9956,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>281</b></td>
+    <td><b>282</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -10040,10 +10040,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/55d7ea27e1ab8446858bbf61942199c4.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/2c39aa07171d93b6b895ea198dc135b2.png"
             height="20"
           />
-          Cruising in the Stellar Sea
+          Darting Arrow
         </h3>
       </th>
     </tr>
@@ -10058,7 +10058,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/55d7ea27e1ab8446858bbf61942199c4.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/2c39aa07171d93b6b895ea198dc135b2.png"
           />
         </p>
       </td>
@@ -10148,15 +10148,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Cruising in the Stellar Sea</td>
+            <td align="center">Darting Arrow</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+70</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>3</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -11045,10 +11045,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/2c39aa07171d93b6b895ea198dc135b2.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/55d7ea27e1ab8446858bbf61942199c4.png"
             height="20"
           />
-          Darting Arrow
+          Cruising in the Stellar Sea
         </h3>
       </th>
     </tr>
@@ -11063,7 +11063,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/2c39aa07171d93b6b895ea198dc135b2.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/55d7ea27e1ab8446858bbf61942199c4.png"
           />
         </p>
       </td>
@@ -11153,15 +11153,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Darting Arrow</td>
+            <td align="center">Cruising in the Stellar Sea</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+70</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
         </table>
       </td>
@@ -12501,7 +12501,7 @@
                 ,
                 height="25"
               />
-              <code>+12</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Messenger's Holovisor<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/eef5640f9e3252ed9425013babad7abb.png"
