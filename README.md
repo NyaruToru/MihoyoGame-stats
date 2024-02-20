@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Feb 20, 2024 22:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 21, 2024 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -116,22 +116,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>20</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>21</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventurer's Experience</b>
+      <b>8000 x Mora</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-02-20 04:07:59+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-02-21 04:08:52+08:00</b></td>
   </tr>
 </table>
 
@@ -169,7 +169,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>955</b></td>
+    <td align="center"><b>956</b></td>
   </tr>
   <tr>
     <td>
@@ -869,7 +869,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2326</b> <code>(rate -40)</code></td>
+    <td align="center"><b>2328</b> <code>(rate -40)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -880,7 +880,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1112570</b> <code>(rate -50)</code></td>
+    <td align="center"><b>1125570</b> <code>(rate -50)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -891,7 +891,7 @@
       <code>(20%)</code><br />Daily Activity: <b>170</b> <code>(7%)</code
       ><br />Events: <b>40</b> <code>(1%)</code><br />Adventure: <b>42</b>
       <code>(1%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
-      <b>684</b> <code>(30%)</code><br />
+      <b>686</b> <code>(30%)</code><br />
     </td>
   </tr>
 </table>
@@ -9923,22 +9923,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>20</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>21</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      <b>20 x Stellar Jade</b>
+      <b>3 x Adventure Log</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-02-20 04:08:00+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-02-21 04:08:54+08:00</b></td>
   </tr>
 </table>
 
