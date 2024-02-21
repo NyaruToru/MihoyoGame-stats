@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Feb 21, 2024 12:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 21, 2024 17:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9981,7 +9981,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>10911</b> <code>(rate -7)</code></td>
+    <td align="center"><b>10961</b> <code>(rate -7)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -10003,10 +10003,10 @@
     </td>
     <td>
       Adventure Rewards: <b>3580</b> <code>(32%)</code><br />Daily Activity:
-      <b>2380</b> <code>(21%)</code><br />Mail: <b>1570</b> <code>(14%)</code
+      <b>2430</b> <code>(22%)</code><br />Mail: <b>1570</b> <code>(14%)</code
       ><br />Event: <b>1340</b> <code>(12%)</code><br />Forgotten Hall:
       <b>1140</b> <code>(10%)</code><br />Simulated Universe: <b>875</b>
-      <code>(8%)</code><br />Other: <b>26</b> <code>(3%)</code><br />
+      <code>(7%)</code><br />Other: <b>26</b> <code>(3%)</code><br />
     </td>
   </tr>
 </table>
@@ -10591,8 +10591,8 @@
                 ,
                 height="25"
               />
-              <code>+12</code><br />
-              ⭐⭐⭐⭐<br />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
               The IPC's Mega HQ<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/8e8db9927efdbee86f7cf21aebc06218.png"
                 ,
