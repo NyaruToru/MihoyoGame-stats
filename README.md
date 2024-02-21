@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Feb 21, 2024 17:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 21, 2024 22:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -169,7 +169,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>956</b></td>
+    <td align="center"><b>957</b></td>
   </tr>
   <tr>
     <td>
@@ -9964,7 +9964,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>405</b></td>
+    <td><b>406</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -9981,7 +9981,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>10961</b> <code>(rate -7)</code></td>
+    <td align="center"><b>11451</b> <code>(rate -3)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -10002,11 +10002,11 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: <b>3580</b> <code>(32%)</code><br />Daily Activity:
-      <b>2430</b> <code>(22%)</code><br />Mail: <b>1570</b> <code>(14%)</code
-      ><br />Event: <b>1340</b> <code>(12%)</code><br />Forgotten Hall:
-      <b>1140</b> <code>(10%)</code><br />Simulated Universe: <b>875</b>
-      <code>(7%)</code><br />Other: <b>26</b> <code>(3%)</code><br />
+      Adventure Rewards: <b>4000</b> <code>(34%)</code><br />Daily Activity:
+      <b>2430</b> <code>(21%)</code><br />Mail: <b>1570</b> <code>(13%)</code
+      ><br />Event: <b>1340</b> <code>(11%)</code><br />Forgotten Hall:
+      <b>1140</b> <code>(9%)</code><br />Simulated Universe: <b>945</b>
+      <code>(8%)</code><br />Other: <b>26</b> <code>(4%)</code><br />
     </td>
   </tr>
 </table>
@@ -10868,8 +10868,8 @@
                 ,
                 height="25"
               />
-              <code>+12</code><br />
-              ⭐⭐⭐⭐<br />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
               Watchmaker's Dream-Concealing Dress Shoes<br />
             </td>
           </tr>
