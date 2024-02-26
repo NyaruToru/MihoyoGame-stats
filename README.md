@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Feb 26, 2024 17:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 26, 2024 22:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -9956,7 +9956,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>288</b></td>
+    <td><b>289</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9981,7 +9981,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>12086</b> <code>(rate 2)</code></td>
+    <td align="center"><b>12176</b> <code>(rate 3)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -10003,10 +10003,10 @@
     </td>
     <td>
       Adventure Rewards: <b>4065</b> <code>(33%)</code><br />Daily Activity:
-      <b>2980</b> <code>(24%)</code><br />Mail: <b>1570</b> <code>(12%)</code
+      <b>3070</b> <code>(25%)</code><br />Mail: <b>1570</b> <code>(12%)</code
       ><br />Event: <b>1340</b> <code>(11%)</code><br />Forgotten Hall:
       <b>1140</b> <code>(9%)</code><br />Simulated Universe: <b>965</b>
-      <code>(7%)</code><br />Other: <b>26</b> <code>(4%)</code><br />
+      <code>(7%)</code><br />Other: <b>26</b> <code>(3%)</code><br />
     </td>
   </tr>
 </table>
@@ -11003,7 +11003,7 @@
                 ,
                 height="25"
               />
-              <code>+12</code><br />
+              <code>+14</code><br />
               ⭐⭐⭐⭐⭐<br />
               Musketeer's Rivets Riding Boots<br />
             </td>
@@ -11427,20 +11427,20 @@
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Passerby's Roaming Dragon Bracer<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/51f9f88d0ef02ddccace6d333ef27baf.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/fe3934c9997d21233df9790df3d994aa.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Messenger's Secret Satchel<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/aad052498a8ba6401c1878bd158dcf3e.png"
+              Musketeer's Wind-Hunting Shawl<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/20abaf326e0f0db1f5de9c9123e610ed.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Messenger's Par-kool Sneakers<br />
+              Musketeer's Rivets Riding Boots<br />
             </td>
           </tr>
           <tr>
@@ -14421,13 +14421,13 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/fe3934c9997d21233df9790df3d994aa.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/51f9f88d0ef02ddccace6d333ef27baf.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Musketeer's Wind-Hunting Shawl<br /><img
+              Messenger's Secret Satchel<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/7e5096be6da217c8252cd0bb474e1520.png"
                 ,
                 height="25"
