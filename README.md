@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Feb 29, 2024 22:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 01, 2024 03:09 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -116,22 +116,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>29</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>1</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Mora</b>
+      <b>3 x Adventurer's Experience</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-02-29 04:08:39+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-03-01 04:09:34+08:00</b></td>
   </tr>
 </table>
 
@@ -283,7 +283,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>8-3</b></td>
+    <td align="center"><b>-</b></td>
   </tr>
 </table>
 
@@ -726,136 +726,6 @@
   </tr>
 </table>
 <h2 align="center">
-  <img
-    src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
-    ,
-    height="20"
-  />
-  Spiral Abyss
-  <img
-    src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
-    ,
-    height="20"
-  />
-</h2>
-<table align="center">
-  <tr>
-    <td colspan="2" align="center">
-      <img src="./images/logo/spiral-abyss.webp" , height="18" /> Season:
-      <b>87</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="./images/logo/floor.webp" , height="18" /> Max Floor:
-      <b>11-3</b>
-    </td>
-    <td align="center">
-      <img src="./images/logo/battle.webp" , height="18" /> Total Battles:
-      <b>10</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>9</b>
-    </td>
-    <td align="center">
-      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>27</b>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      🕐 Start Time: <b>2024-01-31 20:00:00+00:00</b>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      🕛 End Time: <b>2024-02-15 19:59:59+00:00</b>
-    </td>
-  </tr>
-  <tr>
-    <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Hutao_Card.png"
-        ,
-        height="18"
-      />
-      <b>Hu Tao</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
-        ,
-        height="18"
-      />
-      <b>Kaedehara Kazuha</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
-        ,
-        height="18"
-      />
-      <b>Yelan</b> <code>(9)</code><br />
-    </td>
-  </tr>
-  <tr>
-    <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Hutao_Card.png"
-        ,
-        height="18"
-      />
-      <b>Hu Tao</b> <code>(26)</code><br />
-    </td>
-  </tr>
-  <tr>
-    <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Hutao_Card.png"
-        ,
-        height="18"
-      />
-      <b>Hu Tao</b> <code>(181479)</code><br />
-    </td>
-  </tr>
-  <tr>
-    <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
-        ,
-        height="18"
-      />
-      <b>Raiden Shogun</b> <code>(29347)</code><br />
-    </td>
-  </tr>
-  <tr>
-    <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
-        ,
-        height="18"
-      />
-      <b>Nahida</b> <code>(19)</code><br />
-    </td>
-  </tr>
-  <tr>
-    <td>Elemental Skills Cast</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yae_Card.png"
-        ,
-        height="18"
-      />
-      <b>Yae Miko</b> <code>(66)</code><br />
-    </td>
-  </tr>
-</table>
-<h2 align="center">
   <img src="./images/logo/genshin_diary.png" height="20" /> Diary
   <img src="./images/logo/genshin_diary.png" height="20" />
 </h2>
@@ -869,7 +739,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2328</b> <code>(rate -40)</code></td>
+    <td align="center"><b>0</b> <code>(rate -100)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -880,18 +750,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1125570</b> <code>(rate -50)</code></td>
+    <td align="center"><b>0</b> <code>(rate -100)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>940</b> <code>(41%)</code><br />Spiral Abyss: <b>450</b>
-      <code>(20%)</code><br />Daily Activity: <b>170</b> <code>(7%)</code
-      ><br />Events: <b>40</b> <code>(1%)</code><br />Adventure: <b>42</b>
-      <code>(1%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
-      <b>686</b> <code>(30%)</code><br />
+      Events: <b>0</b> <code>(0%)</code><br />Daily Activity: <b>0</b>
+      <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      ><br />Quests: <b>0</b> <code>(0%)</code><br />Adventure: <b>0</b>
+      <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code><br />Other:
+      <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -9923,22 +9793,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>29</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>1</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Credit</b>
+      <b>2 x Adventure Log</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-02-29 04:08:40+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-03-01 04:09:26+08:00</b></td>
   </tr>
 </table>
 
@@ -9981,7 +9851,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>12721</b> <code>(rate 7)</code></td>
+    <td align="center"><b>0</b> <code>(rate -100)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9991,7 +9861,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>47</b> <code>(rate 17)</code></td>
+    <td align="center"><b>0</b> <code>(rate -100)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -10002,11 +9872,11 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: <b>4065</b> <code>(31%)</code><br />Daily Activity:
-      <b>3460</b> <code>(27%)</code><br />Mail: <b>1570</b> <code>(12%)</code
-      ><br />Event: <b>1380</b> <code>(10%)</code><br />Simulated Universe:
-      <b>1080</b> <code>(8%)</code><br />Forgotten Hall: <b>1140</b>
-      <code>(8%)</code><br />Other: <b>26</b> <code>(4%)</code><br />
+      Daily Activity: <b>0</b> <code>(0%)</code><br />Event: <b>0</b>
+      <code>(0%)</code><br />Adventure Rewards: <b>0</b> <code>(0%)</code
+      ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />Forgotten Hall:
+      <b>0</b> <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code
+      ><br />Other: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
