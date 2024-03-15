@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Mar 15, 2024 12:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 15, 2024 17:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -818,7 +818,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Ayaka_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png"
             ,
             height="256"
           />
@@ -981,7 +981,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Qin_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Qin.png"
             ,
             height="256"
           />
@@ -1140,7 +1140,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
             ,
             height="256"
           />
@@ -1303,7 +1303,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Albedo_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Albedo.png"
             ,
             height="256"
           />
@@ -1466,7 +1466,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Hutao_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
             ,
             height="256"
           />
@@ -1629,7 +1629,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Eula_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Eula.png"
             ,
             height="256"
           />
@@ -1791,7 +1791,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
             ,
             height="256"
           />
@@ -1951,7 +1951,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Itto_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Itto.png"
             ,
             height="256"
           />
@@ -2114,7 +2114,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yae_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Yae.png"
             ,
             height="256"
           />
@@ -2276,7 +2276,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
             ,
             height="256"
           />
@@ -2439,7 +2439,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nilou_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Nilou.png"
             ,
             height="256"
           />
@@ -2602,7 +2602,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
             ,
             height="256"
           />
@@ -2764,7 +2764,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Wanderer_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Wanderer.png"
             ,
             height="256"
           />
@@ -2927,7 +2927,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Alhatham_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Alhatham.png"
             ,
             height="256"
           />
@@ -3089,7 +3089,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Ningguang_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Ningguang.png"
             ,
             height="256"
           />
@@ -3251,7 +3251,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Baizhuer_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
             ,
             height="256"
           />
@@ -3413,7 +3413,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
             ,
             height="256"
           />
@@ -3576,7 +3576,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_PlayerGirl_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_PlayerGirl.png"
             ,
             height="256"
           />
@@ -3739,7 +3739,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
             ,
             height="256"
           />
@@ -3894,7 +3894,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
             ,
             height="256"
           />
@@ -4054,7 +4054,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Diona_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Diona.png"
             ,
             height="256"
           />
@@ -4203,7 +4203,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Furina_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
             ,
             height="256"
           />
@@ -4366,7 +4366,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Gorou_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Gorou.png"
             ,
             height="256"
           />
@@ -4526,7 +4526,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Beidou_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Beidou.png"
             ,
             height="256"
           />
@@ -4674,7 +4674,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sucrose_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Sucrose.png"
             ,
             height="256"
           />
@@ -4823,7 +4823,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Diluc_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Diluc.png"
             ,
             height="256"
           />
@@ -4972,7 +4972,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Lisa_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Lisa.png"
             ,
             height="256"
           />
@@ -5101,7 +5101,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Barbara_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Barbara.png"
             ,
             height="256"
           />
@@ -5249,7 +5249,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xiangling_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
             ,
             height="256"
           />
@@ -5405,7 +5405,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Tighnari_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Tighnari.png"
             ,
             height="256"
           />
@@ -5562,7 +5562,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kaeya_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Kaeya.png"
             ,
             height="256"
           />
@@ -5691,7 +5691,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Keqing_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Keqing.png"
             ,
             height="256"
           />
@@ -5832,7 +5832,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Heizo_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Heizo.png"
             ,
             height="256"
           />
@@ -5981,7 +5981,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Rosaria_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Rosaria.png"
             ,
             height="256"
           />
@@ -6136,7 +6136,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kaveh_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Kaveh.png"
             ,
             height="256"
           />
@@ -6268,7 +6268,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sara_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Sara.png"
             ,
             height="256"
           />
@@ -6410,7 +6410,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Mona_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Mona.png"
             ,
             height="256"
           />
@@ -6565,7 +6565,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Chongyun_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Chongyun.png"
             ,
             height="256"
           />
@@ -6711,7 +6711,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yaoyao_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Yaoyao.png"
             ,
             height="256"
           />
@@ -6852,7 +6852,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Noel_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Noel.png"
             ,
             height="256"
           />
@@ -7008,7 +7008,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Feiyan_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Feiyan.png"
             ,
             height="256"
           />
@@ -7157,7 +7157,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yunjin_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Yunjin.png"
             ,
             height="256"
           />
@@ -7289,7 +7289,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sayu_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Sayu.png"
             ,
             height="256"
           />
@@ -7428,7 +7428,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xinyan_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Xinyan.png"
             ,
             height="256"
           />
@@ -7551,7 +7551,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Ambor_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Ambor.png"
             ,
             height="256"
           />
@@ -7706,7 +7706,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Collei_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Collei.png"
             ,
             height="256"
           />
@@ -7829,7 +7829,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Aloy_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Aloy.png"
             ,
             height="256"
           />
@@ -7952,7 +7952,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Razor_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Razor.png"
             ,
             height="256"
           />
@@ -8075,7 +8075,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Fischl_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Fischl.png"
             ,
             height="256"
           />
@@ -8213,7 +8213,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Tohma_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Tohma.png"
             ,
             height="256"
           />
@@ -8336,7 +8336,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Momoka_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Momoka.png"
             ,
             height="256"
           />
@@ -8459,7 +8459,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Dori_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Dori.png"
             ,
             height="256"
           />
@@ -8582,7 +8582,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Layla_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Layla.png"
             ,
             height="256"
           />
@@ -8731,7 +8731,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Linette_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Linette.png"
             ,
             height="256"
           />
@@ -8854,7 +8854,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Faruzan_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Faruzan.png"
             ,
             height="256"
           />
@@ -9010,7 +9010,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Liuyun_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Liuyun.png"
             ,
             height="256"
           />
@@ -9173,7 +9173,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Chevreuse_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Chevreuse.png"
             ,
             height="256"
           />
@@ -9296,7 +9296,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Gaming_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Gaming.png"
             ,
             height="256"
           />
@@ -9419,7 +9419,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Candace_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Candace.png"
             ,
             height="256"
           />
@@ -9542,7 +9542,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Mika_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Mika.png"
             ,
             height="256"
           />
@@ -9665,7 +9665,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Freminet_Card.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Freminet.png"
             ,
             height="256"
           />
