@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Mar 17, 2024 17:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 18, 2024 03:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -116,22 +116,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>17</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>18</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Mora</b>
+      <b>20 x Primogem</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-03-17 04:07:37+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-03-18 04:07:48+08:00</b></td>
   </tr>
 </table>
 
@@ -9793,22 +9793,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>17</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>18</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Condensed Aether</b>
+      <b>2 x Lost Gold Fragment</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-03-17 04:07:40+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-03-18 04:07:49+08:00</b></td>
   </tr>
 </table>
 
@@ -9826,7 +9826,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>308</b></td>
+    <td><b>309</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9851,7 +9851,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>2795</b> <code>(rate -78)</code></td>
+    <td align="center"><b>3405</b> <code>(rate -73)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9872,472 +9872,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>2290</b> <code>(81%)</code><br />Mail: <b>390</b>
-      <code>(13%)</code><br />Simulated Universe: <b>115</b> <code>(4%)</code
-      ><br />Other: <b>0</b> <code>(2%)</code><br />Event: <b>0</b>
-      <code>(0%)</code><br />Adventure Rewards: <b>0</b> <code>(0%)</code
+      Daily Activity: <b>2400</b> <code>(70%)</code><br />Event: <b>500</b>
+      <code>(14%)</code><br />Mail: <b>390</b> <code>(11%)</code><br />Simulated
+      Universe: <b>115</b> <code>(3%)</code><br />Other: <b>0</b>
+      <code>(2%)</code><br />Adventure Rewards: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
-    </td>
-  </tr>
-</table>
-<h2 align="center">
-  <img
-    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
-    height="20"
-  />
-  Memory of Chaos
-  <img
-    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
-    height="20"
-  />
-</h2>
-<table align="center">
-  <tr>
-    <td>Season</td>
-    <td align="center"><b>1011</b></td>
-  </tr>
-  <tr>
-    <td>Max Floor</td>
-    <td align="center"><b>Dreamland of Longing (9)</b></td>
-  </tr>
-  <tr>
-    <td>Total Battles</td>
-    <td align="center"><b>13</b></td>
-  </tr>
-  <tr>
-    <td>Total Stars</td>
-    <td align="center"><b>27</b></td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Dreamland of Longing (9)</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>10</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/d7a960d151d792642abbc1555303aadd.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/03229f12f76a539831f5383a9e0399df.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/7f62cb2f0e4b263bedec5f38d42b8d71.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f6cd2b655edbc1c2fb6029230d04aeb8.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/ca06f18257659c28762f427edfa81c8d.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/29a91ca09205c3c5c54903adeeb8009d.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9220e157521748aec2327acd54b04d81.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/a7e74422977c58085cc9e34a97d941b8.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Dreamland of Longing (8)</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>8</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/d7a960d151d792642abbc1555303aadd.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/03229f12f76a539831f5383a9e0399df.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/7f62cb2f0e4b263bedec5f38d42b8d71.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f6cd2b655edbc1c2fb6029230d04aeb8.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/36074c5f849b436698ee7c4e3c312efc.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/29a91ca09205c3c5c54903adeeb8009d.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9220e157521748aec2327acd54b04d81.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/a7e74422977c58085cc9e34a97d941b8.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Dreamland of Longing (7)</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>7</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/d7a960d151d792642abbc1555303aadd.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f6cd2b655edbc1c2fb6029230d04aeb8.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/7f62cb2f0e4b263bedec5f38d42b8d71.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/c412ec7973f74c99b0bf66a0055b0167.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/36074c5f849b436698ee7c4e3c312efc.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/29a91ca09205c3c5c54903adeeb8009d.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9220e157521748aec2327acd54b04d81.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/a7e74422977c58085cc9e34a97d941b8.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Dreamland of Longing (6)</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>6</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/36074c5f849b436698ee7c4e3c312efc.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/29a91ca09205c3c5c54903adeeb8009d.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9220e157521748aec2327acd54b04d81.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/b3cad842e30b2e6eb2fd20d0d6271162.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f35bed80b5debb79aaf1f860691e9933.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f6cd2b655edbc1c2fb6029230d04aeb8.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/7f62cb2f0e4b263bedec5f38d42b8d71.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/a7e74422977c58085cc9e34a97d941b8.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Dreamland of Longing (5)</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>5</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/d7a960d151d792642abbc1555303aadd.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f6cd2b655edbc1c2fb6029230d04aeb8.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/7f62cb2f0e4b263bedec5f38d42b8d71.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/c412ec7973f74c99b0bf66a0055b0167.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/36074c5f849b436698ee7c4e3c312efc.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/29a91ca09205c3c5c54903adeeb8009d.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9220e157521748aec2327acd54b04d81.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/a7e74422977c58085cc9e34a97d941b8.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Dreamland of Longing (4)</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>6</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/36074c5f849b436698ee7c4e3c312efc.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/29a91ca09205c3c5c54903adeeb8009d.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9220e157521748aec2327acd54b04d81.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/a7e74422977c58085cc9e34a97d941b8.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/d7a960d151d792642abbc1555303aadd.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f6cd2b655edbc1c2fb6029230d04aeb8.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/7f62cb2f0e4b263bedec5f38d42b8d71.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/c412ec7973f74c99b0bf66a0055b0167.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Dreamland of Longing (3)</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>4</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/d7a960d151d792642abbc1555303aadd.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f6cd2b655edbc1c2fb6029230d04aeb8.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/7f62cb2f0e4b263bedec5f38d42b8d71.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/c412ec7973f74c99b0bf66a0055b0167.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/36074c5f849b436698ee7c4e3c312efc.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/29a91ca09205c3c5c54903adeeb8009d.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9220e157521748aec2327acd54b04d81.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/a7e74422977c58085cc9e34a97d941b8.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Dreamland of Longing (2)</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>4</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/d7a960d151d792642abbc1555303aadd.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f6cd2b655edbc1c2fb6029230d04aeb8.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/7f62cb2f0e4b263bedec5f38d42b8d71.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/c412ec7973f74c99b0bf66a0055b0167.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/36074c5f849b436698ee7c4e3c312efc.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/29a91ca09205c3c5c54903adeeb8009d.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9220e157521748aec2327acd54b04d81.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/a7e74422977c58085cc9e34a97d941b8.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Dreamland of Longing (1)</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>2</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f35bed80b5debb79aaf1f860691e9933.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f6cd2b655edbc1c2fb6029230d04aeb8.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/55b07180706a7703dee6ddecf0eabe3e.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/7f62cb2f0e4b263bedec5f38d42b8d71.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/ca06f18257659c28762f427edfa81c8d.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9220e157521748aec2327acd54b04d81.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/a7e74422977c58085cc9e34a97d941b8.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/b3cad842e30b2e6eb2fd20d0d6271162.png"
-        height="18"
-      />
     </td>
   </tr>
 </table>
