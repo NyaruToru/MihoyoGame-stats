@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Mar 18, 2024 17:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 18, 2024 22:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -169,7 +169,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>961</b></td>
+    <td align="center"><b>962</b></td>
   </tr>
   <tr>
     <td>
@@ -225,7 +225,7 @@
       />
       Dendroculus
     </td>
-    <td align="center"><b>192</b></td>
+    <td align="center"><b>193</b></td>
   </tr>
   <tr>
     <td>
@@ -250,7 +250,7 @@
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>1388</b></td>
+    <td align="center"><b>1389</b></td>
   </tr>
   <tr>
     <td>
@@ -283,7 +283,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>8-3</b></td>
+    <td align="center"><b>9-1</b></td>
   </tr>
 </table>
 
@@ -774,27 +774,80 @@
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td></td>
+    <td>
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      <b>Nahida</b> <code>(1)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      <b>Yae Miko</b> <code>(1)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      <b>Yelan</b> <code>(1)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Alhatham.png"
+        ,
+        height="18"
+      />
+      <b>Alhaitham</b> <code>(1)</code><br />
+    </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td></td>
+    <td>
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      <b>Raiden Shogun</b> <code>(6)</code><br />
+    </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td></td>
+    <td>
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      <b>Raiden Shogun</b> <code>(81260)</code><br />
+    </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td></td>
+    <td>
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
+        ,
+        height="18"
+      />
+      <b>Baizhu</b> <code>(9186)</code><br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td></td>
+    <td>
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      <b>Yelan</b> <code>(2)</code><br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td></td>
+    <td>
+      <img src="https://enka.network/ui/UI_AvatarIcon_Yae.png" , height="18" />
+      <b>Yae Miko</b> <code>(6)</code><br />
+    </td>
   </tr>
 </table>
 <h2 align="center">
@@ -811,7 +864,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>745</b> <code>(rate -67)</code></td>
+    <td align="center"><b>755</b> <code>(rate -67)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -822,16 +875,16 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>106037</b> <code>(rate -90)</code></td>
+    <td align="center"><b>132612</b> <code>(rate -88)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>720</b> <code>(97%)</code><br />Events: <b>20</b>
-      <code>(2%)</code><br />Adventure: <b>5</b> <code>(1%)</code><br />Daily
-      Activity: <b>0</b> <code>(0%)</code><br />Spiral Abyss: <b>0</b>
+      Mail: <b>720</b> <code>(96%)</code><br />Events: <b>20</b>
+      <code>(2%)</code><br />Daily Activity: <b>10</b> <code>(1%)</code
+      ><br />Adventure: <b>5</b> <code>(1%)</code><br />Spiral Abyss: <b>0</b>
       <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
       <b>0</b> <code>(0%)</code><br />
     </td>
@@ -9906,7 +9959,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>407</b></td>
+    <td><b>408</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -9923,7 +9976,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>4000</b> <code>(rate -68)</code></td>
+    <td align="center"><b>4440</b> <code>(rate -65)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9944,11 +9997,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>2530</b> <code>(63%)</code><br />Event: <b>500</b>
-      <code>(12%)</code><br />Mail: <b>390</b> <code>(9%)</code><br />Simulated
-      Universe: <b>340</b> <code>(8%)</code><br />Forgotten Hall: <b>240</b>
-      <code>(6%)</code><br />Other: <b>0</b> <code>(2%)</code><br />Adventure
-      Rewards: <b>0</b> <code>(0%)</code><br />
+      Daily Activity: <b>2550</b> <code>(57%)</code><br />Forgotten Hall:
+      <b>660</b> <code>(14%)</code><br />Event: <b>500</b> <code>(11%)</code
+      ><br />Mail: <b>390</b> <code>(8%)</code><br />Simulated Universe:
+      <b>340</b> <code>(7%)</code><br />Other: <b>0</b> <code>(3%)</code
+      ><br />Adventure Rewards: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -9970,15 +10023,255 @@
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td align="center"><b>Eve of Wanton Feast (4)</b></td>
+    <td align="center"><b>Eve of Wanton Feast (9)</b></td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>4</b></td>
+    <td align="center"><b>9</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td align="center"><b>12</b></td>
+    <td align="center"><b>26</b></td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>Eve of Wanton Feast (9)</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>2 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>11</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/d7a960d151d792642abbc1555303aadd.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/03229f12f76a539831f5383a9e0399df.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/7f62cb2f0e4b263bedec5f38d42b8d71.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f6cd2b655edbc1c2fb6029230d04aeb8.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/29a91ca09205c3c5c54903adeeb8009d.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9220e157521748aec2327acd54b04d81.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/36074c5f849b436698ee7c4e3c312efc.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/a7e74422977c58085cc9e34a97d941b8.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>Eve of Wanton Feast (8)</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>3 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>8</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/d7a960d151d792642abbc1555303aadd.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/03229f12f76a539831f5383a9e0399df.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/7f62cb2f0e4b263bedec5f38d42b8d71.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f6cd2b655edbc1c2fb6029230d04aeb8.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/29a91ca09205c3c5c54903adeeb8009d.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9220e157521748aec2327acd54b04d81.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/36074c5f849b436698ee7c4e3c312efc.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/a7e74422977c58085cc9e34a97d941b8.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>Eve of Wanton Feast (7)</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>3 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>6</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/d7a960d151d792642abbc1555303aadd.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/03229f12f76a539831f5383a9e0399df.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/7f62cb2f0e4b263bedec5f38d42b8d71.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f6cd2b655edbc1c2fb6029230d04aeb8.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/29a91ca09205c3c5c54903adeeb8009d.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9220e157521748aec2327acd54b04d81.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/36074c5f849b436698ee7c4e3c312efc.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/a7e74422977c58085cc9e34a97d941b8.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>Eve of Wanton Feast (6)</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>3 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>8</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/d7a960d151d792642abbc1555303aadd.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/03229f12f76a539831f5383a9e0399df.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/7f62cb2f0e4b263bedec5f38d42b8d71.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f6cd2b655edbc1c2fb6029230d04aeb8.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/29a91ca09205c3c5c54903adeeb8009d.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9220e157521748aec2327acd54b04d81.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/36074c5f849b436698ee7c4e3c312efc.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/a7e74422977c58085cc9e34a97d941b8.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>Eve of Wanton Feast (5)</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>3 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>9</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/29a91ca09205c3c5c54903adeeb8009d.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9220e157521748aec2327acd54b04d81.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/36074c5f849b436698ee7c4e3c312efc.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/a7e74422977c58085cc9e34a97d941b8.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/d7a960d151d792642abbc1555303aadd.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/03229f12f76a539831f5383a9e0399df.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/7f62cb2f0e4b263bedec5f38d42b8d71.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f6cd2b655edbc1c2fb6029230d04aeb8.png"
+        height="18"
+      />
+    </td>
   </tr>
   <tr>
     <td>Name</td>
@@ -11983,57 +12276,7 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/4d1ecab30f05b1da03d45c4c31c91dd5.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Champion's Headgear<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/2a63791b5116819371639f7c4b7f9f80.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Champion's Heavy Gloves<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f6b79462b286f95808eba2633d034daf.png"
-                ,
-                height="25"
-              />
-              <code>+11</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Champion's Chest Guard<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/64dbb66148934cff150ccea41dcd9aab.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Champion's Fleetfoot Boots<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Planar</td>
-            <td align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/b9a7fc3c90746d5011990fd94f5c4481.png"
-                ,
-                height="25"
-              />
-              <code>+14</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Herta's Space Station<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/d427e449694ca6968b79dcbfcf8a899b.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Herta's Wandering Trek<br />
-            </td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -12223,7 +12466,57 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td align="center"></td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/4d1ecab30f05b1da03d45c4c31c91dd5.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Champion's Headgear<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/2a63791b5116819371639f7c4b7f9f80.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Champion's Heavy Gloves<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f6b79462b286f95808eba2633d034daf.png"
+                ,
+                height="25"
+              />
+              <code>+11</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Champion's Chest Guard<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/64dbb66148934cff150ccea41dcd9aab.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Champion's Fleetfoot Boots<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Planar</td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/dbb97f65546fc4ed28fe0a9a923ef73c.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Salsotto's Moving City<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/84481bab9b4eb9fa45fae146b1d76d0a.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Salsotto's Terminator Line<br />
+            </td>
           </tr>
         </table>
       </td>
