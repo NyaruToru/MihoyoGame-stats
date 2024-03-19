@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Mar 19, 2024 12:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 19, 2024 17:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -169,7 +169,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>962</b></td>
+    <td align="center"><b>963</b></td>
   </tr>
   <tr>
     <td>
@@ -776,11 +776,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      <b>Yelan</b> <code>(1)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Alhatham.png"
         ,
         height="18"
@@ -795,7 +790,12 @@
         ,
         height="18"
       />
-      <b>Kaedehara Kazuha</b> <code>(1)</code><br />
+      <b>Kaedehara Kazuha</b> <code>(1)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
+        ,
+        height="18"
+      />
+      <b>Baizhu</b> <code>(1)</code><br />
     </td>
   </tr>
   <tr>
@@ -9976,7 +9976,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>5260</b> <code>(rate -58)</code></td>
+    <td align="center"><b>5320</b> <code>(rate -58)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9998,7 +9998,7 @@
     </td>
     <td>
       Daily Activity: <b>2680</b> <code>(50%)</code><br />Other: <b>680</b>
-      <code>(16%)</code><br />Forgotten Hall: <b>660</b> <code>(12%)</code
+      <code>(15%)</code><br />Forgotten Hall: <b>720</b> <code>(13%)</code
       ><br />Event: <b>500</b> <code>(9%)</code><br />Mail: <b>390</b>
       <code>(7%)</code><br />Simulated Universe: <b>340</b> <code>(6%)</code
       ><br />Adventure Rewards: <b>10</b> <code>(0%)</code><br />
@@ -10027,11 +10027,11 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>9</b></td>
+    <td align="center"><b>10</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td align="center"><b>26</b></td>
+    <td align="center"><b>27</b></td>
   </tr>
   <tr>
     <td>Name</td>
@@ -10039,11 +10039,11 @@
   </tr>
   <tr>
     <td>Floor</td>
-    <td align="center"><b>2 Stars</b></td>
+    <td align="center"><b>3 Stars</b></td>
   </tr>
   <tr>
     <td>Cycles used</td>
-    <td align="center"><b>11</b></td>
+    <td align="center"><b>8</b></td>
   </tr>
   <tr>
     <td>Party 1</td>
