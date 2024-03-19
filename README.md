@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Mar 19, 2024 22:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 20, 2024 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -116,22 +116,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>19</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>20</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Fisherman's Toast</b>
+      <b>3 x Adventurer's Experience</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-03-19 04:07:38+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-03-20 04:08:20+08:00</b></td>
   </tr>
 </table>
 
@@ -776,16 +776,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Alhatham.png"
-        ,
-        height="18"
-      />
-      <b>Alhaitham</b> <code>(1)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(1)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -795,7 +785,17 @@
         ,
         height="18"
       />
-      <b>Baizhu</b> <code>(1)</code><br />
+      <b>Baizhu</b> <code>(1)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      <b>Raiden Shogun</b> <code>(1)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      <b>Nahida</b> <code>(1)</code><br />
     </td>
   </tr>
   <tr>
@@ -875,7 +875,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>213914</b> <code>(rate -80)</code></td>
+    <td align="center"><b>237008</b> <code>(rate -78)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9918,22 +9918,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>19</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>20</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
           ,
           height="80" /></a
       ><br />
-      <b>8000 x Credit</b>
+      <b>20 x Stellar Jade</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-03-19 04:07:39+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-03-20 04:08:22+08:00</b></td>
   </tr>
 </table>
 
@@ -9976,7 +9976,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>5320</b> <code>(rate -58)</code></td>
+    <td align="center"><b>5620</b> <code>(rate -55)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9997,10 +9997,10 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>2680</b> <code>(50%)</code><br />Other: <b>680</b>
-      <code>(15%)</code><br />Forgotten Hall: <b>720</b> <code>(13%)</code
-      ><br />Event: <b>500</b> <code>(9%)</code><br />Mail: <b>390</b>
-      <code>(7%)</code><br />Simulated Universe: <b>340</b> <code>(6%)</code
+      Daily Activity: <b>2740</b> <code>(48%)</code><br />Forgotten Hall:
+      <b>960</b> <code>(17%)</code><br />Other: <b>680</b> <code>(15%)</code
+      ><br />Event: <b>500</b> <code>(8%)</code><br />Simulated Universe:
+      <b>340</b> <code>(6%)</code><br />Mail: <b>390</b> <code>(6%)</code
       ><br />Adventure Rewards: <b>10</b> <code>(0%)</code><br />
     </td>
   </tr>
