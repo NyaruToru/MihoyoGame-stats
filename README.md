@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Mar 20, 2024 07:34 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 20, 2024 12:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -776,6 +776,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
+        ,
+        height="18"
+      />
+      <b>Baizhu</b> <code>(1)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
@@ -790,12 +795,7 @@
         ,
         height="18"
       />
-      <b>Yae Miko</b> <code>(1)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      <b>Yelan</b> <code>(1)</code><br />
+      <b>Yae Miko</b> <code>(1)</code><br />
     </td>
   </tr>
   <tr>
@@ -9959,7 +9959,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>408</b></td>
+    <td><b>409</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -9976,7 +9976,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>5710</b> <code>(rate -55)</code></td>
+    <td align="center"><b>5850</b> <code>(rate -54)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9997,11 +9997,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>2830</b> <code>(49%)</code><br />Forgotten Hall:
-      <b>960</b> <code>(16%)</code><br />Other: <b>680</b> <code>(16%)</code
-      ><br />Event: <b>500</b> <code>(8%)</code><br />Mail: <b>390</b>
-      <code>(6%)</code><br />Simulated Universe: <b>340</b> <code>(5%)</code
-      ><br />Adventure Rewards: <b>10</b> <code>(0%)</code><br />
+      Daily Activity: <b>2840</b> <code>(48%)</code><br />Forgotten Hall:
+      <b>960</b> <code>(16%)</code><br />Other: <b>680</b> <code>(15%)</code
+      ><br />Event: <b>500</b> <code>(8%)</code><br />Mail: <b>510</b>
+      <code>(8%)</code><br />Simulated Universe: <b>340</b> <code>(5%)</code
+      ><br />Adventure Rewards: <b>20</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -10838,54 +10838,54 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/95a79bcdb0a03e9cf52892fd40af8e0e.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/8bc5d855f7df0d863f90e4ad2a880ac4.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Watchmaker's Telescoping Lens<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/e6edb51fddd8a015a6389a4896128628.png"
+              Thief's Myriad-Faced Mask<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/4d2176bb66512a3072224d82b37013db.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Watchmaker's Fortuitous Wristwatch<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/0b02c7715628207e9698c7121e1d3d90.png"
+              Thief's Gloves With Prints<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/beb563d0434aca8e8ee1c9fa9d838717.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Watchmaker's Illusory Formal Suit<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/daefc4b6aea1cdc118cdb009fc4c87f6.png"
+              Thief's Steel Grappling Hook<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/555a34f48acf4ab268d3367f675fe919.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Watchmaker's Dream-Concealing Dress Shoes<br />
+              Thief's Meteor Boots<br />
             </td>
           </tr>
           <tr>
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/83091bd3caa45b25f8ed7a3a6540d378.png"
-                ,
-                height="25"
-              />
-              <code>+12</code><br />
-              ⭐⭐⭐⭐<br />
-              Penacony's Grand Hotel<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/3a189f882067665cff982256dd26ef96.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f335e313dccb0eb8bb4a52fe18475325.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Penacony's Dream-Seeking Tracks<br />
+              Talia's Nailscrap Town<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/6ebbed98091fce4fb291d649c862bb77.png"
+                ,
+                height="25"
+              />
+              <code>+12</code><br />
+              ⭐⭐⭐⭐<br />
+              Talia's Exposed Electric Wire<br />
             </td>
           </tr>
         </table>
@@ -12758,13 +12758,13 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/8bc5d855f7df0d863f90e4ad2a880ac4.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/95a79bcdb0a03e9cf52892fd40af8e0e.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Thief's Myriad-Faced Mask<br /><img
+              Watchmaker's Telescoping Lens<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/4d2176bb66512a3072224d82b37013db.png"
                 ,
                 height="25"
@@ -14985,7 +14985,37 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td align="center"></td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/69e31493e564b8c71c4746196b78bd65.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Pioneer's Heatproof Shell<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/81dcfccad34fca5fd9206510a2122c1d.png"
+                ,
+                height="25"
+              />
+              <code>+3</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Pioneer's Lacuna Compass<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/5b45bd188c670bb9c280758088e0e5e6.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Pioneer's Sealed Lead Apron<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/b0219fa80bc5c1ab949a640bcb6ef8d7.png"
+                ,
+                height="25"
+              />
+              <code>+3</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Pioneer's Starfaring Anchor<br />
+            </td>
           </tr>
         </table>
       </td>
