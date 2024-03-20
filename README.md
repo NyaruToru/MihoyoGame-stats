@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Mar 20, 2024 17:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 20, 2024 22:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -775,7 +775,13 @@
   <tr>
     <td>Most Played Characters</td>
     <td>
-      <img
+      <img src="https://enka.network/ui/UI_AvatarIcon_Yae.png" , height="18" />
+      <b>Yae Miko</b> <code>(1)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      <b>Yelan</b> <code>(1)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Alhatham.png"
         ,
         height="18"
@@ -785,17 +791,7 @@
         ,
         height="18"
       />
-      <b>Zhongli</b> <code>(1)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      <b>Kaedehara Kazuha</b> <code>(1)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
-        ,
-        height="18"
-      />
-      <b>Baizhu</b> <code>(1)</code><br />
+      <b>Zhongli</b> <code>(1)</code><br />
     </td>
   </tr>
   <tr>
@@ -11311,7 +11307,7 @@
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+12</code><br />
               ⭐⭐⭐⭐⭐<br />
               Salsotto's Moving City<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/84481bab9b4eb9fa45fae146b1d76d0a.png"
@@ -11801,10 +11797,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/c68a97bc1a0258d364b78121ba5d9cc9.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/662b44799cf838a8088a9d49d3bf9495.png"
             height="20"
           />
-          Dance! Dance! Dance!
+          Past and Future
         </h3>
       </th>
     </tr>
@@ -11819,7 +11815,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/c68a97bc1a0258d364b78121ba5d9cc9.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/662b44799cf838a8088a9d49d3bf9495.png"
           />
         </p>
       </td>
@@ -11909,15 +11905,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Dance! Dance! Dance!</td>
+            <td align="center">Past and Future</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+70</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>4</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -12516,7 +12512,7 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Salsotto's Moving City<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/84481bab9b4eb9fa45fae146b1d76d0a.png"
@@ -12716,10 +12712,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/662b44799cf838a8088a9d49d3bf9495.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/c68a97bc1a0258d364b78121ba5d9cc9.png"
             height="20"
           />
-          Past and Future
+          Dance! Dance! Dance!
         </h3>
       </th>
     </tr>
@@ -12734,7 +12730,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/662b44799cf838a8088a9d49d3bf9495.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/c68a97bc1a0258d364b78121ba5d9cc9.png"
           />
         </p>
       </td>
@@ -12824,15 +12820,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Past and Future</td>
+            <td align="center">Dance! Dance! Dance!</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+70</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>4</code></td>
           </tr>
         </table>
       </td>
