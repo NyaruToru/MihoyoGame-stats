@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Mar 20, 2024 22:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 21, 2024 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -116,22 +116,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>20</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>21</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventurer's Experience</b>
+      <b>8000 x Mora</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-03-20 04:08:20+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-03-21 04:08:42+08:00</b></td>
   </tr>
 </table>
 
@@ -775,23 +775,27 @@
   <tr>
     <td>Most Played Characters</td>
     <td>
-      <img src="https://enka.network/ui/UI_AvatarIcon_Yae.png" , height="18" />
-      <b>Yae Miko</b> <code>(1)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
       />
-      <b>Yelan</b> <code>(1)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Alhatham.png"
+      <b>Baizhu</b> <code>(1)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      <b>Alhaitham</b> <code>(1)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+      <b>Raiden Shogun</b> <code>(1)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      <b>Zhongli</b> <code>(1)</code><br />
+      <b>Nahida</b> <code>(1)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      <b>Yae Miko</b> <code>(1)</code><br />
     </td>
   </tr>
   <tr>
@@ -9914,22 +9918,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>20</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>21</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      <b>20 x Stellar Jade</b>
+      <b>3 x Adventure Log</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-03-20 04:08:22+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-03-21 00:01:19+08:00</b></td>
   </tr>
 </table>
 
@@ -9972,7 +9976,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>6525</b> <code>(rate -48)</code></td>
+    <td align="center"><b>6635</b> <code>(rate -47)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9993,10 +9997,10 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>2890</b> <code>(44%)</code><br />Event: <b>1000</b>
+      Daily Activity: <b>2890</b> <code>(43%)</code><br />Event: <b>1000</b>
       <code>(15%)</code><br />Forgotten Hall: <b>960</b> <code>(14%)</code
-      ><br />Other: <b>680</b> <code>(14%)</code><br />Mail: <b>510</b>
-      <code>(7%)</code><br />Simulated Universe: <b>455</b> <code>(6%)</code
+      ><br />Other: <b>680</b> <code>(13%)</code><br />Simulated Universe:
+      <b>565</b> <code>(8%)</code><br />Mail: <b>510</b> <code>(7%)</code
       ><br />Adventure Rewards: <b>30</b> <code>(0%)</code><br />
     </td>
   </tr>
