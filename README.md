@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Mar 20, 2024 03:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 20, 2024 07:34 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -776,16 +776,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      <b>Kaedehara Kazuha</b> <code>(1)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
-        ,
-        height="18"
-      />
-      <b>Baizhu</b> <code>(1)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
@@ -795,7 +785,17 @@
         ,
         height="18"
       />
-      <b>Nahida</b> <code>(1)</code><br />
+      <b>Nahida</b> <code>(1)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      <b>Yae Miko</b> <code>(1)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      <b>Yelan</b> <code>(1)</code><br />
     </td>
   </tr>
   <tr>
@@ -9951,7 +9951,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>311</b></td>
+    <td><b>312</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9976,7 +9976,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>5620</b> <code>(rate -55)</code></td>
+    <td align="center"><b>5710</b> <code>(rate -55)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9997,10 +9997,10 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>2740</b> <code>(48%)</code><br />Forgotten Hall:
-      <b>960</b> <code>(17%)</code><br />Other: <b>680</b> <code>(15%)</code
-      ><br />Event: <b>500</b> <code>(8%)</code><br />Simulated Universe:
-      <b>340</b> <code>(6%)</code><br />Mail: <b>390</b> <code>(6%)</code
+      Daily Activity: <b>2830</b> <code>(49%)</code><br />Forgotten Hall:
+      <b>960</b> <code>(16%)</code><br />Other: <b>680</b> <code>(16%)</code
+      ><br />Event: <b>500</b> <code>(8%)</code><br />Mail: <b>390</b>
+      <code>(6%)</code><br />Simulated Universe: <b>340</b> <code>(5%)</code
       ><br />Adventure Rewards: <b>10</b> <code>(0%)</code><br />
     </td>
   </tr>
