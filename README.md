@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Mar 21, 2024 17:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 21, 2024 22:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -776,11 +776,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      <b>Raiden Shogun</b> <code>(1)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
@@ -795,7 +790,12 @@
         ,
         height="18"
       />
-      <b>Yelan</b> <code>(1)</code><br />
+      <b>Yelan</b> <code>(1)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Alhatham.png"
+        ,
+        height="18"
+      />
+      <b>Alhaitham</b> <code>(1)</code><br />
     </td>
   </tr>
   <tr>
@@ -9976,7 +9976,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>6785</b> <code>(rate -46)</code></td>
+    <td align="center"><b>6845</b> <code>(rate -46)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9998,7 +9998,7 @@
     </td>
     <td>
       Daily Activity: <b>3040</b> <code>(44%)</code><br />Event: <b>1000</b>
-      <code>(14%)</code><br />Forgotten Hall: <b>960</b> <code>(14%)</code
+      <code>(14%)</code><br />Forgotten Hall: <b>1020</b> <code>(14%)</code
       ><br />Other: <b>680</b> <code>(13%)</code><br />Simulated Universe:
       <b>565</b> <code>(8%)</code><br />Mail: <b>510</b> <code>(7%)</code
       ><br />Adventure Rewards: <b>30</b> <code>(0%)</code><br />
