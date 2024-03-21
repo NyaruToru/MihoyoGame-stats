@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Mar 21, 2024 03:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 21, 2024 07:35 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -776,6 +776,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      <b>Kaedehara Kazuha</b> <code>(1)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
@@ -790,12 +795,7 @@
         ,
         height="18"
       />
-      <b>Nahida</b> <code>(1)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      <b>Yae Miko</b> <code>(1)</code><br />
+      <b>Nahida</b> <code>(1)</code><br />
     </td>
   </tr>
   <tr>
@@ -9951,7 +9951,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>312</b></td>
+    <td><b>313</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9976,7 +9976,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>6635</b> <code>(rate -47)</code></td>
+    <td align="center"><b>6725</b> <code>(rate -47)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9997,8 +9997,8 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>2890</b> <code>(43%)</code><br />Event: <b>1000</b>
-      <code>(15%)</code><br />Forgotten Hall: <b>960</b> <code>(14%)</code
+      Daily Activity: <b>2980</b> <code>(44%)</code><br />Event: <b>1000</b>
+      <code>(14%)</code><br />Forgotten Hall: <b>960</b> <code>(14%)</code
       ><br />Other: <b>680</b> <code>(13%)</code><br />Simulated Universe:
       <b>565</b> <code>(8%)</code><br />Mail: <b>510</b> <code>(7%)</code
       ><br />Adventure Rewards: <b>30</b> <code>(0%)</code><br />
