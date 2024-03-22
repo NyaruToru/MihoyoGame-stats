@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Mar 22, 2024 17:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 22, 2024 22:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -169,7 +169,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>963</b></td>
+    <td align="center"><b>964</b></td>
   </tr>
   <tr>
     <td>
@@ -776,6 +776,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      <b>Kaedehara Kazuha</b> <code>(1)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
@@ -790,12 +795,7 @@
         ,
         height="18"
       />
-      <b>Nahida</b> <code>(1)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      <b>Yae Miko</b> <code>(1)</code><br />
+      <b>Nahida</b> <code>(1)</code><br />
     </td>
   </tr>
   <tr>
@@ -864,7 +864,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>815</b> <code>(rate -64)</code></td>
+    <td align="center"><b>1195</b> <code>(rate -48)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -875,18 +875,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>237008</b> <code>(rate -78)</code></td>
+    <td align="center"><b>573626</b> <code>(rate -49)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>720</b> <code>(89%)</code><br />Daily Activity: <b>70</b>
-      <code>(8%)</code><br />Events: <b>20</b> <code>(2%)</code><br />Adventure:
-      <b>5</b> <code>(1%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
-      ><br />Quests: <b>0</b> <code>(0%)</code><br />Other: <b>0</b>
-      <code>(0%)</code><br />
+      Mail: <b>720</b> <code>(60%)</code><br />Events: <b>360</b>
+      <code>(30%)</code><br />Daily Activity: <b>110</b> <code>(9%)</code
+      ><br />Adventure: <b>5</b> <code>(1%)</code><br />Spiral Abyss: <b>0</b>
+      <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
+      <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -931,11 +931,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/4ef3aba02547d78cb170bdfac933f56a.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/6d450508f600c9951dce8da2118df24b.png"
             ,
             height="20"
           />
-          Amenoma Kageuchi
+          Primordial Jade Cutter
         </h3>
       </th>
     </tr>
@@ -952,7 +952,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/4ef3aba02547d78cb170bdfac933f56a.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/6d450508f600c9951dce8da2118df24b.png"
             ,
             height="256"
           />
@@ -991,32 +991,32 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />2 x Noblesse Oblige<br />1 x Gilded Dreams<br />2 x
-              Blizzard Strayer<br />
+              Artifacts<br />2 x Blizzard Strayer<br />1 x Shimenawa's
+              Reminiscence<br />2 x Noblesse Oblige<br />
             </td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/b8275d27474926fa652ec066f1c7f6fb.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Royal Flora<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/ec664a1018320c2f2c5f600b91783bd9.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/120c88122a61a305d72be79ddb1d2bf2.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Feather of Judgment<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/e542004379e1452a81b92aa8fcbceb84.png"
+              Snowswept Memory<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/ab18afcd80d1ee8d4fe02ff1eff94989.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Frozen Homeland's Demise<br /><img
+              Shaft of Remembrance<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/fc786e4534c045cabdb507e0f05efc45.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Royal Pocket Watch<br /><img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/6d45bd980c9a22338d6a9289ce625d0e.png"
                 ,
                 height="25"
@@ -1043,7 +1043,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Amenoma Kageuchi</td>
+            <td align="center">Primordial Jade Cutter</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -1051,7 +1051,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2552,11 +2552,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/941cf5dc17192318f1b70137214e3465.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/33b7ae6862f2622fd88543691c08d923.png"
             ,
             height="20"
           />
-          Favonius Sword
+          Key of Khaj-Nisut
         </h3>
       </th>
     </tr>
@@ -2573,7 +2573,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/941cf5dc17192318f1b70137214e3465.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/33b7ae6862f2622fd88543691c08d923.png"
             ,
             height="256"
           />
@@ -2664,7 +2664,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Favonius Sword</td>
+            <td align="center">Key of Khaj-Nisut</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -2672,7 +2672,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2684,7 +2684,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -2775,7 +2775,8 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />4 x Deepwood Memories<br />1 x Gilded Dreams<br />
+              Artifacts<br />4 x Deepwood Memories<br />1 x Gladiator's
+              Finale<br />
             </td>
             <td align="center">
               <img
@@ -2793,13 +2794,13 @@
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
               Scholar of Vines<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/bb418d4b6ab3c77390cba5cd734c4ec5.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/a4cc37f6db4098e15bc2f9e8be20585c.png"
                 ,
                 height="25"
               />
-              <code>+16</code><br />
+              <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              A Time of Insight<br /><img
+              Gladiator's Longing<br /><img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/6c282b7dafbb9dd2f6d6b223c89b95b9.png"
                 ,
                 height="25"
@@ -2807,13 +2808,13 @@
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
               Lamp of the Lost<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/2bced684328020e30a761ceb8918d248.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/77172642cb94af8ad0eff4421746072c.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Shadow of the Sand King<br />
+              Laurel Coronet<br />
             </td>
           </tr>
           <tr>
@@ -3040,11 +3041,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/6d450508f600c9951dce8da2118df24b.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/4ef3aba02547d78cb170bdfac933f56a.png"
             ,
             height="20"
           />
-          Primordial Jade Cutter
+          Amenoma Kageuchi
         </h3>
       </th>
     </tr>
@@ -3061,7 +3062,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/6d450508f600c9951dce8da2118df24b.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/4ef3aba02547d78cb170bdfac933f56a.png"
             ,
             height="256"
           />
@@ -3100,7 +3101,7 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />4 x Gilded Dreams<br />1 x Gladiator's Finale<br />
+              Artifacts<br />4 x Gilded Dreams<br />1 x Deepwood Memories<br />
             </td>
             <td align="center">
               <img
@@ -3118,13 +3119,13 @@
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
               Feather of Judgment<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/a4cc37f6db4098e15bc2f9e8be20585c.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/bb418d4b6ab3c77390cba5cd734c4ec5.png"
                 ,
                 height="25"
               />
-              <code>+20</code><br />
+              <code>+16</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Gladiator's Longing<br /><img
+              A Time of Insight<br /><img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/6d16fb696c0c588ac0cda0b86b217199.png"
                 ,
                 height="25"
@@ -3151,7 +3152,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Primordial Jade Cutter</td>
+            <td align="center">Amenoma Kageuchi</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -3159,7 +3160,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3424,24 +3425,24 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />2 x Gilded Dreams<br />3 x Deepwood Memories<br />
+              Artifacts<br />1 x Ocean-Hued Clam<br />4 x Deepwood Memories<br />
             </td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/ffeb0618068f3cfda8c7d811af615c53.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/45e49afc76c49f44493d186e6da0e366.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Dreaming Steelbloom<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/ec664a1018320c2f2c5f600b91783bd9.png"
+              Sea-Dyed Blossom<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/b72976bc76faf19c433041f2e866e2a3.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Feather of Judgment<br /><img
+              Scholar of Vines<br /><img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/bb418d4b6ab3c77390cba5cd734c4ec5.png"
                 ,
                 height="25"
@@ -4066,7 +4067,9 @@
             <td align="center"><code>5</code></td>
           </tr>
           <tr>
-            <td>Artifacts<br />5 x Noblesse Oblige<br /></td>
+            <td>
+              Artifacts<br />4 x Noblesse Oblige<br />1 x Blizzard Strayer<br />
+            </td>
             <td align="center">
               <img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/b8275d27474926fa652ec066f1c7f6fb.png"
@@ -4083,13 +4086,13 @@
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
               Royal Plume<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/fc786e4534c045cabdb507e0f05efc45.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/e542004379e1452a81b92aa8fcbceb84.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Royal Pocket Watch<br /><img
+              Frozen Homeland's Demise<br /><img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/6d45bd980c9a22338d6a9289ce625d0e.png"
                 ,
                 height="25"
@@ -4316,11 +4319,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/33b7ae6862f2622fd88543691c08d923.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/941cf5dc17192318f1b70137214e3465.png"
             ,
             height="20"
           />
-          Key of Khaj-Nisut
+          Favonius Sword
         </h3>
       </th>
     </tr>
@@ -4337,7 +4340,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/33b7ae6862f2622fd88543691c08d923.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/941cf5dc17192318f1b70137214e3465.png"
             ,
             height="256"
           />
@@ -4428,7 +4431,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Key of Khaj-Nisut</td>
+            <td align="center">Favonius Sword</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -4436,7 +4439,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -4448,7 +4451,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -5863,18 +5866,16 @@
             <td align="center"><code>2</code></td>
           </tr>
           <tr>
-            <td>
-              Artifacts<br />1 x Deepwood Memories<br />1 x Pale Flame<br />
-            </td>
+            <td>Artifacts<br />1 x Gilded Dreams<br />1 x Pale Flame<br /></td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/b72976bc76faf19c433041f2e866e2a3.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/ec664a1018320c2f2c5f600b91783bd9.png"
                 ,
                 height="25"
               />
-              <code>+20</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Scholar of Vines<br /><img
+              Feather of Judgment<br /><img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/9fd2ccfad8e411581f0d75212bab97d6.png"
                 ,
                 height="25"
@@ -6005,18 +6006,18 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />1 x Blizzard Strayer<br />1 x Deepwood Memories<br />1
-              x Gilded Dreams<br />
+              Artifacts<br />1 x Gladiator's Finale<br />1 x Deepwood
+              Memories<br />1 x Gilded Dreams<br />
             </td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/120c88122a61a305d72be79ddb1d2bf2.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/abcaf238d7549ffb13c746ba6834114b.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Snowswept Memory<br /><img
+              Gladiator's Nostalgia<br /><img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/b72976bc76faf19c433041f2e866e2a3.png"
                 ,
                 height="25"
@@ -6584,7 +6585,7 @@
           <tr>
             <td>
               Artifacts<br />1 x Shimenawa's Reminiscence<br />1 x Noblesse
-              Oblige<br />1 x Deepwood Memories<br />
+              Oblige<br />1 x Gilded Dreams<br />
             </td>
             <td align="center">
               <img
@@ -6602,13 +6603,13 @@
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
               Royal Silver Urn<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/77172642cb94af8ad0eff4421746072c.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/2bced684328020e30a761ceb8918d248.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Laurel Coronet<br />
+              Shadow of the Sand King<br />
             </td>
           </tr>
           <tr>
@@ -6884,17 +6885,17 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />1 x Deepwood Memories<br />1 x Noblesse Oblige<br />
+              Artifacts<br />1 x Gilded Dreams<br />1 x Noblesse Oblige<br />
             </td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/a2a7bd872f875d9af12e2ead9735947a.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/ffeb0618068f3cfda8c7d811af615c53.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Labyrinth Wayfarer<br /><img
+              Dreaming Steelbloom<br /><img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/7a7684130c886eecb5ae41690847da9c.png"
                 ,
                 height="25"
