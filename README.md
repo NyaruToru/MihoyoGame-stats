@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Mar 22, 2024 12:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 22, 2024 17:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -775,23 +775,27 @@
   <tr>
     <td>Most Played Characters</td>
     <td>
-      <img src="https://enka.network/ui/UI_AvatarIcon_Yae.png" , height="18" />
-      <b>Yae Miko</b> <code>(1)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
       />
-      <b>Yelan</b> <code>(1)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Alhatham.png"
+      <b>Baizhu</b> <code>(1)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      <b>Alhaitham</b> <code>(1)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+      <b>Raiden Shogun</b> <code>(1)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      <b>Zhongli</b> <code>(1)</code><br />
+      <b>Nahida</b> <code>(1)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      <b>Yae Miko</b> <code>(1)</code><br />
     </td>
   </tr>
   <tr>
