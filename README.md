@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Mar 23, 2024 03:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 23, 2024 07:33 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -776,11 +776,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      <b>Kaedehara Kazuha</b> <code>(1)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
@@ -795,7 +790,12 @@
         ,
         height="18"
       />
-      <b>Nahida</b> <code>(1)</code><br />
+      <b>Nahida</b> <code>(1)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      <b>Yae Miko</b> <code>(1)</code><br />
     </td>
   </tr>
   <tr>
