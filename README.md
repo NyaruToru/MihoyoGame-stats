@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Mar 23, 2024 22:09 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 24, 2024 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -116,22 +116,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>23</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>24</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      <b>5 x Fine Enhancement Ore</b>
+      <b>5000 x Mora</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-03-23 04:08:02+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-03-24 04:08:27+08:00</b></td>
   </tr>
 </table>
 
@@ -283,7 +283,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>9-1</b></td>
+    <td align="center"><b>11-3</b></td>
   </tr>
 </table>
 
@@ -777,48 +777,40 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      <b>Baizhu</b> <code>(1)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      <b>Raiden Shogun</b> <code>(1)</code><br /><img
+      <b>Zhongli</b> <code>(9)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      <b>Nahida</b> <code>(1)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Yae.png"
+      <b>Nahida</b> <code>(9)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
       />
-      <b>Yae Miko</b> <code>(1)</code><br />
+      <b>Baizhu</b> <code>(9)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Nilou.png"
+        ,
+        height="18"
+      />
+      <b>Nilou</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      <b>Raiden Shogun</b> <code>(6)</code><br />
+      <img src="https://enka.network/ui/UI_AvatarIcon_Itto.png" , height="18" />
+      <b>Arataki Itto</b> <code>(21)</code><br />
     </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
     <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      <b>Raiden Shogun</b> <code>(81260)</code><br />
+      <img src="https://enka.network/ui/UI_AvatarIcon_Itto.png" , height="18" />
+      <b>Arataki Itto</b> <code>(83172)</code><br />
     </td>
   </tr>
   <tr>
@@ -829,25 +821,29 @@
         ,
         height="18"
       />
-      <b>Baizhu</b> <code>(9186)</code><br />
+      <b>Baizhu</b> <code>(71721)</code><br />
     </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      <b>Yelan</b> <code>(2)</code><br />
+      <b>Nahida</b> <code>(27)</code><br />
     </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
     <td>
-      <img src="https://enka.network/ui/UI_AvatarIcon_Yae.png" , height="18" />
-      <b>Yae Miko</b> <code>(6)</code><br />
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      <b>Nahida</b> <code>(36)</code><br />
     </td>
   </tr>
 </table>
@@ -9920,22 +9916,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>23</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>24</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Lost Gold Fragment</b>
+      <b>8000 x Credit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-03-23 04:08:04+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-03-24 04:08:29+08:00</b></td>
   </tr>
 </table>
 
@@ -9978,7 +9974,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>7405</b> <code>(rate -41)</code></td>
+    <td align="center"><b>7465</b> <code>(rate -41)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9999,7 +9995,7 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>3280</b> <code>(44%)</code><br />Forgotten Hall:
+      Daily Activity: <b>3340</b> <code>(44%)</code><br />Forgotten Hall:
       <b>1200</b> <code>(16%)</code><br />Event: <b>1000</b> <code>(13%)</code
       ><br />Other: <b>680</b> <code>(12%)</code><br />Simulated Universe:
       <b>565</b> <code>(7%)</code><br />Mail: <b>510</b> <code>(6%)</code
