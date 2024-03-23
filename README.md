@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Mar 23, 2024 17:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 23, 2024 22:09 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -747,19 +747,20 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="./images/logo/floor.webp" , height="18" /> Max Floor: <b>9-1</b>
+      <img src="./images/logo/floor.webp" , height="18" /> Max Floor:
+      <b>11-3</b>
     </td>
     <td align="center">
       <img src="./images/logo/battle.webp" , height="18" /> Total Battles:
-      <b>2</b>
+      <b>10</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>1</b>
+      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>9</b>
     </td>
     <td align="center">
-      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>3</b>
+      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>27</b>
     </td>
   </tr>
   <tr>
@@ -776,26 +777,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Alhatham.png"
-        ,
-        height="18"
-      />
-      <b>Alhaitham</b> <code>(1)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(1)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      <b>Kaedehara Kazuha</b> <code>(1)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
       />
-      <b>Baizhu</b> <code>(1)</code><br />
+      <b>Baizhu</b> <code>(1)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      <b>Raiden Shogun</b> <code>(1)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      <b>Nahida</b> <code>(1)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      <b>Yae Miko</b> <code>(1)</code><br />
     </td>
   </tr>
   <tr>
@@ -864,7 +865,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1895</b> <code>(rate -18)</code></td>
+    <td align="center"><b>2345</b> <code>(rate 0)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -875,18 +876,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1118226</b> <code>(rate 0)</code></td>
+    <td align="center"><b>1503226</b> <code>(rate 33)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>1020</b> <code>(54%)</code><br />Mail: <b>720</b>
-      <code>(38%)</code><br />Daily Activity: <b>150</b> <code>(7%)</code
-      ><br />Adventure: <b>5</b> <code>(1%)</code><br />Spiral Abyss: <b>0</b>
-      <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
-      <b>0</b> <code>(0%)</code><br />
+      Events: <b>1020</b> <code>(44%)</code><br />Mail: <b>720</b>
+      <code>(30%)</code><br />Spiral Abyss: <b>450</b> <code>(19%)</code
+      ><br />Daily Activity: <b>150</b> <code>(6%)</code><br />Adventure:
+      <b>5</b> <code>(1%)</code><br />Quests: <b>0</b> <code>(0%)</code
+      ><br />Other: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -2064,11 +2065,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/66bd71753c25653171b35ed6ff1a9994.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/d2543b3409dfa70877d84df19cc0d0d7.png"
             ,
             height="20"
           />
-          Skyward Pride
+          Wolf's Gravestone
         </h3>
       </th>
     </tr>
@@ -2085,7 +2086,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/66bd71753c25653171b35ed6ff1a9994.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/d2543b3409dfa70877d84df19cc0d0d7.png"
             ,
             height="256"
           />
@@ -2176,7 +2177,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Skyward Pride</td>
+            <td align="center">Wolf's Gravestone</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -4939,11 +4940,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/d2543b3409dfa70877d84df19cc0d0d7.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/6ff651ebf5c496cf0259e27fe4bc2f32.png"
             ,
             height="20"
           />
-          Wolf's Gravestone
+          Whiteblind
         </h3>
       </th>
     </tr>
@@ -4960,7 +4961,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/d2543b3409dfa70877d84df19cc0d0d7.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/6ff651ebf5c496cf0259e27fe4bc2f32.png"
             ,
             height="256"
           />
@@ -5037,7 +5038,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Wolf's Gravestone</td>
+            <td align="center">Whiteblind</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -5045,15 +5046,15 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+70</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>4</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -6679,11 +6680,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/6ff651ebf5c496cf0259e27fe4bc2f32.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/66bd71753c25653171b35ed6ff1a9994.png"
             ,
             height="20"
           />
-          Whiteblind
+          Skyward Pride
         </h3>
       </th>
     </tr>
@@ -6700,7 +6701,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/6ff651ebf5c496cf0259e27fe4bc2f32.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/66bd71753c25653171b35ed6ff1a9994.png"
             ,
             height="256"
           />
@@ -6774,7 +6775,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Whiteblind</td>
+            <td align="center">Skyward Pride</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -6782,15 +6783,15 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+70</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>4</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -9977,7 +9978,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>7285</b> <code>(rate -42)</code></td>
+    <td align="center"><b>7405</b> <code>(rate -41)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9998,10 +9999,10 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>3280</b> <code>(45%)</code><br />Forgotten Hall:
-      <b>1080</b> <code>(14%)</code><br />Event: <b>1000</b> <code>(13%)</code
+      Daily Activity: <b>3280</b> <code>(44%)</code><br />Forgotten Hall:
+      <b>1200</b> <code>(16%)</code><br />Event: <b>1000</b> <code>(13%)</code
       ><br />Other: <b>680</b> <code>(12%)</code><br />Simulated Universe:
-      <b>565</b> <code>(7%)</code><br />Mail: <b>510</b> <code>(7%)</code
+      <b>565</b> <code>(7%)</code><br />Mail: <b>510</b> <code>(6%)</code
       ><br />Adventure Rewards: <b>170</b> <code>(2%)</code><br />
     </td>
   </tr>
@@ -10024,15 +10025,159 @@
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td align="center"><b>Eve of Wanton Feast (9)</b></td>
+    <td align="center"><b>Eve of Wanton Feast (12)</b></td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>10</b></td>
+    <td align="center"><b>18</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td align="center"><b>27</b></td>
+    <td align="center"><b>34</b></td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>Eve of Wanton Feast (12)</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>2 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>14</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f35bed80b5debb79aaf1f860691e9933.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/55b07180706a7703dee6ddecf0eabe3e.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/a7e74422977c58085cc9e34a97d941b8.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f6cd2b655edbc1c2fb6029230d04aeb8.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/d7a960d151d792642abbc1555303aadd.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/03229f12f76a539831f5383a9e0399df.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/7f62cb2f0e4b263bedec5f38d42b8d71.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/29a91ca09205c3c5c54903adeeb8009d.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>Eve of Wanton Feast (11)</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>2 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>12</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/ca06f18257659c28762f427edfa81c8d.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9220e157521748aec2327acd54b04d81.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/a7e74422977c58085cc9e34a97d941b8.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f6cd2b655edbc1c2fb6029230d04aeb8.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/d7a960d151d792642abbc1555303aadd.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/03229f12f76a539831f5383a9e0399df.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/7f62cb2f0e4b263bedec5f38d42b8d71.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/29a91ca09205c3c5c54903adeeb8009d.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>Eve of Wanton Feast (10)</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>3 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>7</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f35bed80b5debb79aaf1f860691e9933.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/55b07180706a7703dee6ddecf0eabe3e.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/a7e74422977c58085cc9e34a97d941b8.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f6cd2b655edbc1c2fb6029230d04aeb8.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/d7a960d151d792642abbc1555303aadd.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/03229f12f76a539831f5383a9e0399df.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/7f62cb2f0e4b263bedec5f38d42b8d71.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/29a91ca09205c3c5c54903adeeb8009d.png"
+        height="18"
+      />
+    </td>
   </tr>
   <tr>
     <td>Name</td>
@@ -10497,10 +10642,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/47e0d2dedc3197ef392fb50fbf693ed3.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/0e237eadebce22921314804306b77223.png"
             height="20"
           />
-          Moment of Victory
+          Trend of the Universal Market
         </h3>
       </th>
     </tr>
@@ -10515,7 +10660,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/47e0d2dedc3197ef392fb50fbf693ed3.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/0e237eadebce22921314804306b77223.png"
           />
         </p>
       </td>
@@ -10547,57 +10692,7 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/1afa83a5fe1370e8110db0f054286aee.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Knight's Forgiving Casque<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9869947840823516ba8ab2dbf80b7158.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Knight's Silent Oath Ring<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f76361518c5e2b046569d21b03ea8e89.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Knight's Solemn Breastplate<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/748205ef0b17f925844ba36e22afe5b9.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Knight's Iron Boots of Order<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Planar</td>
-            <td align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/2abb63de8518e23373fdef4ce32abf31.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Belobog's Fortress of Preservation<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/4d11c4c5dde899c2a0b295025c4db9c8.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Belobog's Iron Defense<br />
-            </td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -10605,15 +10700,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Moment of Victory</td>
+            <td align="center">Trend of the Universal Market</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+50</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -10787,10 +10882,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f92276f48959ccc62f98348001aeee5c.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/1cc5c20e480e9c08cfc4cd540e6e0f4b.png"
             height="20"
           />
-          Cruising in the Stellar Sea
+          Darting Arrow
         </h3>
       </th>
     </tr>
@@ -10805,7 +10900,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f92276f48959ccc62f98348001aeee5c.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/1cc5c20e480e9c08cfc4cd540e6e0f4b.png"
           />
         </p>
       </td>
@@ -10895,15 +10990,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Cruising in the Stellar Sea</td>
+            <td align="center">Darting Arrow</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+70</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>3</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -11802,10 +11897,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/0e237eadebce22921314804306b77223.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/47e0d2dedc3197ef392fb50fbf693ed3.png"
             height="20"
           />
-          Trend of the Universal Market
+          Moment of Victory
         </h3>
       </th>
     </tr>
@@ -11820,7 +11915,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/0e237eadebce22921314804306b77223.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/47e0d2dedc3197ef392fb50fbf693ed3.png"
           />
         </p>
       </td>
@@ -11858,28 +11953,28 @@
                 ,
                 height="25"
               />
-              <code>+4</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Knight's Forgiving Casque<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9869947840823516ba8ab2dbf80b7158.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Knight's Silent Oath Ring<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f76361518c5e2b046569d21b03ea8e89.png"
                 ,
                 height="25"
               />
-              <code>+8</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Knight's Solemn Breastplate<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/748205ef0b17f925844ba36e22afe5b9.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Knight's Iron Boots of Order<br />
             </td>
@@ -11892,7 +11987,7 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Belobog's Fortress of Preservation<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/4d11c4c5dde899c2a0b295025c4db9c8.png"
@@ -11910,15 +12005,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Trend of the Universal Market</td>
+            <td align="center">Moment of Victory</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+50</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -11947,10 +12042,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/1cc5c20e480e9c08cfc4cd540e6e0f4b.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f92276f48959ccc62f98348001aeee5c.png"
             height="20"
           />
-          Darting Arrow
+          Cruising in the Stellar Sea
         </h3>
       </th>
     </tr>
@@ -11965,7 +12060,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/1cc5c20e480e9c08cfc4cd540e6e0f4b.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f92276f48959ccc62f98348001aeee5c.png"
           />
         </p>
       </td>
@@ -12033,20 +12128,20 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/b9a7fc3c90746d5011990fd94f5c4481.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/dbb97f65546fc4ed28fe0a9a923ef73c.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Herta's Space Station<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9605c1d08336de9011df961c9d38405e.png"
+              Salsotto's Moving City<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/84481bab9b4eb9fa45fae146b1d76d0a.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Taikiyan's Arclight Race Track<br />
+              Salsotto's Terminator Line<br />
             </td>
           </tr>
         </table>
@@ -12055,15 +12150,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Darting Arrow</td>
+            <td align="center">Cruising in the Stellar Sea</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+70</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
         </table>
       </td>
@@ -12237,10 +12332,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/904bfc7be4637007b238c7e8cf5fd79d.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9b4e1e1aa9904e5f40dc432b256b6cd8.png"
             height="20"
           />
-          Fermata
+          Before the Tutorial Mission Starts
         </h3>
       </th>
     </tr>
@@ -12255,7 +12350,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/904bfc7be4637007b238c7e8cf5fd79d.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9b4e1e1aa9904e5f40dc432b256b6cd8.png"
           />
         </p>
       </td>
@@ -12345,15 +12440,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Fermata</td>
+            <td align="center">Before the Tutorial Mission Starts</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+1</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -12382,10 +12477,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9b4e1e1aa9904e5f40dc432b256b6cd8.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/5c248fcce2db7f0538e8ee2f98edfe15.png"
             height="20"
           />
-          Before the Tutorial Mission Starts
+          In the Name of the World
         </h3>
       </th>
     </tr>
@@ -12400,7 +12495,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9b4e1e1aa9904e5f40dc432b256b6cd8.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/5c248fcce2db7f0538e8ee2f98edfe15.png"
           />
         </p>
       </td>
@@ -12490,7 +12585,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Before the Tutorial Mission Starts</td>
+            <td align="center">In the Name of the World</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -12498,7 +12593,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -13277,10 +13372,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/5c248fcce2db7f0538e8ee2f98edfe15.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/904bfc7be4637007b238c7e8cf5fd79d.png"
             height="20"
           />
-          In the Name of the World
+          Fermata
         </h3>
       </th>
     </tr>
@@ -13295,7 +13390,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/5c248fcce2db7f0538e8ee2f98edfe15.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/904bfc7be4637007b238c7e8cf5fd79d.png"
           />
         </p>
       </td>
@@ -13385,11 +13480,11 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">In the Name of the World</td>
+            <td align="center">Fermata</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
@@ -13610,13 +13705,13 @@
               <code>+14</code><br />
               ⭐⭐⭐⭐⭐<br />
               Salsotto's Moving City<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/84481bab9b4eb9fa45fae146b1d76d0a.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9605c1d08336de9011df961c9d38405e.png"
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Salsotto's Terminator Line<br />
+              Taikiyan's Arclight Race Track<br />
             </td>
           </tr>
         </table>
@@ -14999,30 +15094,50 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Pioneer's Heatproof Shell<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/81dcfccad34fca5fd9206510a2122c1d.png"
                 ,
                 height="25"
               />
-              <code>+3</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Pioneer's Lacuna Compass<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/5b45bd188c670bb9c280758088e0e5e6.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Pioneer's Sealed Lead Apron<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/b0219fa80bc5c1ab949a640bcb6ef8d7.png"
                 ,
                 height="25"
               />
-              <code>+3</code><br />
+              <code>+12</code><br />
               ⭐⭐⭐⭐⭐<br />
               Pioneer's Starfaring Anchor<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Planar</td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/61404f17187edca3deb65f2dc1d3cf08.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Taikiyan Laser Stadium<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9605c1d08336de9011df961c9d38405e.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Taikiyan's Arclight Race Track<br />
             </td>
           </tr>
         </table>
