@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Mar 23, 2024 07:33 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 23, 2024 12:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -169,7 +169,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>964</b></td>
+    <td align="center"><b>965</b></td>
   </tr>
   <tr>
     <td>
@@ -700,7 +700,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>1017</code></td>
+    <td align="center"><code>1018</code></td>
   </tr>
   <tr>
     <td>
@@ -776,6 +776,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      <b>Kaedehara Kazuha</b> <code>(1)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
@@ -790,12 +795,7 @@
         ,
         height="18"
       />
-      <b>Nahida</b> <code>(1)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      <b>Yae Miko</b> <code>(1)</code><br />
+      <b>Nahida</b> <code>(1)</code><br />
     </td>
   </tr>
   <tr>
@@ -864,7 +864,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1195</b> <code>(rate -48)</code></td>
+    <td align="center"><b>1705</b> <code>(rate -26)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -875,15 +875,15 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>573626</b> <code>(rate -49)</code></td>
+    <td align="center"><b>1069926</b> <code>(rate -4)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>720</b> <code>(60%)</code><br />Events: <b>360</b>
-      <code>(30%)</code><br />Daily Activity: <b>110</b> <code>(9%)</code
+      Events: <b>870</b> <code>(51%)</code><br />Mail: <b>720</b>
+      <code>(42%)</code><br />Daily Activity: <b>110</b> <code>(6%)</code
       ><br />Adventure: <b>5</b> <code>(1%)</code><br />Spiral Abyss: <b>0</b>
       <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
       <b>0</b> <code>(0%)</code><br />
@@ -9952,7 +9952,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>314</b></td>
+    <td><b>315</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9964,7 +9964,7 @@
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>439</b></td>
+    <td><b>446</b></td>
   </tr>
 </table>
 
@@ -9977,7 +9977,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>7055</b> <code>(rate -44)</code></td>
+    <td align="center"><b>7145</b> <code>(rate -43)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9998,10 +9998,10 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>3190</b> <code>(45%)</code><br />Forgotten Hall:
-      <b>1080</b> <code>(15%)</code><br />Event: <b>1000</b> <code>(14%)</code
-      ><br />Other: <b>680</b> <code>(11%)</code><br />Simulated Universe:
-      <b>565</b> <code>(8%)</code><br />Mail: <b>510</b> <code>(7%)</code
+      Daily Activity: <b>3280</b> <code>(45%)</code><br />Forgotten Hall:
+      <b>1080</b> <code>(15%)</code><br />Event: <b>1000</b> <code>(13%)</code
+      ><br />Other: <b>680</b> <code>(13%)</code><br />Simulated Universe:
+      <b>565</b> <code>(7%)</code><br />Mail: <b>510</b> <code>(7%)</code
       ><br />Adventure Rewards: <b>30</b> <code>(0%)</code><br />
     </td>
   </tr>
@@ -10476,6 +10476,151 @@
   <img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20" />
 </h2>
 <details open>
+  <summary align="center">
+    <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+      height="18"
+    /><b> Trailblazer </b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+            height="20"
+          />
+          Trailblazer
+        </h3>
+      </th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/47e0d2dedc3197ef392fb50fbf693ed3.png"
+            height="20"
+          />
+          Moment of Victory
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/1b4f0307b18e257082db92561097ac59.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/47e0d2dedc3197ef392fb50fbf693ed3.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                height="18"
+              />
+              fire
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+80</code></td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center"><code>6</code></td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/1afa83a5fe1370e8110db0f054286aee.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Knight's Forgiving Casque<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9869947840823516ba8ab2dbf80b7158.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Knight's Silent Oath Ring<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f76361518c5e2b046569d21b03ea8e89.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Knight's Solemn Breastplate<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/748205ef0b17f925844ba36e22afe5b9.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Knight's Iron Boots of Order<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Planar</td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/2abb63de8518e23373fdef4ce32abf31.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Belobog's Fortress of Preservation<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/4d11c4c5dde899c2a0b295025c4db9c8.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Belobog's Iron Defense<br />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Moment of Victory</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+80</code></td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center"><code>1</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary align="center">
     <img
       src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
@@ -11657,10 +11802,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/47e0d2dedc3197ef392fb50fbf693ed3.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/0e237eadebce22921314804306b77223.png"
             height="20"
           />
-          Moment of Victory
+          Trend of the Universal Market
         </h3>
       </th>
     </tr>
@@ -11675,7 +11820,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/47e0d2dedc3197ef392fb50fbf693ed3.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/0e237eadebce22921314804306b77223.png"
           />
         </p>
       </td>
@@ -11713,28 +11858,28 @@
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+4</code><br />
               ⭐⭐⭐⭐⭐<br />
               Knight's Forgiving Casque<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9869947840823516ba8ab2dbf80b7158.png"
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               Knight's Silent Oath Ring<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f76361518c5e2b046569d21b03ea8e89.png"
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+8</code><br />
               ⭐⭐⭐⭐⭐<br />
               Knight's Solemn Breastplate<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/748205ef0b17f925844ba36e22afe5b9.png"
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               Knight's Iron Boots of Order<br />
             </td>
@@ -11747,7 +11892,7 @@
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               Belobog's Fortress of Preservation<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/4d11c4c5dde899c2a0b295025c4db9c8.png"
@@ -11765,15 +11910,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Moment of Victory</td>
+            <td align="center">Trend of the Universal Market</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+50</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -12489,101 +12634,6 @@
           <tr>
             <td>Superimpose</td>
             <td align="center"><code></code></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary align="center">
-    <img
-      src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
-      height="18"
-    /><b> Trailblazer </b>
-  </summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th align="center">
-        <h3>
-          <img
-            src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
-            height="20"
-          />
-          Trailblazer
-        </h3>
-      </th>
-      <th align="center">
-        <h3>
-          <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/522d108099ff15948f214185afb78b55.png"
-            height="20"
-          />
-          The Moles Welcome You
-        </h3>
-      </th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/a767a09d207b85f21ded824204439836.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/522d108099ff15948f214185afb78b55.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table align="center">
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
-                height="18"
-              />
-              physical
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+70</code></td>
-          </tr>
-          <tr>
-            <td>Eidolon</td>
-            <td align="center"><code>6</code></td>
-          </tr>
-          <tr>
-            <td>Relics</td>
-            <td align="center"></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table align="center">
-          <tr>
-            <td>Name</td>
-            <td align="center">The Moles Welcome You</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+60</code></td>
-          </tr>
-          <tr>
-            <td>Superimpose</td>
-            <td align="center"><code>4</code></td>
           </tr>
         </table>
       </td>
@@ -13612,10 +13662,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/0e237eadebce22921314804306b77223.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/522d108099ff15948f214185afb78b55.png"
             height="20"
           />
-          Trend of the Universal Market
+          The Moles Welcome You
         </h3>
       </th>
     </tr>
@@ -13630,7 +13680,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/0e237eadebce22921314804306b77223.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/522d108099ff15948f214185afb78b55.png"
           />
         </p>
       </td>
@@ -13670,15 +13720,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Trend of the Universal Market</td>
+            <td align="center">The Moles Welcome You</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+50</code></td>
+            <td align="center"><code>+60</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>2</code></td>
+            <td align="center"><code>4</code></td>
           </tr>
         </table>
       </td>
