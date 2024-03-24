@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Mar 24, 2024 22:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 25, 2024 03:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -116,22 +116,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>24</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>25</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Mora</b>
+      <b>3 x Hero's Wit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-03-24 04:08:27+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-03-25 04:07:15+08:00</b></td>
   </tr>
 </table>
 
@@ -777,26 +777,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      <b>Nahida</b> <code>(9)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
-        ,
-        height="18"
-      />
-      <b>Baizhu</b> <code>(9)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       <b>Zhongli</b> <code>(9)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Itto.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
       />
-      <b>Arataki Itto</b> <code>(6)</code><br />
+      <b>Baizhu</b> <code>(9)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      <b>Nahida</b> <code>(9)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
+        ,
+        height="18"
+      />
+      <b>Furina</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -9916,22 +9916,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>24</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>25</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6c600507c71c6eafa40ad3066c1c9601_4411785649112465062.png"
           ,
           height="80" /></a
       ><br />
-      <b>8000 x Credit</b>
+      <b>1 x Disposable Kinetic Arm</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-03-24 04:08:29+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-03-25 04:07:16+08:00</b></td>
   </tr>
 </table>
 
@@ -9974,7 +9974,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>7795</b> <code>(rate -38)</code></td>
+    <td align="center"><b>7815</b> <code>(rate -38)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9995,7 +9995,7 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>3430</b> <code>(44%)</code><br />Forgotten Hall:
+      Daily Activity: <b>3450</b> <code>(44%)</code><br />Forgotten Hall:
       <b>1200</b> <code>(15%)</code><br />Event: <b>1000</b> <code>(12%)</code
       ><br />Other: <b>680</b> <code>(11%)</code><br />Simulated Universe:
       <b>565</b> <code>(7%)</code><br />Mail: <b>510</b> <code>(6%)</code
