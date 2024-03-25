@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Mar 25, 2024 22:09 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 26, 2024 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -116,22 +116,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>25</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>26</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+          src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Hero's Wit</b>
+      <b>3 x Almond Tofu</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-03-25 04:07:15+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-03-26 04:08:35+08:00</b></td>
   </tr>
 </table>
 
@@ -792,11 +792,11 @@
         height="18"
       />
       <b>Nahida</b> <code>(9)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Nilou.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
         ,
         height="18"
       />
-      <b>Nilou</b> <code>(6)</code><br />
+      <b>Furina</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -861,7 +861,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2355</b> <code>(rate 1)</code></td>
+    <td align="center"><b>2425</b> <code>(rate 4)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -872,16 +872,16 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1512667</b> <code>(rate 34)</code></td>
+    <td align="center"><b>1563569</b> <code>(rate 38)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>1020</b> <code>(44%)</code><br />Mail: <b>720</b>
-      <code>(30%)</code><br />Spiral Abyss: <b>450</b> <code>(19%)</code
-      ><br />Daily Activity: <b>160</b> <code>(6%)</code><br />Adventure:
+      Events: <b>1040</b> <code>(43%)</code><br />Mail: <b>720</b>
+      <code>(30%)</code><br />Spiral Abyss: <b>450</b> <code>(18%)</code
+      ><br />Daily Activity: <b>210</b> <code>(8%)</code><br />Adventure:
       <b>5</b> <code>(1%)</code><br />Quests: <b>0</b> <code>(0%)</code
       ><br />Other: <b>0</b> <code>(0%)</code><br />
     </td>
@@ -4368,7 +4368,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+5</code></td>
+            <td align="center"><code>+6</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -9916,22 +9916,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>25</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>26</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6c600507c71c6eafa40ad3066c1c9601_4411785649112465062.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/7cb0e487e051f177d3f41de8d4bbc521_1182531883532191221.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Disposable Kinetic Arm</b>
+      <b>2 x Refined Aether</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-03-25 04:07:16+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-03-26 04:08:38+08:00</b></td>
   </tr>
 </table>
 
