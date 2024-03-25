@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Mar 25, 2024 07:36 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 25, 2024 12:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -777,26 +777,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(9)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      <b>Nahida</b> <code>(9)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
       />
       <b>Baizhu</b> <code>(9)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Nilou.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      <b>Nilou</b> <code>(6)</code><br />
+      <b>Nahida</b> <code>(9)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(9)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Albedo.png"
+        ,
+        height="18"
+      />
+      <b>Albedo</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -9949,7 +9949,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>316</b></td>
+    <td><b>317</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9957,7 +9957,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>413</b></td>
+    <td><b>415</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -9974,7 +9974,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>7815</b> <code>(rate -38)</code></td>
+    <td align="center"><b>7905</b> <code>(rate -37)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9995,7 +9995,7 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>3450</b> <code>(44%)</code><br />Forgotten Hall:
+      Daily Activity: <b>3540</b> <code>(44%)</code><br />Forgotten Hall:
       <b>1200</b> <code>(15%)</code><br />Event: <b>1000</b> <code>(12%)</code
       ><br />Other: <b>680</b> <code>(11%)</code><br />Simulated Universe:
       <b>565</b> <code>(7%)</code><br />Mail: <b>510</b> <code>(6%)</code
@@ -10638,10 +10638,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/47e0d2dedc3197ef392fb50fbf693ed3.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/0e237eadebce22921314804306b77223.png"
             height="20"
           />
-          Moment of Victory
+          Trend of the Universal Market
         </h3>
       </th>
     </tr>
@@ -10656,7 +10656,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/47e0d2dedc3197ef392fb50fbf693ed3.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/0e237eadebce22921314804306b77223.png"
           />
         </p>
       </td>
@@ -10746,7 +10746,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Moment of Victory</td>
+            <td align="center">Trend of the Universal Market</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -10754,7 +10754,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -11943,10 +11943,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/0e237eadebce22921314804306b77223.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/47e0d2dedc3197ef392fb50fbf693ed3.png"
             height="20"
           />
-          Trend of the Universal Market
+          Moment of Victory
         </h3>
       </th>
     </tr>
@@ -11961,7 +11961,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/0e237eadebce22921314804306b77223.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/47e0d2dedc3197ef392fb50fbf693ed3.png"
           />
         </p>
       </td>
@@ -12001,15 +12001,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Trend of the Universal Market</td>
+            <td align="center">Moment of Victory</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+50</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -13420,34 +13420,27 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/89465bcae921b87d8c3970b699a3c556.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9516742e778bf81f4c8d589c9e2d2d54.png"
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Hunter's Artaius Hood<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/675710d3e8baf9be9c5fde374e861276.png"
+              Guard's Cast Iron Helmet<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/8d9327d27ed0520690f7581f487ba9f0.png"
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Hunter's Lizard Gloves<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/3926447d94abf19d404bf3fa53d9ae34.png"
+              Guard's Shining Gauntlets<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9a237e7c5f16f6d2412e379492436f31.png"
                 ,
                 height="25"
               />
-              <code>+13</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Hunter's Ice Dragon Cloak<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/84ead51ff1a4af088aeb0133d2a760fb.png"
-                ,
-                height="25"
-              />
-              <code>+13</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Hunter's Soft Elkskin Boots<br />
+              Guard's Silver Greaves<br />
             </td>
           </tr>
           <tr>
@@ -13460,14 +13453,7 @@
               />
               <code>+14</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Insumousu's Whalefall Ship<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/066cda412647a59de80014acaef72da8.png"
-                ,
-                height="25"
-              />
-              <code>+12</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Insumousu's Frayed Hawser<br />
+              Insumousu's Whalefall Ship<br />
             </td>
           </tr>
         </table>
