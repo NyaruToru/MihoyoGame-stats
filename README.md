@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Mar 25, 2024 12:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 25, 2024 17:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -777,26 +777,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
-        ,
-        height="18"
-      />
-      <b>Baizhu</b> <code>(9)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      <b>Nahida</b> <code>(9)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       <b>Zhongli</b> <code>(9)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Albedo.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      <b>Albedo</b> <code>(6)</code><br />
+      <b>Nahida</b> <code>(9)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
+        ,
+        height="18"
+      />
+      <b>Baizhu</b> <code>(9)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
+        ,
+        height="18"
+      />
+      <b>Furina</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -9957,11 +9957,11 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>415</b></td>
+    <td><b>416</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>458</b></td>
+    <td><b>472</b></td>
   </tr>
 </table>
 
@@ -9974,7 +9974,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>7905</b> <code>(rate -37)</code></td>
+    <td align="center"><b>8320</b> <code>(rate -34)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9984,7 +9984,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>20</b> <code>(rate -57)</code></td>
+    <td align="center"><b>21</b> <code>(rate -55)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9995,11 +9995,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>3540</b> <code>(44%)</code><br />Forgotten Hall:
-      <b>1200</b> <code>(15%)</code><br />Event: <b>1000</b> <code>(12%)</code
-      ><br />Other: <b>680</b> <code>(11%)</code><br />Simulated Universe:
-      <b>565</b> <code>(7%)</code><br />Mail: <b>510</b> <code>(6%)</code
-      ><br />Adventure Rewards: <b>410</b> <code>(5%)</code><br />
+      Daily Activity: <b>3600</b> <code>(43%)</code><br />Forgotten Hall:
+      <b>1200</b> <code>(14%)</code><br />Event: <b>1000</b> <code>(12%)</code
+      ><br />Other: <b>680</b> <code>(10%)</code><br />Simulated Universe:
+      <b>790</b> <code>(9%)</code><br />Adventure Rewards: <b>540</b>
+      <code>(6%)</code><br />Mail: <b>510</b> <code>(6%)</code><br />
     </td>
   </tr>
 </table>
