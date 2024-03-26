@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Mar 26, 2024 07:34 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 26, 2024 12:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -777,6 +777,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      <b>Nahida</b> <code>(9)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
@@ -787,11 +792,6 @@
         height="18"
       />
       <b>Zhongli</b> <code>(9)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      <b>Nahida</b> <code>(9)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Nilou.png"
         ,
         height="18"
@@ -9949,7 +9949,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>317</b></td>
+    <td><b>318</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9957,11 +9957,11 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>416</b></td>
+    <td><b>417</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>472</b></td>
+    <td><b>473</b></td>
   </tr>
 </table>
 
@@ -9974,7 +9974,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>8445</b> <code>(rate -33)</code></td>
+    <td align="center"><b>8535</b> <code>(rate -32)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9995,11 +9995,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>3600</b> <code>(42%)</code><br />Forgotten Hall:
+      Daily Activity: <b>3690</b> <code>(43%)</code><br />Forgotten Hall:
       <b>1200</b> <code>(14%)</code><br />Event: <b>1000</b> <code>(11%)</code
       ><br />Other: <b>680</b> <code>(11%)</code><br />Simulated Universe:
       <b>790</b> <code>(9%)</code><br />Adventure Rewards: <b>665</b>
-      <code>(7%)</code><br />Mail: <b>510</b> <code>(6%)</code><br />
+      <code>(7%)</code><br />Mail: <b>510</b> <code>(5%)</code><br />
     </td>
   </tr>
 </table>
@@ -10690,13 +10690,13 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/1afa83a5fe1370e8110db0f054286aee.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/cfccac4208d132b5e86e7acb8a77f40d.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Knight's Forgiving Casque<br /><img
+              Messenger's Holovisor<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9869947840823516ba8ab2dbf80b7158.png"
                 ,
                 height="25"
@@ -10708,16 +10708,16 @@
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+12</code><br />
               ⭐⭐⭐⭐⭐<br />
               Knight's Solemn Breastplate<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/748205ef0b17f925844ba36e22afe5b9.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/8ef4f5755205e704764ae593db15afe3.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Knight's Iron Boots of Order<br />
+              Messenger's Par-kool Sneakers<br />
             </td>
           </tr>
           <tr>
@@ -12256,13 +12256,13 @@
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Messenger's Secret Satchel<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/8ef4f5755205e704764ae593db15afe3.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/748205ef0b17f925844ba36e22afe5b9.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Messenger's Par-kool Sneakers<br />
+              Knight's Iron Boots of Order<br />
             </td>
           </tr>
           <tr>
@@ -13434,6 +13434,13 @@
               <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               Guard's Shining Gauntlets<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/a573c172d153e29bb241999a8b6c1af0.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Guard's Uniform of Old<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9a237e7c5f16f6d2412e379492436f31.png"
                 ,
                 height="25"
@@ -13453,7 +13460,14 @@
               />
               <code>+14</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Insumousu's Whalefall Ship<br />
+              Insumousu's Whalefall Ship<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/066cda412647a59de80014acaef72da8.png"
+                ,
+                height="25"
+              />
+              <code>+12</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Insumousu's Frayed Hawser<br />
             </td>
           </tr>
         </table>
