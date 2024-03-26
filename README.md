@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Mar 26, 2024 03:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 26, 2024 07:34 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -777,26 +777,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(9)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
       />
       <b>Baizhu</b> <code>(9)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(9)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
       <b>Nahida</b> <code>(9)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Nilou.png"
         ,
         height="18"
       />
-      <b>Furina</b> <code>(6)</code><br />
+      <b>Nilou</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
