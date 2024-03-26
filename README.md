@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Mar 26, 2024 12:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 26, 2024 17:09 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -777,26 +777,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      <b>Nahida</b> <code>(9)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
-        ,
-        height="18"
-      />
-      <b>Baizhu</b> <code>(9)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       <b>Zhongli</b> <code>(9)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Nilou.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
       />
-      <b>Nilou</b> <code>(6)</code><br />
+      <b>Baizhu</b> <code>(9)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      <b>Nahida</b> <code>(9)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Gorou.png"
+        ,
+        height="18"
+      />
+      <b>Gorou</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -9880,7 +9880,7 @@
 <p align="center">
   <a href=""
     ><img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Beautiful.'s+Honkai:+Star+Rail+Stats"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Babe's+Honkai:+Star+Rail+Stats"
       alt="Typing SVG"
   /></a>
 </p>
@@ -9900,8 +9900,8 @@
       <img src="./images/logo/hsr-logo.png" , width="80" , alt="Goddess" />
     </th>
     <td colspan="2" align="center">
-      <img src="./images/logo/hsr-level.webp" , height="18" />
-      <b>Beautiful.</b> <code>Lv. 70</code>
+      <img src="./images/logo/hsr-level.webp" , height="18" /> <b>Babe</b>
+      <code>Lv. 70</code>
     </td>
   </tr>
   <tr>
@@ -9974,7 +9974,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>8535</b> <code>(rate -32)</code></td>
+    <td align="center"><b>8680</b> <code>(rate -31)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9995,11 +9995,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>3690</b> <code>(43%)</code><br />Forgotten Hall:
-      <b>1200</b> <code>(14%)</code><br />Event: <b>1000</b> <code>(11%)</code
+      Daily Activity: <b>3750</b> <code>(43%)</code><br />Forgotten Hall:
+      <b>1200</b> <code>(13%)</code><br />Event: <b>1000</b> <code>(11%)</code
       ><br />Other: <b>680</b> <code>(11%)</code><br />Simulated Universe:
-      <b>790</b> <code>(9%)</code><br />Adventure Rewards: <b>665</b>
-      <code>(7%)</code><br />Mail: <b>510</b> <code>(5%)</code><br />
+      <b>790</b> <code>(9%)</code><br />Adventure Rewards: <b>750</b>
+      <code>(8%)</code><br />Mail: <b>510</b> <code>(5%)</code><br />
     </td>
   </tr>
 </table>
@@ -10708,7 +10708,7 @@
                 ,
                 height="25"
               />
-              <code>+12</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Knight's Solemn Breastplate<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/8ef4f5755205e704764ae593db15afe3.png"
@@ -10783,10 +10783,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/465db340ef2f6fe328ef8c9696e568af.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/015d777e19ba399c34b6cc247b0bcd9a.png"
             height="20"
           />
-          Eyes of the Prey
+          We Will Meet Again
         </h3>
       </th>
     </tr>
@@ -10801,7 +10801,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/465db340ef2f6fe328ef8c9696e568af.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/015d777e19ba399c34b6cc247b0bcd9a.png"
           />
         </p>
       </td>
@@ -10891,15 +10891,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Eyes of the Prey</td>
+            <td align="center">We Will Meet Again</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>4</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -13368,10 +13368,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/904bfc7be4637007b238c7e8cf5fd79d.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/465db340ef2f6fe328ef8c9696e568af.png"
             height="20"
           />
-          Fermata
+          Eyes of the Prey
         </h3>
       </th>
     </tr>
@@ -13386,7 +13386,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/904bfc7be4637007b238c7e8cf5fd79d.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/465db340ef2f6fe328ef8c9696e568af.png"
           />
         </p>
       </td>
@@ -13425,13 +13425,13 @@
                 height="25"
               />
               <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
+              ⭐⭐⭐⭐<br />
               Guard's Cast Iron Helmet<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/8d9327d27ed0520690f7581f487ba9f0.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+6</code><br />
               ⭐⭐⭐⭐⭐<br />
               Guard's Shining Gauntlets<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/a573c172d153e29bb241999a8b6c1af0.png"
@@ -13476,15 +13476,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Fermata</td>
+            <td align="center">Eyes of the Prey</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+1</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>4</code></td>
           </tr>
         </table>
       </td>
