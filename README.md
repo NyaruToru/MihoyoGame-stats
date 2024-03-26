@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Mar 26, 2024 17:09 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 26, 2024 22:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -777,6 +777,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      <b>Nahida</b> <code>(9)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
@@ -787,16 +792,11 @@
         height="18"
       />
       <b>Baizhu</b> <code>(9)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Itto.png"
         ,
         height="18"
       />
-      <b>Nahida</b> <code>(9)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Gorou.png"
-        ,
-        height="18"
-      />
-      <b>Gorou</b> <code>(6)</code><br />
+      <b>Arataki Itto</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -9957,7 +9957,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>417</b></td>
+    <td><b>418</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
