@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Mar 27, 2024 17:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 27, 2024 22:09 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -782,21 +782,21 @@
         height="18"
       />
       <b>Nahida</b> <code>(9)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
-        ,
-        height="18"
-      />
-      <b>Baizhu</b> <code>(9)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       <b>Zhongli</b> <code>(9)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Gorou.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
       />
-      <b>Gorou</b> <code>(6)</code><br />
+      <b>Baizhu</b> <code>(9)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Albedo.png"
+        ,
+        height="18"
+      />
+      <b>Albedo</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
