@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Mar 27, 2024 12:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 27, 2024 17:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -777,26 +777,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
-        ,
-        height="18"
-      />
-      <b>Baizhu</b> <code>(9)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
       <b>Nahida</b> <code>(9)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
+        ,
+        height="18"
+      />
+      <b>Baizhu</b> <code>(9)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       <b>Zhongli</b> <code>(9)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Gorou.png"
         ,
         height="18"
       />
-      <b>Furina</b> <code>(6)</code><br />
+      <b>Gorou</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -9974,7 +9974,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>9865</b> <code>(rate -22)</code></td>
+    <td align="center"><b>10045</b> <code>(rate -21)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9995,10 +9995,10 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>3900</b> <code>(39%)</code><br />Forgotten Hall:
-      <b>1200</b> <code>(12%)</code><br />Simulated Universe: <b>1090</b>
-      <code>(11%)</code><br />Mail: <b>1110</b> <code>(11%)</code><br />Event:
-      <b>1040</b> <code>(10%)</code><br />Other: <b>680</b> <code>(9%)</code
+      Daily Activity: <b>3900</b> <code>(38%)</code><br />Event: <b>1220</b>
+      <code>(12%)</code><br />Forgotten Hall: <b>1200</b> <code>(11%)</code
+      ><br />Mail: <b>1110</b> <code>(11%)</code><br />Simulated Universe:
+      <b>1090</b> <code>(10%)</code><br />Other: <b>680</b> <code>(10%)</code
       ><br />Adventure Rewards: <b>845</b> <code>(8%)</code><br />
     </td>
   </tr>
