@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Mar 27, 2024 22:09 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 28, 2024 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -116,22 +116,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>27</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>28</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventurer's Experience</b>
+      <b>3 x Hero's Wit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-03-27 04:08:21+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-03-28 04:08:48+08:00</b></td>
   </tr>
 </table>
 
@@ -777,11 +777,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      <b>Nahida</b> <code>(9)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
@@ -792,11 +787,16 @@
         height="18"
       />
       <b>Baizhu</b> <code>(9)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Albedo.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      <b>Albedo</b> <code>(6)</code><br />
+      <b>Nahida</b> <code>(9)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
+        ,
+        height="18"
+      />
+      <b>Furina</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -9916,22 +9916,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>27</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>28</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/40c4661295cacb4f584fd7787375d7ac_9144584527481294308.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/508229a94e4fa459651f64c1cd02687a_2622619536733353535.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Lost Crystal</b>
+      <b>3 x Traveler's Guide</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-03-27 04:08:23+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-03-28 04:08:50+08:00</b></td>
   </tr>
 </table>
 
@@ -9974,7 +9974,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>10045</b> <code>(rate -21)</code></td>
+    <td align="center"><b>10095</b> <code>(rate -20)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9997,7 +9997,7 @@
     <td>
       Daily Activity: <b>3900</b> <code>(38%)</code><br />Event: <b>1220</b>
       <code>(12%)</code><br />Forgotten Hall: <b>1200</b> <code>(11%)</code
-      ><br />Mail: <b>1110</b> <code>(11%)</code><br />Simulated Universe:
+      ><br />Mail: <b>1160</b> <code>(11%)</code><br />Simulated Universe:
       <b>1090</b> <code>(10%)</code><br />Other: <b>680</b> <code>(10%)</code
       ><br />Adventure Rewards: <b>845</b> <code>(8%)</code><br />
     </td>
