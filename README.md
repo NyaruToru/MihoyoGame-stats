@@ -57,7 +57,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Mar 28, 2024 07:34 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 28, 2024 12:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -777,26 +777,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(9)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
       <b>Nahida</b> <code>(9)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(9)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
       />
       <b>Baizhu</b> <code>(9)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Itto.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Gorou.png"
         ,
         height="18"
       />
-      <b>Arataki Itto</b> <code>(6)</code><br />
+      <b>Gorou</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -9949,7 +9949,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>319</b></td>
+    <td><b>320</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9961,7 +9961,7 @@
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>473</b></td>
+    <td><b>474</b></td>
   </tr>
 </table>
 
@@ -9974,7 +9974,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>10095</b> <code>(rate -20)</code></td>
+    <td align="center"><b>10335</b> <code>(rate -18)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9984,7 +9984,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>26</b> <code>(rate -44)</code></td>
+    <td align="center"><b>28</b> <code>(rate -40)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9995,11 +9995,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>3900</b> <code>(38%)</code><br />Event: <b>1220</b>
+      Daily Activity: <b>4050</b> <code>(39%)</code><br />Event: <b>1280</b>
       <code>(12%)</code><br />Forgotten Hall: <b>1200</b> <code>(11%)</code
       ><br />Mail: <b>1160</b> <code>(11%)</code><br />Simulated Universe:
-      <b>1090</b> <code>(10%)</code><br />Other: <b>680</b> <code>(10%)</code
-      ><br />Adventure Rewards: <b>845</b> <code>(8%)</code><br />
+      <b>1090</b> <code>(10%)</code><br />Other: <b>680</b> <code>(9%)</code
+      ><br />Adventure Rewards: <b>875</b> <code>(8%)</code><br />
     </td>
   </tr>
 </table>
@@ -10783,10 +10783,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uc0cob/3ac2c2b3681295e5836f4af91c8737a6.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uc0cob/4722102a82f4e16496bfca30f30a4eb4.png"
             height="20"
           />
-          We Will Meet Again
+          Eyes of the Prey
         </h3>
       </th>
     </tr>
@@ -10801,7 +10801,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uc0cob/3ac2c2b3681295e5836f4af91c8737a6.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uc0cob/4722102a82f4e16496bfca30f30a4eb4.png"
           />
         </p>
       </td>
@@ -10891,15 +10891,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">We Will Meet Again</td>
+            <td align="center">Eyes of the Prey</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+1</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>4</code></td>
           </tr>
         </table>
       </td>
@@ -13368,10 +13368,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uc0cob/4722102a82f4e16496bfca30f30a4eb4.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uc0cob/3ac2c2b3681295e5836f4af91c8737a6.png"
             height="20"
           />
-          Eyes of the Prey
+          We Will Meet Again
         </h3>
       </th>
     </tr>
@@ -13386,7 +13386,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uc0cob/4722102a82f4e16496bfca30f30a4eb4.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uc0cob/3ac2c2b3681295e5836f4af91c8737a6.png"
           />
         </p>
       </td>
@@ -13476,15 +13476,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Eyes of the Prey</td>
+            <td align="center">We Will Meet Again</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>4</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -15111,7 +15111,7 @@
                 ,
                 height="25"
               />
-              <code>+12</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Pioneer's Starfaring Anchor<br />
             </td>
@@ -15120,20 +15120,20 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uc0cob/83d74d830358f6fd2be804a52a46b289.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uc0cob/ba3ab274add35ad59c1bf04c1ea000f8.png"
+                ,
+                height="25"
+              />
+              <code>+3</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Izumo's Magatsu no Morokami<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uc0cob/c2bb167b23c7bedc843b3548d3805b66.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Taikiyan Laser Stadium<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uc0cob/846cd6fa74006333c6acd6604f6ccb17.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Taikiyan's Arclight Race Track<br />
+              ⭐⭐⭐⭐<br />
+              Izumo's Blades of Origin and End<br />
             </td>
           </tr>
         </table>
